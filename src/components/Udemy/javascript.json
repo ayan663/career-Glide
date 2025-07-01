@@ -1,0 +1,804 @@
+[
+ 
+      {
+        "links": "https://www.udemy.com/course/the-complete-javascript-course/",
+        "duration": "71 hours",
+        "platform": "Udemy",
+        "instructor": "Jonas Schmedtmann",
+        "course_name": "The Complete JavaScript Course 2025: From Zero to Expert!",
+        "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!"
+      },
+      {
+        "links": "https://www.udemy.com/course/beginning-javascript/?srsltid=AfmBOookH55JlgyjfCSdjiEFz8yZUlyAHIfctwzzovmgNzHmH-kPpmWY",
+        "duration": "7.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "SkillSprints Inc.",
+        "course_name": "Javascript for Beginners",
+        "description": "Learn javascript online and supercharge your web design with this Javascript for beginners training course."
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-training/?srsltid=AfmBOoq0Hz0FpNwUiWLhLOVdg4VXT40rw0m6XbjcxhFmTxGS_8MEbte2",
+        "duration": "36 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Codestars, Laurence Svekis, Rob Percival",
+        "course_name": "The Complete JavaScript Course - Beginner to Professional",
+        "description": "The only course you need to become a JavaScript developer - 45 JavaScript projects, ES6, JSON, AJAX & much more!"
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/",
+        "duration": "52.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller",
+        "course_name": "JavaScript - The Complete Guide 2025 (Beginner + Advanced)",
+        "description": "Modern JavaScript from the beginning - all the way up to JS expert level! THE must-have JavaScript resource in 2025."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-javascript-course/?srsltid=AfmBOorYhVHcf0mfjPa90lTLaVlpbbZ_zN27gSFXMPxNeMVLCi9Qhh8J",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Jonas Schmedtmann",
+        "course_name": "The Complete JavaScript Course 2025: From Zero to Expert!",
+        "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-javascript-course/?srsltid=AfmBOopWrDztVdKzBz-BWm9DoKeGRg98lV1uoMjrExHR8L8W0_akJFzf",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Jonas Schmedtmann",
+        "course_name": "The Complete JavaScript Course 2025: From Zero to Expert!",
+        "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-javascript-course/?srsltid=AfmBOooYhSMi2qetkl0LDL22jm_Vn0RYwh422ER3TCzPbmI_I14Vo9aa",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Jonas Schmedtmann",
+        "course_name": "The Complete JavaScript Course 2025: From Zero to Expert!",
+        "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-javascript-course/?srsltid=AfmBOorrmBPOerGNlqK5VJymnoT8iQBdRhQJrVag3zAO1nF639osKc5e",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Jonas Schmedtmann",
+        "course_name": "The Complete JavaScript Course 2025: From Zero to Expert!",
+        "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-javascript-course/?srsltid=AfmBOopmLM6RoY47-zaW92FFowIA2Teu8q0PVmwstna5K9AGN-v09nQr",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Jonas Schmedtmann",
+        "course_name": "The Complete JavaScript Course 2025: From Zero to Expert!",
+        "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-creative-javascript-course/?srsltid=AfmBOorE3y5ywIQTfR5nWkbOhGjI-_9kMHQgP8g5ntUn6BSOjbDHIdGx",
+        "duration": "Up to 30 hours of javascript content",
+        "platform": "Udemy",
+        "instructor": "Dev Ed, Maxine Tillman",
+        "course_name": "The Creative JavaScript Course",
+        "description": "From Beginner JavaScript To Building Awesome Web Apps and Websites!"
+      },
+      {
+        "links": "https://www.udemy.com/course/professional-javascript-course/?srsltid=AfmBOoqU-U0FzZBqEiRVV7StVKBeXG029Ople0FfgwVcslTaw9IqRnNs",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "ByteGrad by Wesley",
+        "course_name": "Professional JavaScript (Beginner to Advanced!)",
+        "description": "This is the #1 resource to master modern JavaScript! Learn modern ES6+ JavaScript by building real, beautiful projects."
+      },
+      {
+        "links": "https://www.udemy.com/course/200-exercises-javascript-best-practises/?srsltid=AfmBOopovDpXF4OBscwQdQ10-aCM1P_oWMNAC605q0wF7WXC0yCLpZK-",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Tomasz Krakowiak",
+        "course_name": "200+ Exercises - JavaScript - Best Practices",
+        "description": "The 200+ Exercises - JavaScript - Best Practices course is an intensive training program that focuses on improving your JavaScript programming skills through hands-on exercises. Designed around a wide range of topics, the course allows you to develop knowledge and gain experience in many key areas of programming."
+      },
+      {
+        "links": "https://www.udemy.com/course/build-websites-html-css-sass-javascript/?srsltid=AfmBOopE6fvykWq7TmrzBoo-dVhzTZgwhjNnnJpaTrj277P0Q-qtfzUi",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Juan E. Galvan, Nahid Akhter",
+        "course_name": "Learn How To Build Amazing Websites w/ HTML, CSS and Sass",
+        "description": "Learn how to build professional websites & become a front-end developer! [Includes 2 Web Projects, Flexbox, Grid, & SEO]"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-javascript-web-development-process-code-snippets-dom/?srsltid=AfmBOop0pJDeU_opn6NtqO0lngB40Rurdjk9s_TNkCwYMfKBS1-WUGrl",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Laurence Svekis",
+        "course_name": "JavaScript projects Welcome to the DOM Useful Code Snippets",
+        "description": "Learn JavaScript for Beginners interactive web accessing the DOM Document Object Model. We will be adding more projects on a regular basis, this course is designed to have lifetime access to regular JavaScript projects. Learn JavaScript with our Step by Step training, we show you how to build projects from Scratch. Learn at your own pace resources are included, source code and everything you need to practice and learn JavaScript. We show you useful examples of JavaScript Code snippets and explain the development process."
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-javascript-web-development-process-code-snippets-dom/?srsltid=AfmBOop05vGzfctxt_ZgAq-tAGtBrDmF5dmW0xsFgL8sQ_YUDucQaTdx",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Laurence Svekis",
+        "course_name": "JavaScript projects Welcome to the DOM Useful Code Snippets",
+        "description": "Learn JavaScript for Beginners interactive web accessing the DOM Document Object Model. We will be adding more projects on a regular basis, this course is designed to have lifetime access to regular JavaScript projects. Learn JavaScript with our Step by Step training, we show you how to build projects from Scratch. Learn at your own pace resources are included, source code and everything you need to practice and learn JavaScript. We show you useful examples of JavaScript Code snippets and explain the development process."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-javascript-course/?srsltid=AfmBOopiakzvui1dd5P2DNbrn04sMc3eyG5haIaUSFwKLrE4nNggb_SE",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Jonas Schmedtmann",
+        "course_name": "The Complete JavaScript Course 2025: From Zero to Expert!",
+        "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-javascript-course/?srsltid=AfmBOoqXo8hZ3wXgTziaO1XxOajQGa0UZM103f0KKK80mO8Ks0J1WiHF",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Jonas Schmedtmann",
+        "course_name": "The Complete JavaScript Course 2025: From Zero to Expert!",
+        "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-javascript-full-stack-from-scratch/",
+        "duration": "28.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Brad Schiff",
+        "course_name": "Learn JavaScript: Full-Stack from Scratch",
+        "description": "Understand the JavaScript language itself, Node.js, MongoDB, The Web Browser and More To Create Meaningful Applications"
+      },
+      {
+        "links": "https://www.udemy.com/course/complete-javascript-jquery-and-react-bootcamp-hands-on/",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "YouAccel Training",
+        "course_name": "Complete JavaScript, jQuery and React Bootcamp - Hands-On",
+        "description": "Learn to Harness the Power of JavaScript, jQuery and React to Build Stunning Front-End User Interfaces."
+      },
+      {
+        "links": "https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/?srsltid=AfmBOopTT1laQaolUF6aQST8DAbcW8fSGEHxJqN0_DCgxPq4prWtd7zW",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Brad Schiff",
+        "course_name": "Become a WordPress Developer: Unlocking Power With Code",
+        "description": "Learn PHP, JavaScript, WordPress theming & the WP REST API to Create Custom & Interactive WordPress Websites"
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-and-php-and-python-programming-complete-course/?srsltid=AfmBOoq3UzcdV_ccgO7VWFuEWfaXwTuODzwFy_TCKdn9OWsBx-yHsmHy",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "PROPER DOT INSTITUTE",
+        "course_name": "JavaScript And PHP And Python Programming Complete Course",
+        "description": "Learn JavaScript And PHP And Python Programming language In One JavaScript And PHP And Python Complete Course"
+      },
+      {
+        "links": "https://www.udemy.com/course/machine-learning-with-javascript/?srsltid=AfmBOorp6Z2dq_SEUyq_csQFJJGqrB4YWHDXEHbA9yKha62hDDDZHHXB",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Stephen Grider",
+        "course_name": "Machine Learning with Javascript",
+        "description": "Master Machine Learning from scratch using Javascript and TensorflowJS with hands-on projects."
+      },
+      {
+        "links": "https://www.udemy.com/course/build-11-javascript-application-and-web-javascript-bootcamp/?srsltid=AfmBOorcwFoQg-N32rjlofdmjlmL8uHgcqdaMcwe3M2TBzZC2yG_4XSp",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Learnify IT",
+        "course_name": "Build 11 JavaScript Application and Web JavaScript BootCamp",
+        "description": "Master JavaScript Web Development by Building 11 Real-World Applications! This comprehensive bootcamp is your gateway to becoming a proficient web developer. In this course, you'll dive deep into JavaScript by building 11 diverse and engaging web applications from scratch."
+      },
+      {
+        "links": "https://www.udemy.com/course/become-a-wordpress-developer-php-javascript/",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Brad Schiff",
+        "course_name": "Become a WordPress Developer: Unlocking Power With Code",
+        "description": "Learn PHP, JavaScript, WordPress theming & the WP REST API to Create Custom & Interactive WordPress Websites"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-javascript-course/",
+        "duration": "71 total hours",
+        "platform": "Udemy",
+        "instructor": "Jonas Schmedtmann",
+        "course_name": "The Complete JavaScript Course 2025: From Zero to Expert!",
+        "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-web-developer-course-2/",
+        "duration": "31 total hours",
+        "platform": "Udemy",
+        "instructor": "Rob Percival, Codestars",
+        "course_name": "The Complete Web Developer Course 3.0",
+        "description": "Learn Web Development in 2024! Build apps, website, projects using HTML, CSS, Javascript, PHP, Python, MySQL & more!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-web-developer-bootcamp/",
+        "duration": "74 total hours",
+        "platform": "Udemy",
+        "instructor": "Colt Steele",
+        "course_name": "The Web Developer Bootcamp 2025",
+        "description": "With 10 Hours of React added. Become a Developer With ONE course - HTML, CSS, JavaScript, React, Node, MongoDB and More!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+        "duration": "61.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Dr. Angela Yu",
+        "course_name": "The Complete Full-Stack Web Development Bootcamp",
+        "description": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps"
+      },
+      {
+        "links": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/",
+        "duration": "71.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller",
+        "course_name": "React - The Complete Guide 2025 (incl. Next.js, Redux)",
+        "description": "Dive in and learn React.js from scratch! Learn React, Hooks, Redux, React Router, Next.js, Best Practices and way more!"
+      },
+      {
+        "links": "https://www.udemy.com/course/css-bootstrap-javascript-web-development-course/",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "PROPER DOT INSTITUTE",
+        "course_name": "CSS, Bootstrap ,JavaScript, Web Development Course",
+        "description": "Learn Web Development Complete Course, CSS, Bootstrap And JavaScript complete Web development Stack course 2022"
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-for-beginners-the-complete-introduction-to-js/",
+        "duration": "4 total hours",
+        "platform": "Udemy",
+        "instructor": "Yassin Marco MBA",
+        "course_name": "JavaScript for Beginners - The Complete introduction to JS",
+        "description": "Learn all the Basics of JavaScript and create various basic JavaScript programs and applications"
+      },
+      {
+        "links": "https://www.udemy.com/course/understand-javascript/",
+        "duration": "12.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Anthony Alicea",
+        "course_name": "JavaScript: Understanding the Weird Parts",
+        "description": "An advanced JavaScript course for everyone! Scope, closures, prototypes, 'this', build your own framework, and more."
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-for-beginners-complete-course/",
+        "duration": "2 total hours",
+        "platform": "Udemy",
+        "instructor": "PROPER DOT INSTITUTE",
+        "course_name": "Javascript For Beginners Complete Course",
+        "description": "Learn Javascript Programming Language With Practical Interaction"
+      },
+      {
+        "links": "https://www.udemy.com/course/modern-javascript-from-the-beginning/",
+        "duration": "36.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Brad Traversy",
+        "course_name": "Modern JavaScript From The Beginning 2.0 (2024)",
+        "description": "A 36-hour master course to take you from beginner to advanced JavaScript"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-javascript-programming-in-7-days/",
+        "duration": "9.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Faisal Zamir, Jafri Code",
+        "course_name": "Complete JS Bootcamp | JavaScript Programming in 7 DAYS",
+        "description": "Learn JavaScritp for Web Development | Foundation for React"
+      },
+      {
+        "links": "https://www.udemy.com/course/50-projects-50-days/",
+        "duration": "19 total hours",
+        "platform": "Udemy",
+        "instructor": "Brad Traversy, Florin Pop",
+        "course_name": "50 Projects In 50 Days - HTML, CSS & JavaScript",
+        "description": "Sharpen your skills by building 50+ quick, unique and fun mini projects"
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-beginners-complete-tutorial/",
+        "duration": "52 total hours",
+        "platform": "Udemy",
+        "instructor": "Colt Steele, Stephen Grider",
+        "course_name": "The Modern Javascript Bootcamp Course",
+        "description": "The most up-to-date JS resource online! Master Javascript by building a beautiful portfolio of projects!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-javascript-course/?srsltid=AfmBOooWQFhcDJT4fbEKd9ylroeccXBk9Vmr0jJBME6Tv_cgxA6aw9J3",
+        "duration": "71 hours",
+        "platform": "Udemy",
+        "instructor": "Jonas Schmedtmann",
+        "course_name": "The Complete JavaScript Course 2025: From Zero to Expert!",
+        "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!"
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/",
+        "duration": "52 hours",
+        "platform": "Udemy",
+        "instructor": "Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller",
+        "course_name": "JavaScript - The Complete Guide 2025 (Beginner + Advanced)",
+        "description": "Modern JavaScript from the beginning - all the way up to JS expert level! THE must-have JavaScript resource in 2025."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-javascript-course/?srsltid=AfmBOoq1mADag0G4yRx8Jtp3eqLYPiK6sW8vD-thmUQorKEvx7-k2dxB",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Jonas Schmedtmann",
+        "course_name": "The Complete JavaScript Course 2025: From Zero to Expert!",
+        "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-creative-javascript-course/",
+        "duration": "Up to 30 hours of javascript content",
+        "platform": "Udemy",
+        "instructor": "Dev Ed, Maxine Tillman",
+        "course_name": "The Creative JavaScript Course",
+        "description": "From Beginner JavaScript To Building Awesome Web Apps and Websites!"
+      },
+      {
+        "links": "https://www.udemy.com/course/complete-javascript-jquery-and-react-bootcamp-hands-on/",
+        "duration": "Last updated 10/2022",
+        "platform": "Udemy",
+        "instructor": "YouAccel Training",
+        "course_name": "Complete JavaScript, jQuery and React Bootcamp - Hands-On",
+        "description": "Learn to Harness the Power of JavaScript, jQuery and React to Build Stunning Front-End User Interfaces."
+      },
+      {
+        "links": "https://www.udemy.com/course/build-11-javascript-application-and-web-javascript-bootcamp/?srsltid=AfmBOorcwFoQg-N32rjlofdmjlmL8uHgcqdaMcwe3M2TBzZC2yG_4XSp",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Learnify IT",
+        "course_name": "Build 11 JavaScript Application and Web JavaScript BootCamp",
+        "description": "Build 11 Powerful JavaScript Applications: A Complete Guide to Learning JavaScript Through Projects"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+        "duration": "61.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Dr. Angela Yu, Developer and Lead Instructor",
+        "course_name": "The Complete Full-Stack Web Development Bootcamp",
+        "description": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps"
+      },
+      {
+        "links": "https://www.udemy.com/course/html-css-and-javascript-projects-for-beginners/",
+        "duration": "18.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Software Engineer",
+        "course_name": "HTML CSS and JavaScript Projects For Beginners",
+        "description": "Want to improve your logic in HTML CSS and JS. I'm going to share with you HTML CSS and JavaScript Project For Beginners"
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-unit-testing-the-practical-guide/",
+        "duration": "5.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller",
+        "course_name": "JavaScript Unit Testing - The Practical Guide",
+        "description": "Learn how to write automated tests (unit & integration tests) for your JavaScript projects with Vitest & Jest."
+      },
+      {
+        "links": "https://www.udemy.com/course/essentials-in-javascript-es6/",
+        "duration": "2 total hours",
+        "platform": "Udemy",
+        "instructor": "David Joseph Katz",
+        "course_name": "Essentials in JavaScript ES6 - A Fun and Clear Introduction",
+        "description": "A creative and fun course on JavaScript ES6! Has Webpack, Babel, React, and all the new syntax you need to code in ES6!"
+      },
+      {
+        "links": "https://www.udemy.com/course/universidad-de-logica-de-programacion-python-java-javascript-c-pseint/?srsltid=AfmBOoqks-qUpViMgrX2oB2gRQzL8le4-S4XvIFwZdtipGQWwYenhjO_",
+        "duration": "+ 55 hrs",
+        "platform": "Udemy",
+        "instructor": "Global Mentoring Ing. Ubaldo Acosta, Ing. Marcela Gamiño",
+        "course_name": "Universidad de Lógica de Programación - Aprende 7 Lenguajes!",
+        "description": "Con más de 55 horas de video, en tu curso de Universidad de Fundamentos y Lógica de Programación, especial para principiantes, aprenderás los Fundamentos y la Lógica de Programación en 7 Lenguajes de Programación del Mundo Real, utilizando las herramientas más innovadoras al día de hoy (PSeInt). Además, veremos muchísimos ejercicios para que todo quede absolutamente claro."
+      },
+      {
+        "links": "https://www.udemy.com/course/html-javascript-bootstrap-certification-course/",
+        "duration": "6.5 total hours",
+        "platform": "Udemy",
+        "instructor": "YouAccel Training",
+        "course_name": "HTML, JavaScript, & Bootstrap - Certification Course",
+        "description": "A Comprehensive Guide for Beginners interested in learning HTML, JavaScript, & Bootstrap. Build Interactive Web Pages."
+      },
+      {
+        "links": "https://www.udemy.com/course/essential-javascript-shell-scripting-training-course/",
+        "duration": "3.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Wesley Hauser",
+        "course_name": "Essential JavaScript Shell Scripting Training Course",
+        "description": "This course is a concise, no-nonsense, and practical guide to JavaScript Shell Scripting."
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-es6-react-redux/",
+        "duration": "24.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Chao-Wei Peng",
+        "course_name": "JavaScript、React、Flask、MongoDB 網站全端開發：從入門到進階",
+        "description": "彭彭老師給具備 HTML、CSS、JavaScript、Python 基礎的網站前端、後端開發者：學習 JavaScript 最新技術，React 前端開發框架、Flask 後端開發框架，以及 MongoDB 資料庫。奠定未來十年競爭基礎。"
+      },
+      {
+        "links": "https://www.udemy.com/course/sfrdan-javascript-ogrenin-b/",
+        "duration": "3 total hours",
+        "platform": "Udemy",
+        "instructor": "Eren Cennetkuşu",
+        "course_name": "Sıfırdan Javascript Öğrenin",
+        "description": "Modern JavaScript ile Uygulamalı Web Geliştirme Eğitimi"
+      },
+      {
+        "links": "https://www.udemy.com/course/html-css-javascript-certification-course-for-beginners/",
+        "duration": "5.5 total hours",
+        "platform": "Udemy",
+        "instructor": "YouAccel Training",
+        "course_name": "HTML, CSS, & JavaScript - Certification Course for Beginners",
+        "description": "A Comprehensive Guide for Beginners interested in learning HTML, CSS, & JavaScript to Build Interactive Web Pages."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-web-developer-course-2/",
+        "duration": "31 total hours",
+        "platform": "Udemy",
+        "instructor": "Rob Percival, Codestars • over 2 million students worldwide!",
+        "course_name": "The Complete Web Developer Course 3.0",
+        "description": "Learn Web Development in 2024! Build apps, website, projects using HTML, CSS, Javascript, PHP, Python, MySQL & more!"
+      },
+      {
+        "links": "https://www.udemy.com/course/new-javascript-interview-questions-practice-tests/",
+        "duration": "1375 questions",
+        "platform": "Udemy",
+        "instructor": "FuturePrepSkills Academy",
+        "course_name": "JavaScript Developer Interview & 1300+ Practice Tests",
+        "description": "Master JavaScript From Basics to Advanced with Comprehensive Practice Questions Covering Best Practices and More"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-javascript-course/?srsltid=AfmBOoouqrViC5ruxUfrBc0O0IOrVcD7pBPjET2WEy4rGXigUrP0O9so",
+        "duration": "71 total hours, 332 lectures",
+        "platform": "Udemy",
+        "instructor": "Jonas Schmedtmann",
+        "course_name": "The Complete JavaScript Course 2025: From Zero to Expert!",
+        "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-javascript-programming-in-7-days/",
+        "duration": "9.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Faisal Zamir, Jafri Code",
+        "course_name": "Complete JS Bootcamp | JavaScript Programming in 7 DAYS",
+        "description": "Complete JS Bootcamp | JavaScript Programming in 7 DAYS| Learn JavaScritp for Web Development | Foundation for React"
+      },
+      {
+        "links": "https://www.udemy.com/course/css-bootstrap-javascript-and-php-stack-complete-course/",
+        "duration": "8 total hours",
+        "platform": "Udemy",
+        "instructor": "PROPER DOT INSTITUTE",
+        "course_name": "CSS, Bootstrap, JavaScript And PHP Stack Complete Course",
+        "description": "CSS, Bootstrap And JavaScript And PHP Complete Frontend and Backend Course"
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-and-php-and-python-programming-complete-course/",
+        "duration": "8 total hours",
+        "platform": "Udemy",
+        "instructor": "PROPER DOT INSTITUTE",
+        "course_name": "JavaScript And PHP And Python Programming Complete Course",
+        "description": "Learn JavaScript And PHP And Python Programming language In One JavaScript And PHP And Python Complete Course"
+      },
+      {
+        "links": "https://www.udemy.com/course/css-javascriptphp-and-python-programming-all-in-one-course/",
+        "duration": "10 total hours",
+        "platform": "Udemy",
+        "instructor": "PROPER DOT INSTITUTE",
+        "course_name": "CSS, JavaScript,PHP And Python Programming All in One Course",
+        "description": "Learn CSS with Javascript, PHP And Python Programming Language All in One Course"
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-basics-for-beginners/",
+        "duration": "6.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Mosh Hamedani",
+        "course_name": "JavaScript Basics for Beginners",
+        "description": "JavaScript - Master the Fundamentals in 6 Hours"
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-es6-tutorial/",
+        "duration": "6.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Stephen Grider",
+        "course_name": "ES6 Javascript: The Complete Developer's Guide",
+        "description": "ES6 Javascript Development from scratch. Get practice with live examples and learn exactly where to apply ES6 features."
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-the-basics-for-beginners/",
+        "duration": "38.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Rob Merrill",
+        "course_name": "JavaScript Beginner Bootcamp (2025)",
+        "description": "JavaScript for Beginners: Projects based learning, whiteboard animations, coding in the browser and quizzes."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-javascript-course/",
+        "duration": "71 total hours, 332 lectures",
+        "platform": "Udemy",
+        "instructor": "Jonas Schmedtmann",
+        "course_name": "The Complete JavaScript Course 2025: From Zero to Expert!",
+        "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-web-developer-course-2/",
+        "duration": "31 total hours, 223 lectures",
+        "platform": "Udemy",
+        "instructor": "Rob Percival, Codestars",
+        "course_name": "The Complete Web Developer Course 3.0",
+        "description": "Learn Web Development in 2024! Build apps, website, projects using HTML, CSS, Javascript, PHP, Python, MySQL & more!"
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-voor-beginners-in-2-uur-leren-programmeren/",
+        "duration": "2,5 uur",
+        "platform": "Udemy",
+        "instructor": "Felix Lepoutre",
+        "course_name": "Javascript voor beginners - in 2 uur leren programmeren",
+        "description": "Maak snel je eigen scripts op je websites of apps, zonder enige voorkennis."
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-voor-beginners-en-gevorderden/",
+        "duration": "27 uur",
+        "platform": "Udemy",
+        "instructor": "Maarten Hus",
+        "course_name": "JavaScript voor beginners en gevorderden",
+        "description": "Leer programmeren in modern JavaScript"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-javascript-course/",
+        "duration": "71 uur",
+        "platform": "Udemy",
+        "instructor": "Jonas Schmedtmann",
+        "course_name": "The Complete JavaScript Course 2025: From Zero to Expert!",
+        "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!"
+      },
+      {
+        "links": "https://www.udemy.com/course/css-javascript-certification-course-for-beginners/",
+        "duration": "3 uur",
+        "platform": "Udemy",
+        "instructor": "YouAccel Training",
+        "course_name": "CSS & JavaScript - Certification Course for Beginners",
+        "description": "Learn how to Add Dynamic Client-Side Functions to your Web Pages using CSS & JavaScript"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-javascript-from-beginner-to-advanced/",
+        "duration": "17 uur",
+        "platform": "Udemy",
+        "instructor": "Ivan Lourenço Gomes, Learn IT University, Andrii Piatakha",
+        "course_name": "Complete Javascript & jQuery Course with Bonus Vue JS Intro",
+        "description": "Learn Javascript, jQuery and Ajax from the start + Bonus Intro to Vue JS 3. Incudes complete written course material!"
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-for-beginners-the-complete-introduction-to-js/",
+        "duration": "4 uur",
+        "platform": "Udemy",
+        "instructor": "Yassin Marco MBA",
+        "course_name": "JavaScript for Beginners - The Complete introduction to JS",
+        "description": "Learn all the Basics of JavaScript and create various basic JavaScript programs and applications"
+      },
+      {
+        "links": "https://www.udemy.com/course/understand-javascript/",
+        "duration": "12,5 uur",
+        "platform": "Udemy",
+        "instructor": "Anthony Alicea",
+        "course_name": "JavaScript: Understanding the Weird Parts",
+        "description": "An advanced JavaScript course for everyone! Scope, closures, prototypes, 'this', build your own framework, and more."
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-for-beginners-complete-course/",
+        "duration": "2 uur",
+        "platform": "Udemy",
+        "instructor": "PROPER DOT INSTITUTE",
+        "course_name": "Javascript For Beginners Complete Course",
+        "description": "Learn Javascript Programming Language With Practical Interaction"
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/",
+        "duration": "52,5 uur",
+        "platform": "Udemy",
+        "instructor": "Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller",
+        "course_name": "JavaScript - The Complete Guide 2025 (Beginner + Advanced)",
+        "description": "Modern JavaScript from the beginning - all the way up to JS expert level! THE must-have JavaScript resource in 2025."
+      },
+      {
+        "links": "https://www.udemy.com/course/css-bootstrap-javascript-and-php-stack-complete-course/",
+        "duration": "8 uur",
+        "platform": "Udemy",
+        "instructor": "PROPER DOT INSTITUTE",
+        "course_name": "CSS, Bootstrap, JavaScript And PHP Stack Complete Course",
+        "description": "CSS, Bootstrap And JavaScript And PHP Complete Frontend and Backend Course"
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-and-php-and-python-programming-complete-course/",
+        "duration": "8 uur",
+        "platform": "Udemy",
+        "instructor": "PROPER DOT INSTITUTE",
+        "course_name": "JavaScript And PHP And Python Programming Complete Course",
+        "description": "Learn JavaScript And PHP And Python Programming language In One JavaScript And PHP And Python Complete Course"
+      },
+      {
+        "links": "https://www.udemy.com/course/css-javascriptphp-and-python-programming-all-in-one-course/",
+        "duration": "10 uur",
+        "platform": "Udemy",
+        "instructor": "PROPER DOT INSTITUTE",
+        "course_name": "CSS, JavaScript,PHP And Python Programming All in One Course",
+        "description": "Learn CSS with Javascript, PHP And Python Programming Language All in One Course"
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-cho-nguoi-moi-bat-dau-2021/",
+        "duration": "57 giờ",
+        "platform": "Udemy",
+        "instructor": "Hau Nguyen",
+        "course_name": "Javascript cho người mới bắt đầu",
+        "description": "Hỗ trợ các bạn bước đầu vào ngành lập trình một cách đơn giản và dễ hiểu nhất"
+      },
+      {
+        "links": "https://www.udemy.com/course/hoidanit-react-basic-ultimate/",
+        "duration": "20,5 giờ",
+        "platform": "Udemy",
+        "instructor": "Hỏi Dân IT với Eric",
+        "course_name": "React Ultimate - React.JS Cơ Bản Từ Z Đến A Cho Beginners",
+        "description": "Hiểu và Làm Chủ React (Chỉ Học Những Thứ Cần Thiết)"
+      },
+      {
+        "links": "https://www.udemy.com/course/khoa-hoc-javascript-chuyen-sau/",
+        "duration": "7,5 giờ",
+        "platform": "Udemy",
+        "instructor": "Khoa Nguyen",
+        "course_name": "Khóa học Javascript Chuyên Sâu",
+        "description": "Khóa học giúp bạn hiểu rõ tường tận scope, toán tử, hàm, hướng đối tượng trong Javascript. Làm chủ Javascript, ES6"
+      },
+      {
+        "links": "https://www.udemy.com/course/khoa-hoc-javascript-tu-co-ban-den-chuyen-sau/",
+        "duration": "22,5 giờ",
+        "platform": "Udemy",
+        "instructor": "Phạm Ngọc Hòa",
+        "course_name": "Khoá học Javascript từ cơ bản đến chuyên sâu",
+        "description": "Kiến thức từ cơ bản đến nâng cao - Thực hành các dự án game, dự án thương mại điện tử"
+      },
+      {
+        "links": "https://www.udemy.com/course/lap-trinh-javascript-cho-nguoi-moi-hoc/",
+        "duration": "23,5 giờ",
+        "platform": "Udemy",
+        "instructor": "Anh Nguyễn Ngọc, Nguyen Van Nam",
+        "course_name": "Lập trình Javascript cho người mới học",
+        "description": "Lý thuyết ngắn gọn, thực hành chi tiết và vận dụng viết mã dự án"
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-es6-cho-nguoi-moi-bat-au-2022/",
+        "duration": "9 giờ",
+        "platform": "Udemy",
+        "instructor": "AHT Training Center",
+        "course_name": "Javascript, ES6 & ReactJS cho người mới bắt đầu 2022",
+        "description": "Javascript, ES6 & ReactJS cho người mới bắt đầu 2022"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-javascript-course/",
+        "duration": "71 giờ",
+        "platform": "Udemy",
+        "instructor": "Jonas Schmedtmann",
+        "course_name": "The Complete JavaScript Course 2025: From Zero to Expert!",
+        "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!"
+      },
+      {
+        "links": "https://www.udemy.com/course/css-javascript-certification-course-for-beginners/",
+        "duration": "3 giờ",
+        "platform": "Udemy",
+        "instructor": "YouAccel Training",
+        "course_name": "CSS & JavaScript - Certification Course for Beginners",
+        "description": "Learn how to Add Dynamic Client-Side Functions to your Web Pages using CSS & JavaScript"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-javascript-from-beginner-to-advanced/",
+        "duration": "17 giờ",
+        "platform": "Udemy",
+        "instructor": "Ivan Lourenço Gomes, Learn IT University, Andrii Piatakha",
+        "course_name": "Complete Javascript & jQuery Course with Bonus Vue JS Intro",
+        "description": "Learn Javascript, jQuery and Ajax from the start + Bonus Intro to Vue JS 3. Incudes complete written course material!"
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-for-beginners-the-complete-introduction-to-js/",
+        "duration": "4 giờ",
+        "platform": "Udemy",
+        "instructor": "Yassin Marco MBA",
+        "course_name": "JavaScript for Beginners - The Complete introduction to JS",
+        "description": "Learn all the Basics of JavaScript and create various basic JavaScript programs and applications"
+      },
+      {
+        "links": "https://www.udemy.com/course/understand-javascript/",
+        "duration": "12,5 giờ",
+        "platform": "Udemy",
+        "instructor": "Anthony Alicea",
+        "course_name": "JavaScript: Understanding the Weird Parts",
+        "description": "An advanced JavaScript course for everyone! Scope, closures, prototypes, 'this', build your own framework, and more."
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-for-beginners-complete-course/",
+        "duration": "2 giờ",
+        "platform": "Udemy",
+        "instructor": "PROPER DOT INSTITUTE",
+        "course_name": "Javascript For Beginners Complete Course",
+        "description": "Learn Javascript Programming Language With Practical Interaction"
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/",
+        "duration": "52,5 giờ",
+        "platform": "Udemy",
+        "instructor": "Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller",
+        "course_name": "JavaScript - The Complete Guide 2025 (Beginner + Advanced)",
+        "description": "Modern JavaScript from the beginning - all the way up to JS expert level! THE must-have JavaScript resource in 2025."
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-training/?srsltid=AfmBOorzhybq7orhtkxOjWCx9PDaZrMZHljTrk2MVqVy8rvESSwete72",
+        "duration": "33 hours",
+        "platform": "Udemy",
+        "instructor": "Codestars, Laurence Svekis, Rob Percival",
+        "course_name": "The Complete JavaScript Course - Beginner to Professional",
+        "description": "The only course you need to become a JavaScript developer - 45 JavaScript projects, ES6, JSON, AJAX & much more!"
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-training/",
+        "duration": "33 hours",
+        "platform": "Udemy",
+        "instructor": "Codestars, Laurence Svekis, Rob Percival",
+        "course_name": "The Complete JavaScript Course - Beginner to Professional",
+        "description": "The only course you need to become a JavaScript developer - 45 JavaScript projects, ES6, JSON, AJAX & much more!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-javascript-course/?srsltid=AfmBOoowJ55drGJLSM4TF5Y-nuxgLDjAwAtgYY81_kufgmIFkSYUFtua",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Navin Rajesham",
+        "course_name": "[For Beginners] JavaScript Complete Course",
+        "description": "Learning JavaScript from basics to advanced with unique industry-proven approaches and making you confident with JS."
+      },
+      {
+        "links": "https://www.udemy.com/course/understand-javascript/?srsltid=AfmBOooCNLO7P1ArfStVsHppt3BhodUSHuC7yjSgI9pbLm98NU75DLpw",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Anthony Alicea",
+        "course_name": "JavaScript: Understanding the Weird Parts",
+        "description": "An advanced JavaScript course for everyone! Scope, closures, prototypes, 'this', build your own framework, and more."
+      },
+      {
+        "links": "https://www.udemy.com/course/understand-javascript/?srsltid=AfmBOopAtMmrfX36L3lbp9hSlH_WNmCu3ecoBB7SBXVw9NHynJ3SdfHZ",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Anthony Alicea",
+        "course_name": "JavaScript: Understanding the Weird Parts",
+        "description": "An advanced JavaScript course for everyone! Scope, closures, prototypes, 'this', build your own framework, and more."
+      },
+      {
+        "links": "https://www.udemy.com/course/new-javascript-grandmaster/?srsltid=AfmBOooU7MDB2FMC43CYpycO5MSFvSzsBHfIQiexYI_E2m3O1yaVDlVX",
+        "duration": "12.5+ hours",
+        "platform": "Udemy",
+        "instructor": "Clyde Matthew",
+        "course_name": "JavaScript Complete Grandmaster Course 2025",
+        "description": "JavaScript Beginner to Advanced. Comprehensive. Practical and current. Everything you need to know about JavaScript."
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-course-projects/?srsltid=AfmBOoq3cqcU9W7F0hyYkocsIzcE_eFpjGVVUCBhJVhmcfT4tWkB3NkI",
+        "duration": "50+ hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Laurence Svekis",
+        "course_name": "Complete JavaScript Projects Course",
+        "description": "Real Projects! AJAX Java Script Projects Apps 55+ Projects Modern JS DOM JavaScript Games Portfolio Games DOM"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-javascript-course/?srsltid=AfmBOoqN6Xqvkx6PadVfkm1-ZUbD85CpIntTtaZTCFAcTjC6UkcxFnaJ",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Jonas Schmedtmann",
+        "course_name": "The Complete JavaScript Course 2025: From Zero to Expert!",
+        "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!"
+      },
+      {
+        "links": "https://www.udemy.com/course/html-css-javascript-basics/?srsltid=AfmBOordaVFMFpFTsmcu1f1RCGc8sgUmIcXZrjdX9Y93H0a9wrP1ecXr",
+        "duration": "Approximately 2 hours",
+        "platform": "Udemy",
+        "instructor": "Danny Connell",
+        "course_name": "Create Your First Website with HTML, CSS & JavaScript",
+        "description": "Get started in Web Development quickly by creating a beautiful, responsive website with HTML, CSS & JavaScript"
+      },
+      {
+        "links": "https://www.udemy.com/topic/javascript/free/",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "",
+        "course_name": "Top Free JavaScript Courses & Tutorials Online - Updated [April 2025]",
+        "description": "Join more than 12 million learners and take a JavaScript course on Udemy. Whether you’re a beginner or an advanced user, we’ve got a course for you."
+      }
+  
+]

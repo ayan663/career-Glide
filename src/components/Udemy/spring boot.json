@@ -1,0 +1,356 @@
+[
+ 
+      {
+        "links": "https://www.udemy.com/course/the-complete-spring-boot-development-bootcamp/?srsltid=AfmBOoocTtv7A-N4sGqkP0u2PtThajyk4ugiZJkmbHOVnadteLDjG65M",
+        "duration": "11 hours on-demand video, 150 lectures",
+        "platform": "Udemy",
+        "instructor": "Rayan Slim, Jose Portilla, Jad Slim, Pierian Training, Amer Abdulkader, Sarmad Tanveer",
+        "course_name": "Spring Boot Course: Learn Spring Boot & Build Web APIs",
+        "description": "Java Web Development: MVC, Beans, React (Full Stack), REST, Testing, OpenAPI, Spring Data JPA, SQL, Spring Security, JWT"
+      },
+      {
+        "links": "https://www.udemy.com/course/spring-boot-and-spring-framework-tutorial-for-beginners/",
+        "duration": "41 total hours",
+        "platform": "Udemy",
+        "instructor": "in28Minutes Official",
+        "course_name": "Master Spring Boot 3 & Spring Framework 6 with Java",
+        "description": "Become Java Spring Boot Full Stack Developer. Learn Spring Framework, Spring Boot, Spring Data, Docker & AWS"
+      },
+      {
+        "links": "https://www.udemy.com/course/spring-boot-tutorial-for-beginners/",
+        "duration": "17.5 hours",
+        "platform": "Udemy",
+        "instructor": "in28Minutes Official",
+        "course_name": "Learn Spring Boot 3 in 100 Steps - No 1 Java Framework",
+        "description": "Java Spring Boot Framework in 100 steps - Build a REST API and a Web application with Java, JPA, SpringBoot and Maven"
+      },
+      {
+        "links": "https://www.udemy.com/course/spring-boot-complete-guide-from-development-to-deployment/?srsltid=AfmBOorIUxiNW06thy0jTwNIIHDqvc9xiVFMMjUG1ATjp2qXu_g8-nCe",
+        "duration": "2hr 34min",
+        "platform": "Udemy",
+        "instructor": "Bhupendra Sharma",
+        "course_name": "Spring Boot : Complete guide from development to deployment",
+        "description": "In this course we will start from basics and learn all key features of Spring boot from development to deployment. Some of the major topic that we will cover this would be Development environment setup, Demo application overview for the course, Creation the rest web-services, Creation of sample web-application, Profiles and properties, Logging, Security, Production grade feature like actuator, Deployment."
+      },
+      {
+        "links": "https://www.udemy.com/course/spring-hibernate-tutorial/",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Chad Darby",
+        "course_name": "Spring Boot 3, Spring 6 & Hibernate for Beginners",
+        "description": "Learn Spring 6, Spring Core, Spring REST, Spring MVC, Spring Security, Thymeleaf, JPA, Hibernate, MySQL. This course covers the latest versions of Spring Boot 3, Spring 6 and Hibernate 6, including real-time projects and comprehensive learning materials."
+      },
+      {
+        "links": "https://www.udemy.com/course/complete-python-bootcamp/?srsltid=AfmBOoqqkGgMv8pIajCGfKDJQ-J1kiX3PYb8RAsoEdQj8vK6bXijJt8Q",
+        "duration": "over 100 lectures and more than 21 hours of video",
+        "platform": "Udemy",
+        "instructor": "Jose Portilla, Pierian Training",
+        "course_name": "The Complete Python Bootcamp From Zero to Hero in Python",
+        "description": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games"
+      },
+      {
+        "links": "https://www.udemy.com/course/testerbootcamp/?srsltid=AfmBOorbXsKWd6S_okVDTJerdfsJl4DxrM8jrBXNzqkxnciTZbFyofSA",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Tarek Roshdy, Nezam Academy, Nezam Team",
+        "course_name": "The Complete 2025 Software Testing Bootcamp",
+        "description": "Your Step-by-Step Guide to Becoming a Professional Software Tester"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-web-dev-bootcamp/?srsltid=AfmBOoplZDAFDhMnbsH0VcBb0nYjkEU9hQGlRiFFI78bPGh4SqqvUuQU",
+        "duration": "100+ hours",
+        "platform": "Udemy",
+        "instructor": "Burak Orkmez",
+        "course_name": "100 Hours Web Development Bootcamp - Build 23 React Projects",
+        "description": "Master Modern Web Development: 20+ Real-World Projects Using Today's Most Popular Technologies. Dive into a comprehensive, hands-on web development journey with this extensive 100+ hour course. You'll build more than 20 real-world projects while learning the most in-demand technologies used by top companies worldwide."
+      },
+      {
+        "links": "https://www.udemy.com/course/ultimate-terraform-bootcamp/?srsltid=AfmBOool1aXs18c0h0dL8Z6_V-PKiqAijpkyn1LdqOT1cT_TY3YVzMXP",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Gourav Shah",
+        "course_name": "Ultimate Terraform and OpenTofu Bootcamp",
+        "description": "Build Real World Terraform & OpenTofu Skills with 7+ Projects and Prepare for official Certification | School of Devops®"
+      },
+      {
+        "links": "https://www.udemy.com/course/python-app-development-masterclass-app-development-bootcamp/",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Learnify IT",
+        "course_name": "Python App Development Masterclass App Development Bootcamp",
+        "description": "Build Real-World Applications with Python: A Complete App Development Bootcamp for Beginners to Advanced Learners"
+      },
+      {
+        "links": "https://www.udemy.com/course/complete-python-bootcamp/?srsltid=AfmBOoqRzxdKnVi-fqfJzYdClbzMMGtAgE7T7B2ilI-tl0OLGLNIJSRn",
+        "duration": "21 hours",
+        "platform": "Udemy",
+        "instructor": "Jose Portilla, Pierian Training",
+        "course_name": "The Complete Python Bootcamp From Zero to Hero in Python",
+        "description": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games"
+      },
+      {
+        "links": "https://www.udemy.com/course/testerbootcamp/?srsltid=AfmBOoqeR2-DCYSxUkTIKyJssD-zRdje1FPyL1SABWCYET33VagdVqo7",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Tarek Roshdy, Nezam Academy, Nezam Team",
+        "course_name": "The Complete 2025 Software Testing Bootcamp",
+        "description": "Your Step-by-Step Guide to Becoming a Professional Software Tester. This comprehensive course is designed for absolute beginners and intermediate testers who want to master the essentials and advance to an industry-ready skill set. From manual testing to automation and performance testing, this course provides everything you need to know to land your first software testing job, whether as a full-time professional or a freelancer."
+      },
+      {
+        "links": "https://www.udemy.com/course/testerbootcamp/?srsltid=AfmBOooZCEOpGaeR6yvRHLeoh70w9Rpt1QCQAPfUX_rqSL_c0dnutGk0",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Tarek Roshdy, Nezam Academy, Nezam Team",
+        "course_name": "The Complete 2025 Software Testing Bootcamp",
+        "description": "Your Step-by-Step Guide to Becoming a Professional Software Tester"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-python-courses/?srsltid=AfmBOorUG0FpO6LUd3WJvm3_1yq46T-drE1Af_YkcaNGsj1EASIkUZ7N",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Neamatullah Ekhteyari",
+        "course_name": "101 Python Projects | The Complete Python Course for 2025",
+        "description": "Master Python in 2025: Build 101 Projects, Learn Socket Programming, Automation, Data Analysis, OpenCV and OOP."
+      },
+      {
+        "links": "https://www.udemy.com/course/deploy-spring-microservices-to-aws-with-ecs-and-aws-fargate/",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "in28Minutes Official, Ravi S | DevOps Expert - Docker & Kubernetes",
+        "course_name": "Docker in AWS - Java Spring Boot to AWS Fargate & ECS",
+        "description": "Start Playing with Docker in AWS. Learn AWS ECS and AWS Fargate with Java, Spring Boot and Docker Microservices."
+      },
+      {
+        "links": "https://www.udemy.com/course/ios-13-app-development-bootcamp/",
+        "duration": "55+ hours",
+        "platform": "Udemy",
+        "instructor": "Dr. Angela Yu, Developer and Lead Instructor",
+        "course_name": "iOS & Swift - The Complete iOS App Development Bootcamp",
+        "description": "From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+        "duration": "62+ hours",
+        "platform": "Udemy",
+        "instructor": "Dr. Angela Yu, Developer and Lead Instructor",
+        "course_name": "The Complete Full-Stack Web Development Bootcamp",
+        "description": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-web-developer-bootcamp/",
+        "duration": "70 hours",
+        "platform": "Udemy",
+        "instructor": "Colt Steele",
+        "course_name": "The Web Developer Bootcamp 2025",
+        "description": "With 10 Hours of React added. Become a Developer With ONE course - HTML, CSS, JavaScript, React, Node, MongoDB and More!"
+      },
+      {
+        "links": "https://www.udemy.com/course/css-bootstrap-javascript-web-development-course/",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "PROPER DOT INSTITUTE",
+        "course_name": "CSS, Bootstrap ,JavaScript, Web Development Course",
+        "description": "Learn Web Development Complete Course, CSS, Bootstrap And JavaScript complete Web development Stack course 2022"
+      },
+      {
+        "links": "https://www.udemy.com/course/spring-framework-5/?srsltid=AfmBOoqIKwSFy4PaWiNKs0N345QOlDWDQi5HEgClLoBBPwSBSjdeaZY_",
+        "duration": "81 hours",
+        "platform": "Udemy",
+        "instructor": "Andrés Guzmán",
+        "course_name": "Spring Framework 6 & Spring Boot 3 desde cero a experto",
+        "description": "Construye aplicaciones web Spring Framework 6 y Spring Boot 3: AOP, JPA, Security JWT, RESTful, AWS EC2, Angular, React"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-web-development-bootcamp/?srsltid=AfmBOooTJvfWR9xai3KkLU5dxT00c8__xPctFRdfWK7QFr_FHvsx7MPn",
+        "duration": "62+ hours",
+        "platform": "Udemy",
+        "instructor": "Dr. Angela Yu, Developer and Lead Instructor",
+        "course_name": "The Complete Full-Stack Web Development Bootcamp",
+        "description": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps"
+      },
+      {
+        "links": "https://www.udemy.com/course/spring-boot-using-intellij-build-a-real-world-project/",
+        "duration": "50+ HOURS",
+        "platform": "Udemy",
+        "instructor": "Faisal Memon (EmbarkX)",
+        "course_name": "Java Spring Boot: Professional eCommerce Project Masterclass",
+        "description": "Spring Framework + Spring Boot Full Stack: eCommerce REST API, Spring Data JPA, Spring Security 6, JWT, Deploy on AWS"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-ultimate-sql-bootcamp-go-from-zero-to-hero/?srsltid=AfmBOorW0xMmVQNwURqqiI7-S2wBIefhn_NZiTC--P2Zni3vMdiXanc7",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Sara Academy",
+        "course_name": "The Ultimate SQL Bootcamp : Go From Zero to Hero",
+        "description": "Become an In-Demand SQL Professional! Master SQL, Work With Complex Databases, Build Reports, Analysis and More!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-spring-boot-development-bootcamp/?srsltid=AfmBOorKujkpNQkVZh6muU9VZS3_0JDlZnBRg8PtIDL8EBqqmlna8SYC",
+        "duration": "11 hours on-demand video, 54 articles, 13 downloadable resources, 30-Day Money-Back Guarantee, Full Lifetime Access",
+        "platform": "Udemy",
+        "instructor": "Rayan Slim, Jose Portilla, Jad Slim, Pierian Training, Amer Abdulkader, Sarmad Tanveer",
+        "course_name": "Spring Boot Course: Learn Spring Boot & Build Web APIs",
+        "description": "Java Web Development: MVC, Beans, React (Full Stack), REST, Testing, OpenAPI, Spring Data JPA, SQL, Spring Security, JWT"
+      },
+      {
+        "links": "https://www.udemy.com/course/spring-boot-and-spring-framework-tutorial-for-beginners/?srsltid=AfmBOop_AsdhTMD7EY4XEt71nFdbskjp3mdA8rWfS6diUMp39krIUMbk",
+        "duration": "41 total hours",
+        "platform": "Udemy",
+        "instructor": "in28Minutes Official",
+        "course_name": "Master Spring Boot 3 & Spring Framework 6 with Java",
+        "description": "Become Java Spring Boot Full Stack Developer. Learn Spring Framework, Spring Boot, Spring Data, Docker & AWS"
+      },
+      {
+        "links": "https://www.udemy.com/course/spring-boot-tutorial-beginners/?srsltid=AfmBOoqbHGRAq6T1oiB0HBQYXJb8hOTa5rR4_WT8sOkokB9_Lf37CM9W",
+        "duration": "55min of on-demand video",
+        "platform": "Udemy",
+        "instructor": "Karpado Official",
+        "course_name": "Learn Spring Boot the Easy Way!",
+        "description": "Spring Boot makes it easy to create production-grade stand-alone Spring based Applications that you can \"just run\". This course will bring you clarity on Spring Boot, its purpose, the problem it solves, and the features it offers."
+      },
+      {
+        "links": "https://www.udemy.com/course/spring-5-with-spring-boot-2/?srsltid=AfmBOop39nhyleCgM2qLH3sEGX5aKy6MZlnMm0nmS4apEtCDiFIGLBXd",
+        "duration": "49.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Navin Reddy, Telusko",
+        "course_name": "Java Spring Framework 6 with Spring Boot 3",
+        "description": "Master Java, Spring 6 and Spring Boot 3 with JDBC, JPA, Security, Docker and Microservices with Telusko"
+      },
+      {
+        "links": "https://www.udemy.com/course/spring-boot-tutorial-for-beginners/?srsltid=AfmBOooJhKaRhk4d2bVoxVa_xUfMAD9KDHu2hpWzhOzf94CcMi1ZM2Om",
+        "duration": "17.5 hours",
+        "platform": "Udemy",
+        "instructor": "in28Minutes Official",
+        "course_name": "Learn Spring Boot 3 in 100 Steps - No 1 Java Framework",
+        "description": "Java Spring Boot Framework in 100 steps - Build a REST API and a Web application with Java, JPA, SpringBoot and Maven"
+      },
+      {
+        "links": "https://www.udemy.com/course/spring-springboot-jpa-hibernate-zero-to-master/?srsltid=AfmBOoqSmVBheXlWjP9Yjr8UdmfwRFpGq8aE64U5TvRCw0Jo6Iw_g7RF",
+        "duration": "34.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Eazy Bytes, Madan Reddy",
+        "course_name": "Master Spring 6, Spring Boot 3, REST, JPA, Hibernate",
+        "description": "Master Java framework Spring 6, AOP, Spring MVC, Spring Boot 3, Thymeleaf, Spring Security 6, Spring JDBC, JPA, REST. This course will help in understanding about Spring framework and how to build web applications, Rest Services using Spring, Spring MVC, SpringBoot, Thymeleaf, Spring JDBC, Spring Data JPA etc."
+      },
+      {
+        "links": "https://www.udemy.com/course/spring-hibernate-tutorial/",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Chad Darby",
+        "course_name": "Spring Boot 3, Spring 6 & Hibernate for Beginners",
+        "description": "Spring Boot 3: Learn Spring 6, Spring Core, Spring REST, Spring MVC, Spring Security, Thymeleaf, JPA, Hibernate, MySQL. This course covers the latest version of Spring Boot 3 and Spring 6, including real-time projects and comprehensive learning of Spring Boot features."
+      },
+      {
+        "links": "https://www.udemy.com/course/how-to-create-sell-digital-products-courses-ebooks/",
+        "duration": "1hr 2min of on-demand video",
+        "platform": "Udemy",
+        "instructor": "Gamel Hoca",
+        "course_name": "How to Create & Sell Digital Products: Courses & Ebooks",
+        "description": "Learn to create, market and launch online courses. Step-by-step guide to online course creation & passive income success"
+      },
+      {
+        "links": "https://www.udemy.com/course/45-days-python-bootcamp-pro-level-full-tutorial-for-beginner/?srsltid=AfmBOoo2_ZCWXXDeN0HI7dosCJSn9kUo_GfeOS9h-scwqJ4Z8KODV1c5",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Mubeen Ali Nasir",
+        "course_name": "Python Courses Full tutorial For Beginners 100% Successfully",
+        "description": "Achieve Python mastery, beginning with the fundamentals and culminating in crafting your own applications and games. This comprehensive tutorial will guide you through the fundamentals of Python, step by step, covering everything from basic syntax to advanced topics like data analysis and machine learning."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-pandas-bootcamp/",
+        "duration": "36:19:36 of on-demand video",
+        "platform": "Udemy",
+        "instructor": "Alexander Hagmann",
+        "course_name": "The Complete Pandas Bootcamp 2025: Data Science with Python",
+        "description": "Now with ChatGPT for Pandas, Online Exercises, Seaborn, Machine Learning. Fully Updated (Pandas 3.x) as of Sep 2024. Learn and practice all relevant Pandas methods and workflows with Real-World Datasets. Master a complete Machine Learning Project A-Z with Pandas, Scikit-Learn, and Seaborn."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Colt Steele",
+        "course_name": "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert",
+        "description": "Master SQL, Work With Complex Databases, Build Reports, and More! This course is a gentle but comprehensive introduction to MySQL, one of the most highly in-demand skills in the business sector today."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-spring-boot-development-bootcamp/?srsltid=AfmBOooAq4r9w5UB11lBAPKHkv6I39nUIxMWkFtEQb3C9aUYG_wJQ63u",
+        "duration": "11 hours on-demand video, 150 lectures",
+        "platform": "Udemy",
+        "instructor": "Rayan Slim, Jose Portilla, Jad Slim, Pierian Training, Amer Abdulkader, Sarmad Tanveer",
+        "course_name": "Spring Boot Course: Learn Spring Boot & Build Web APIs",
+        "description": "Java Web Development: MVC, Beans, React (Full Stack), REST, Testing, OpenAPI, Spring Data JPA, SQL, Spring Security, JWT"
+      },
+      {
+        "links": "https://www.udemy.com/course/spring-boot-and-spring-framework-tutorial-for-beginners/?srsltid=AfmBOorMEpL2R0SrKuJS-3S2Wt2kZ2C5AGckbA4nYy0v6fwWUSzl4ev8",
+        "duration": "41 hours",
+        "platform": "Udemy",
+        "instructor": "in28Minutes Official",
+        "course_name": "Master Spring Boot 3 & Spring Framework 6 with Java",
+        "description": "Become Java Spring Boot Full Stack Developer. Learn Spring Framework, Spring Boot, Spring Data, Docker & AWS"
+      },
+      {
+        "links": "https://www.udemy.com/course/spring-boot-tutorial-beginners/?srsltid=AfmBOoraKyFEutE-MF_N2X_C1NDlSgfHlk9ho9RWuO0yk4G-9d9WmC2y",
+        "duration": "55min of on-demand video",
+        "platform": "Udemy",
+        "instructor": "Karpado Official",
+        "course_name": "Learn Spring Boot the Easy Way!",
+        "description": "Spring Boot makes it easy to create production-grade stand-alone Spring based Applications that you can \"just run\". This course will bring you clarity on Spring Boot, its purpose, the problem it solves, and the features it offers."
+      },
+      {
+        "links": "https://www.udemy.com/course/spring-springboot-jpa-hibernate-zero-to-master/",
+        "duration": "36.5 hours",
+        "platform": "Udemy",
+        "instructor": "Eazy Bytes, Madan Reddy",
+        "course_name": "Master Spring 6, Spring Boot 3, REST, JPA, Hibernate",
+        "description": "Master Java framework Spring 6, AOP, Spring MVC, Spring Boot 3, Thymeleaf, Spring Security 6, Spring JDBC, JPA,REST"
+      },
+      {
+        "links": "https://www.udemy.com/course/spring-boot-tutorial-for-beginners/?srsltid=AfmBOoq0ivv8DMOP62_XTSApu00dg0zJjrShZPJmPOvF7WOOAhidEhA6",
+        "duration": "17.5 hours",
+        "platform": "Udemy",
+        "instructor": "in28Minutes Official",
+        "course_name": "Learn Spring Boot 3 in 100 Steps - No 1 Java Framework",
+        "description": "Java Spring Boot Framework in 100 steps - Build a REST API and a Web application with Java, JPA, SpringBoot and Maven"
+      },
+      {
+        "links": "https://www.udemy.com/course/spring-boot-3-and-spring-framework/",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Shabbir Dawoodi",
+        "course_name": "Spring Boot 3 and Spring Framework 6",
+        "description": "Learn Java framework Spring 6, Spring MVC, Spring Boot 3, Spring JDBC, JPA,REST, MySQL, MongoDB, Kafka, Security"
+      },
+      {
+        "links": "https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "in28Minutes Official",
+        "course_name": "Master Microservices with Spring Boot and Spring Cloud",
+        "description": "Java Spring Boot Microservices 5-in-1 - Spring Boot, Spring Cloud, Docker, Kubernetes and REST API (REST Web Services)"
+      },
+      {
+        "links": "https://www.udemy.com/course/spring-hibernate-tutorial/",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Chad Darby",
+        "course_name": "Spring Boot 3, Spring 6 & Hibernate for Beginners",
+        "description": "Learn Spring 6, Spring Core, Spring REST, Spring MVC, Spring Security, Thymeleaf, JPA, Hibernate, MySQL. This course covers the latest versions of Spring Boot 3, Spring 6 and Hibernate 6, and includes real-time projects and comprehensive learning materials."
+      },
+      {
+        "links": "https://www.udemy.com/course/how-to-create-sell-digital-products-courses-ebooks/",
+        "duration": "1hr 2min of on-demand video",
+        "platform": "Udemy",
+        "instructor": "Gamel Hoca",
+        "course_name": "How to Create & Sell Digital Products: Courses & Ebooks",
+        "description": "Learn to create, market and launch online courses. Step-by-step guide to online course creation & passive income success - Free Course"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-web-development-bootcamp/?srsltid=AfmBOoo_h38Ugn7e8iRSK5XaE5R9l7w7w2PFkLES22YFTB1w-5p8LiWz",
+        "duration": "62+ hours",
+        "platform": "Udemy",
+        "instructor": "Dr. Angela Yu, Developer and Lead Instructor",
+        "course_name": "The Complete Full-Stack Web Development Bootcamp",
+        "description": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps"
+      }
+      
+]

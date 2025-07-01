@@ -1,0 +1,130 @@
+:root {
+    --bg: #ffffff;
+    --card-bg: rgba(255, 255, 255, 0.8);
+    --accent: #38bdf8;
+    --accent-hover: #0ea5e9;
+    --text-dark: #0f172a;
+    --text-muted: #475569;
+    --shadow: rgba(0, 0, 0, 0.1);
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Segoe UI', sans-serif;
+    background: var(--bg);
+    color: var(--text-dark);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  header {
+    background: var(--card-bg);
+    padding: 1.5rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 4px 10px var(--shadow);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  
+  header h1 {
+    font-size: 2rem;
+    font-weight: 600;
+    color: var(--accent);
+  }
+  
+  nav input {
+    padding: 0.6rem 1rem;
+    border: 1px solid #cbd5e1;
+    border-radius: 8px;
+    outline: none;
+    font-size: 1rem;
+    width: 220px;
+    background: #f1f5f9;
+    color: var(--text-dark);
+  }
+  
+  main {
+    padding: 2rem;
+    flex: 1;
+  }
+  
+  .card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+    padding: 0 1rem;
+  }
+  
+  .card {
+    background: var(--card-bg);
+    border-radius: 16px;
+    padding: 2rem;
+    text-align: center;
+    box-shadow: 0 8px 16px var(--shadow);
+    transition: all 0.3s ease;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+    backdrop-filter: blur(8px);
+  }
+  
+  .card:hover {
+    transform: translateY(-6px) scale(1.02);
+    border: 1px solid var(--accent);
+  }
+  
+  .card-icon {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    animation: floatIcon 2s infinite ease-in-out;
+  }
+  
+  .card h3 {
+    color: var(--accent);
+    font-size: 1.4rem;
+    margin-bottom: 0.4rem;
+  }
+  
+  .card-summary {
+    font-weight: 500;
+    color: var(--text-muted);
+  }
+  
+  .card-steps {
+    list-style: none;
+    margin-top: 1rem;
+    text-align: left;
+    display: none;
+    padding-left: 1rem;
+    font-size: 0.95rem;
+    color: var(--text-dark);
+  }
+  
+  .card.active .card-steps {
+    display: block;
+  }
+  
+  @keyframes floatIcon {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-6px); }
+    100% { transform: translateY(0px); }
+  }
+  
+  footer {
+    background: var(--card-bg);
+    color: var(--text-muted);
+    text-align: center;
+    padding: 1rem;
+    font-size: 0.9rem;
+    border-top: 1px solid #e2e8f0;
+  }
+  

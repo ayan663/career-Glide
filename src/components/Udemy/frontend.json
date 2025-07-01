@@ -1,0 +1,436 @@
+[
+  
+      {
+        "links": "https://www.udemy.com/course/front-end-web-development/?srsltid=AfmBOor3Vm83cGCpYz_UM8_CIGYKz8cQTyhTsMh1s5Jnpow_J16vCPXb",
+        "duration": "17 hours on-demand video, 126 lectures, 16h 48m total length",
+        "platform": "Udemy",
+        "instructor": "Joseph Delgadillo, Nick Germaine",
+        "course_name": "The Complete Front-End Web Development Course",
+        "description": "Get started as a front-end web developer using HTML, CSS, JavaScript, jQuery, and Bootstrap!"
+      },
+      {
+        "links": "https://www.udemy.com/course/front-end-web-development-complete-guide-step-by-step/?srsltid=AfmBOoqI_FMZCUftwNxOx8ad5nzCXDQG-bC9UaMcJRpEggGGPq3azxwe",
+        "duration": "41 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Fatah Gabrial",
+        "course_name": "Learn Complete Modern Front-End Web Development Step-by-Step",
+        "description": "Master the essentials of Front-End web development with HTML5, CSS3, Modern JavaScript, Bootstrap 5, Angular, and React"
+      },
+      {
+        "links": "https://www.udemy.com/course/full-front-end-web-development-course/?srsltid=AfmBOor8-FncLdKyqsN8LhZD_m3M0Y5lUOkKA9c9xWi0cc-zHXlp7uJ3",
+        "duration": "27.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Oak Academy, OAK Academy Team",
+        "course_name": "Front End Web Development with Javascript HTML CSS Bootstrap",
+        "description": "Full Front end web development with HTML, CSS, Bootstrap, JavaScipt (JS) and practice with hands-on Javascript projects"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-front-end-web-developer-bootcamp-html-css-js-react/?srsltid=AfmBOoq2ch2zIAW0UClA__rdOi__IX5ep8Qavu1Me_mNgzUx1Ad6LaCN",
+        "duration": "11 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Meta Brains",
+        "course_name": "The Front-End Web Developer Bootcamp: HTML, CSS, JS & React",
+        "description": "Get started as a front-end web developer with HTML, CSS, JavaScript, React.JS, and more!"
+      },
+      {
+        "links": "https://www.udemy.com/course/front-end-web-development/",
+        "duration": "17 total hours",
+        "platform": "Udemy",
+        "instructor": "Joseph Delgadillo, Nick Germaine",
+        "course_name": "The Complete Front-End Web Development Course",
+        "description": "Get started as a front-end web developer using HTML, CSS, JavaScript, jQuery, and Bootstrap!"
+      },
+      {
+        "links": "https://www.udemy.com/course/html-and-css-for-beginners-crash-course-learn-fast-easy/",
+        "duration": "9 total hours",
+        "platform": "Udemy",
+        "instructor": "Edwin Diaz | 900,000+ Students, Coding Faculty Solutions",
+        "course_name": "HTML and CSS for Beginners - Build a Website & Launch ONLINE",
+        "description": "HTML and CSS for Beginners course will give your all the knowledge you need to master HTML and CSS easily and quickly."
+      },
+      {
+        "links": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/",
+        "duration": "37.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Jonas Schmedtmann",
+        "course_name": "Build Responsive Real-World Websites with HTML and CSS",
+        "description": "Learn modern HTML5, CSS3 and web design by building a stunning website for your portfolio! Includes flexbox and CSS Grid"
+      },
+      {
+        "links": "https://www.udemy.com/course/html-javascript-bootstrap-certification-course/",
+        "duration": "6.5 total hours",
+        "platform": "Udemy",
+        "instructor": "YouAccel Training",
+        "course_name": "HTML, JavaScript, & Bootstrap - Certification Course",
+        "description": "A Comprehensive Guide for Beginners interested in learning HTML, JavaScript, & Bootstrap. Build Interactive Web Pages."
+      },
+      {
+        "links": "https://www.udemy.com/course/html-css-javascript-certification-course-for-beginners/",
+        "duration": "5.5 total hours",
+        "platform": "Udemy",
+        "instructor": "YouAccel Training",
+        "course_name": "HTML, CSS, & JavaScript - Certification Course for Beginners",
+        "description": "A Comprehensive Guide for Beginners interested in learning HTML, CSS, & JavaScript to Build Interactive Web Pages."
+      },
+      {
+        "links": "https://www.udemy.com/course/vue-js-the-complete-guide-2025/",
+        "duration": "10.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Bhrugen Patel - Microsoft MVP | 300,000+ Students",
+        "course_name": "Vue JS - The Complete Guide [2025]",
+        "description": "Master Vue.js from Scratch: Learn Fundamentals, Router, Pinia & Firebase to Build Real-World Projects!"
+      },
+      {
+        "links": "https://www.udemy.com/course/build-website-scratch/",
+        "duration": "8.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Brad Hussey, Code College",
+        "course_name": "Build Websites from Scratch with HTML & CSS",
+        "description": "Learn Web Development Essentials and Become a Web Developer From Scratch in this Complete HTML & CSS Beginner's Course"
+      },
+      {
+        "links": "https://www.udemy.com/course/build-solutions-with-power-platform/",
+        "duration": "22 total hours",
+        "platform": "Udemy",
+        "instructor": "Henry Habib",
+        "course_name": "Build Solutions with Power Apps, Power Automate & SharePoint",
+        "description": "Create enterprise applications with the Power Platform (PowerApps, Power Automate, and SharePoint), and master PL-900"
+      },
+      {
+        "links": "https://www.udemy.com/course/complete-wp-course/",
+        "duration": "65 total hours",
+        "platform": "Udemy",
+        "instructor": "Tanzeel Ur Rehman",
+        "course_name": "WordPress 2025: The Complete WordPress Website Course",
+        "description": "Become a WordPress expert - Build any dynamic WordPress website without programming with WordPress custom post types."
+      },
+      {
+        "links": "https://www.udemy.com/course/mastering-microsoft-power-apps/",
+        "duration": "21.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Fabian Ackeret",
+        "course_name": "Mastering Microsoft Power Apps 2025: From Zero to Hero",
+        "description": "Unlock the Power of Low-Code with MS PowerApps: Drive Efficiency, Enhance Collaboration, and Master M365 Connectivity"
+      },
+      {
+        "links": "https://www.udemy.com/course/wordpress-front-end-development-elementor/",
+        "duration": "12.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Andrew Williams",
+        "course_name": "Learn Elementor - Elementor for WordPress",
+        "description": "Elementor page builder gives you total control to design and create the site you've always wanted, without restrictions."
+      },
+      {
+        "links": "https://www.udemy.com/course/modern-artificial-intelligence-with-zero-coding/",
+        "duration": "9.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Dr. Ryan Ahmed | 400K+ Students | Best-Selling Professor | 250K+ YouTube, Ligency Team, SuperDataScience Team",
+        "course_name": "Modern Artificial Intelligence with Zero Coding",
+        "description": "Build 5 Practical Projects & Harness the Power of AI to solve practical, real-world business problems with Zero Coding!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-no-code-chatgpt-openai-api-course/",
+        "duration": "5 total hours",
+        "platform": "Udemy",
+        "instructor": "Codestars • over 2 million students worldwide!, Ravinder Deol",
+        "course_name": "The Complete 'No-Code' ChatGPT & OpenAI API Course",
+        "description": "Build 4 Projects Using The OpenAI API & ChatGPT While Mastering Prompt Engineering (Zero-Shot, Role, Few-Shot, Chain)"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-javascript-course/",
+        "duration": "71 total hours",
+        "platform": "Udemy",
+        "instructor": "Jonas Schmedtmann",
+        "course_name": "The Complete JavaScript Course 2025: From Zero to Expert!",
+        "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-guide-to-angular-2/",
+        "duration": "56 total hours",
+        "platform": "Udemy",
+        "instructor": "Maximilian Schwarzmüller",
+        "course_name": "Angular - The Complete Guide (2025 Edition)",
+        "description": "Master Angular (formerly 'Angular 2') and build awesome, reactive web apps with the successor of Angular.js"
+      },
+      {
+        "links": "https://www.udemy.com/course/react-firebase-tanstack-build-dynamic-web-apps-2025/",
+        "duration": "4 total hours",
+        "platform": "Udemy",
+        "instructor": "Kainaat Fida, Fazila B",
+        "course_name": "React Firebase & TanStack: Build Dynamic Web Apps 2025",
+        "description": "Master React.js, Firebase, TanStack, and Vite to Build Dynamic Web Apps – A Complete Guide to Modern Web Development"
+      },
+      {
+        "links": "https://www.udemy.com/course/2023-data-visualization-in-tableau-python-2-courses-in-1/?srsltid=AfmBOoriV4h9_w2v2i6LZREsdcgyuC4BMymJ99ecBxmBY2v7gtMVR8pt",
+        "duration": "2 hours",
+        "platform": "Udemy",
+        "instructor": "Toppers Bootcamp",
+        "course_name": "2025 Data Visualization in Tableau & Python (2 Courses in 1)",
+        "description": "Learn Data Visualization with Tableau & Python from the basic to advanced level using Real-Life Projects"
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-best-practices-a-hands-on-approach/",
+        "duration": "14.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Kaushik Roy Chowdhury",
+        "course_name": "JavaScript Best Practices - A Hands-On Professional Approach",
+        "description": "Write cleaner, faster, more secure and performance Optimized JavaScript with real-world hands-on coding"
+      },
+      {
+        "links": "https://www.udemy.com/course/certified-kubernetes-application-developer/",
+        "duration": "17 total hours",
+        "platform": "Udemy",
+        "instructor": "Mumshad Mannambeth, KodeKloud Training, Vijin Palazhi",
+        "course_name": "Kubernetes Certified Application Developer (CKAD) with Tests",
+        "description": "Learn concepts and practice for the Kubernetes Certification with hands-on labs right in your browser - DevOps - CKAD"
+      },
+      {
+        "links": "https://www.udemy.com/course/spring-5-with-spring-boot-2/",
+        "duration": "49.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Navin Reddy, Telusko",
+        "course_name": "Java Spring Framework 6 with Spring Boot 3",
+        "description": "Master Java, Spring 6 and Spring Boot 3 with JDBC, JPA, Security, Docker and Microservices with Telusko"
+      },
+      {
+        "links": "https://www.udemy.com/course/writing-clean-code/",
+        "duration": "6.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller",
+        "course_name": "Clean Code",
+        "description": "Learn how to write readable, understandable and therefore maintainable code - step by step, in an example-driven way"
+      },
+      {
+        "links": "https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/",
+        "duration": "7 total hours",
+        "platform": "Udemy",
+        "instructor": "Michael Pogrebinsky | Software Architecture, System Design, Java Expert, Top Developer Academy LLC",
+        "course_name": "Software Architecture & Design of Modern Large Scale Systems",
+        "description": "Become a Software Architect or Technical Lead by Mastering Software Architecture, System Design & Big Data Processing."
+      },
+      {
+        "links": "https://www.udemy.com/course/data-structures-2022-clearly-explained-beginner-to-advanced/",
+        "duration": "6 total hours",
+        "platform": "Udemy",
+        "instructor": "Tyler Reed",
+        "course_name": "Data Structures 2022 Clearly Explained Beginner to Advanced",
+        "description": "Includes Stacks, Queues, and Basic Trees to Red-Black Trees, AVL Trees, and Graphs coded in Java"
+      },
+      {
+        "links": "https://www.udemy.com/course/front-end-web-development/?srsltid=AfmBOorqSCyU1Syu-Jncq2A3wNlMk23tl4EhdtVfS9mZmcEYDDtUnGIP",
+        "duration": "17 hours",
+        "platform": "Udemy",
+        "instructor": "Joseph Delgadillo, Nick Germaine",
+        "course_name": "The Complete Front-End Web Development Course",
+        "description": "Get started as a front-end web developer using HTML, CSS, JavaScript, jQuery, and Bootstrap!"
+      },
+      {
+        "links": "https://www.udemy.com/course/complete-front-end-web-development-course-2025/?srsltid=AfmBOoquANxCSSwGRptomCQG6q1VLRApv1Bi4mXf0dyUmEECCi6gAdY4",
+        "duration": "10 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "The Cyberhost",
+        "course_name": "Complete Front-End Web Development Course 2025",
+        "description": "Master HTML, CSS, and JavaScript by building real-world projects like an Amazon Clone, a Villa Website and more projects"
+      },
+      {
+        "links": "https://www.udemy.com/course/full-front-end-web-development-course/?srsltid=AfmBOorDqQHkluLCk4y-gicrJUdfqkAFZAO9WhSP1B5M5E6OhfwMKGb6",
+        "duration": "27.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Oak Academy, OAK Academy Team",
+        "course_name": "Front End Web Development with Javascript HTML CSS Bootstrap",
+        "description": "Full Front end web development with HTML, CSS, Bootstrap, JavaScipt (JS) and practice with hands-on Javascript projects"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+        "duration": "61.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Dr. Angela Yu, Developer and Lead Instructor",
+        "course_name": "The Complete Full-Stack Web Development Bootcamp",
+        "description": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-web-developer-bootcamp/",
+        "duration": "74 total hours",
+        "platform": "Udemy",
+        "instructor": "Colt Steele",
+        "course_name": "The Web Developer Bootcamp 2025",
+        "description": "With 10 Hours of React added. Become a Developer With ONE course - HTML, CSS, JavaScript, React, Node, MongoDB and More!"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-web-design-html-css-adobe-photoshop/",
+        "duration": "5.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Creative Online School",
+        "course_name": "Practical Web Design & Development: 7 Courses in 1",
+        "description": "Master in Practical Web design and development using Photoshop, HTML5, CSS3, Bootstrap and more."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-web-developer-course-2/",
+        "duration": "31 total hours",
+        "platform": "Udemy",
+        "instructor": "Rob Percival, Codestars • over 2 million students worldwide!",
+        "course_name": "The Complete Web Developer Course 3.0",
+        "description": "Learn Web Development in 2024! Build apps, website, projects using HTML, CSS, Javascript, PHP, Python, MySQL & more!"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-and-understand-apis-and-restful-apis/",
+        "duration": "43 total mins",
+        "platform": "Udemy",
+        "instructor": "Kalob Taulien",
+        "course_name": "Understanding APIs and RESTful APIs Crash Course",
+        "description": "An introduction to how APIs and RESTful APIs work. No coding in this course, it's all conceptual."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-wordpress-for-beginners-course/",
+        "duration": "8 total hours",
+        "platform": "Udemy",
+        "instructor": "Phil Ebiner, Video School",
+        "course_name": "WordPress for Beginners: Create Your Own WordPress Website",
+        "description": "Join our complete WordPress course to easily create a professional Wordpress website: no experience or coding necessary!"
+      },
+      {
+        "links": "https://www.udemy.com/course/complete-web-designer-mobile-designer-zero-to-mastery/",
+        "duration": "26 total hours",
+        "platform": "Udemy",
+        "instructor": "Andrei Neagoie, Daniel Schifano",
+        "course_name": "Complete Web & Mobile Designer: UI/UX, Figma, +more",
+        "description": "Become a UX/UI Designer! Master Mobile and Web Design, User Interface + User Experience (UI/UX Design), HTML, and CSS"
+      },
+      {
+        "links": "https://www.udemy.com/course/wordpress-for-beginners-course/",
+        "duration": "12.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Andrew Williams",
+        "course_name": "Wordpress for Beginners - Master Wordpress Quickly",
+        "description": "In 2025, go from zero to WordPress hero, building responsive websites that shine on all devices. No skills needed."
+      },
+      {
+        "links": "https://www.udemy.com/course/css-the-complete-guide-incl-flexbox-grid-sass/",
+        "duration": "23 total hours",
+        "platform": "Udemy",
+        "instructor": "Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller, Manuel Lorenz",
+        "course_name": "CSS - The Complete Guide 2025 (incl. Flexbox, Grid & Sass)",
+        "description": "Learn CSS for the first time or brush up your CSS skills and dive in even deeper. EVERY web developer has to know CSS."
+      },
+      {
+        "links": "https://www.udemy.com/course/freelance-web-design-from-design-to-development-to-making-money/",
+        "duration": "21.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Vako Shvili",
+        "course_name": "Complete Web Design: from Figma to Webflow to Freelancing",
+        "description": "3 in 1 Course: Learn to design websites with Figma, build with Webflow, and make a living freelancing."
+      },
+      {
+        "links": "https://www.udemy.com/course/web-design-for-beginners-build-websites-in-html-css-2021/",
+        "duration": "8.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Web Coding",
+        "course_name": "Web Design for Beginners: Build Websites in HTML & CSS",
+        "description": "Learn the Basics of HTML and CSS and get Started with Web Design"
+      },
+      {
+        "links": "https://www.udemy.com/course/web-design-for-beginners-real-world-coding-in-html-css/",
+        "duration": "11.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Brad Schiff",
+        "course_name": "Web Design for Beginners: Real World Coding in HTML & CSS",
+        "description": "Launch a career as a web designer by learning HTML5, CSS3, responsive design, Sass and more!"
+      },
+      {
+        "links": "https://www.udemy.com/course/landing-page-design-best-practices/",
+        "duration": "9.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Isaac Rudansky",
+        "course_name": "Landing Page Design & Conversion Rate Optimization",
+        "description": "Triple Your Conversion Rate With These Landing Page Design Principles & Build A Landing Page From Scratch With No Code"
+      },
+      {
+        "links": "https://www.udemy.com/course/creating-responsive-web-design/",
+        "duration": "3.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Chris Converse",
+        "course_name": "Creating Responsive Web Design",
+        "description": "Learn how to optimize your webpages for different screen sizes and platforms."
+      },
+      {
+        "links": "https://www.udemy.com/course/design-rules/",
+        "duration": "5 total hours",
+        "platform": "Udemy",
+        "instructor": "Joe Natoli",
+        "course_name": "DESIGN RULES: Principles + Practices for Great UI Design",
+        "description": "Learn to design powerful user interfaces for apps, sites and systems"
+      },
+      {
+        "links": "https://www.udemy.com/course/build-a-responsive-singlepage-website-from-scratch-bootstrap/",
+        "duration": "2 total hours",
+        "platform": "Udemy",
+        "instructor": "Laurence Svekis",
+        "course_name": "Web Design Modern SinglePage Website from Scratch Bootstrap",
+        "description": "Guide to learning how to create websites, using Bootstrap. Real world web design step by step guide to HTML CSS design"
+      },
+      {
+        "links": "https://www.udemy.com/course/complete-guide-in-html-css-build-responsive-website/",
+        "duration": "6 total hours",
+        "platform": "Udemy",
+        "instructor": "Sara Academy",
+        "course_name": "Complete Guide in HTML & CSS - Build Responsive Website",
+        "description": "The best course for learning the basics of HTML and CSS from scratch."
+      },
+      {
+        "links": "https://www.udemy.com/course/webflow-essentials-course/",
+        "duration": "17 total hours",
+        "platform": "Udemy",
+        "instructor": "Daniel Walter Scott",
+        "course_name": "Webflow Essentials Course",
+        "description": "Use Webflow to enable you to create responsive, accessible websites without the need for complex coding."
+      },
+      {
+        "links": "https://www.udemy.com/course/responsive-web-design-tutorial-course-html5-css3-bootstrap/",
+        "duration": "16.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Daniel Walter Scott",
+        "course_name": "Responsive Web Design Essentials - HTML5 CSS3 Bootstrap",
+        "description": "The best course for learning the basics of HTML5 and CSS3 from scratch. Including 5 projects, perfect for beginners."
+      },
+      {
+        "links": "https://www.udemy.com/course/modern-web-design-html5-css3-beginners-guide-to-websites/",
+        "duration": "3 total hours",
+        "platform": "Udemy",
+        "instructor": "Laurence Svekis",
+        "course_name": "Modern Web Design HTML5 CSS3 beginners guide to Websites",
+        "description": "Quick introduction to HTML and CSS Core concepts, techniques and terminology of modern web design"
+      },
+      {
+        "links": "https://www.udemy.com/course/angularjs-crash-course-for-beginners/",
+        "duration": "2 total hours",
+        "platform": "Udemy",
+        "instructor": "Simon Sez IT",
+        "course_name": "AngularJS Crash Course for Beginners",
+        "description": "Learn the essentials you'll need to get started with AngularJS. Advance your web dev skills to build web apps FAST."
+      },
+      {
+        "links": "https://www.udemy.com/course/microfrontend-course/?srsltid=AfmBOoqji-t-BxnA4P-fDTvHIa0SKqhcoDvV5OVOq_3KhKlfJeMZJKka",
+        "duration": "9 hours",
+        "platform": "Udemy",
+        "instructor": "Stephen Grider",
+        "course_name": "Microfrontends with React: A Complete Developer's Guide",
+        "description": "Build incredibly scalable apps with a microfrontend architecture"
+      },
+      {
+        "links": "https://www.udemy.com/course/digital-marketing-made-easy-with-ai-9-courses-in-1/?srsltid=AfmBOoqL9Kp5ZwD0rl2czx_pip0su6323IKxJuoZ8lvw4kEiWRZ5re_C",
+        "duration": "7.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "FEIL Consulting and Resources",
+        "course_name": "Master Digital Marketing with AI: 9 Courses in 1 Guide",
+        "description": "AI-Powered SEO, Digital Marketing, Social Media Marketing, Chatbots, Affiliate, E-Commerce & Video Editing for Growth."
+      },
+      {
+        "links": "https://www.udemy.com/course/all-of-ai-chatgpt-midjourney-stable-diffusion-app-dev/",
+        "duration": "37 total hours",
+        "platform": "Udemy",
+        "instructor": "Arnold Oberleiter",
+        "course_name": "All of AI: ChatGPT, Midjourney, Stable Diffusion & App Dev",
+        "description": "ChatGPT, Prompt Engineering, OpenAI API, GPTs, Chatbots, Automation, AI-Apps, Generative AI, Machine Learning, Copilot"
+      }
+   
+]

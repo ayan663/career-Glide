@@ -1,0 +1,604 @@
+[
+ 
+      {
+        "links": "https://www.udemy.com/course/statistics-and-hypothesis-testing-for-data-science/",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Meritshot Academy",
+        "course_name": "Statistics and Hypothesis Testing for Data science",
+        "description": "Mastering Data Analysis and Making Informed Decisions with Statistical Hypothesis Testing in Data Science."
+      },
+      {
+        "links": "https://www.udemy.com/course/testing-quality-engineering-gen-ai-examples-gpt-bard/",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Dan Andrei Bucureanu",
+        "course_name": "Accelerated Software Engineering Chat GPT and AI Agents",
+        "description": "This introductory course is designed specifically for Software Quality Engineers interested in leveraging the power of Generative AI to enhance their testing, automation, and productivity. Throughout the course, participants will learn how to apply Generative AI techniques to automate the generation of test cases, simulate user behavior, create user stories, write better code, rapid start adoption of a new framework and generate test data. The course will provide a practical understanding of how AI can be used to improve software quality and boost productivity, rather than focusing on the underlying AI algorithms and models."
+      },
+      {
+        "links": "https://www.udemy.com/course/appium-winappdriver-automation-testing/?srsltid=AfmBOoqqPKeSZ-jCoOBiYA6djtyeYcSDjvNXmR2k8S-0wUcQv-q_jLMd",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Naeem Akram",
+        "course_name": "Appium WinAppDriver C# Windows Desktop UI Automation Testing",
+        "description": "Windows Application Driver Automation Testing, Appium for Windows/Dotnet, Beginner End-to-End Desktop Testing Tutorial"
+      },
+      {
+        "links": "https://www.udemy.com/course/javascript-selenium-testing-tutorial-for-beginners/?srsltid=AfmBOoqvdMnBS9ptscL2jL1K59MdE6D-X5_9dpyyqSRD5XbjCcQn2NC9",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "LambdaTest Inc.",
+        "course_name": "Selenium JavaScript Tutorial For Beginners",
+        "description": "This Selenium JavaScript testing tutorial is a comprehensive course designed to teach individuals with little to no prior programming experience what is JavaScript and how to get started with Selenium JavaScript testing. We will also cover a range of topics, including setting up Selenium with JavaScript, best practices, and using JavaScript automation examples to deliver a flawless experience to the end user. By the end of this Selenium JavaScript Tutorial, have a solid foundation in using Selenium with JavaScript and will be able to create and execute automated tests for web applications."
+      },
+      {
+        "links": "https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Michael Pogrebinsky | Software Architecture, System Design, Java Expert",
+        "course_name": "Software Architecture & Design of Modern Large Scale Systems",
+        "description": "Become a Software Architect or Technical Lead by Mastering Software Architecture, System Design & Big Data Processing."
+      },
+      {
+        "links": "https://www.udemy.com/course/essential-programming-fundamentals-for-all-beginners/",
+        "duration": "4.5 total hours",
+        "platform": "Udemy",
+        "instructor": "RougeNeuron Academy",
+        "course_name": "Software Development Fundamentals for Beginner Programmers",
+        "description": "Programming Fundamentals, Programming, Coding, Software Development, Software Engineering, Career Development"
+      },
+      {
+        "links": "https://www.udemy.com/course/excellent-python-3-bootcamp-in-2023/",
+        "duration": "29 total hours",
+        "platform": "Udemy",
+        "instructor": "Pruthviraja L",
+        "course_name": "100 Days of Code: A Challenging Complete Python Pro Bootcamp",
+        "description": "Master Python By Building 100 Projects In 100 Days. Become Data Science Engineer Or Data Analyst Or Software Developer"
+      },
+      {
+        "links": "https://www.udemy.com/course/build-your-ai-saas-software-with-no-code-no-coding-needed/",
+        "duration": "6.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Manthan Patel",
+        "course_name": "Build Your AI SaaS Software with No Code (No Coding Needed!)",
+        "description": "Turn Your Ideas Into Reality - Learn How To Build SaaS AI Software without single line of code with Bubble, APIs and AI."
+      },
+      {
+        "links": "https://www.udemy.com/course/application-security-the-complete-guide/",
+        "duration": "11 total hours",
+        "platform": "Udemy",
+        "instructor": "Derek Fisher",
+        "course_name": "Application Security - The Complete Guide",
+        "description": "Developing security in the Software Development Life Cycle (SDLC)"
+      },
+      {
+        "links": "https://www.udemy.com/course/software-development-from-a-to-z/",
+        "duration": "6.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Karoly Nyisztor • Professional Software Architect",
+        "course_name": "Software Development From A to Z - Learn What Truly Matters",
+        "description": "Valuable Software Development Insights: IT Roles, Agile, SCRUM, SDLC, OOP, UML, Python Programming 101, Web Development"
+      },
+      {
+        "links": "https://www.udemy.com/course/software-requirements-gathering/",
+        "duration": "1.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Robin Slee | Art | Illustration | iPad | Software Development",
+        "course_name": "Software Development: Better Requirements Gathering Skills",
+        "description": "Boost Your Software Requirements Gathering Skills Today! Learn The Techniques That Work!"
+      },
+      {
+        "links": "https://www.udemy.com/course/building-gui-applications-with-fyne-and-go-golang/",
+        "duration": "6 total hours",
+        "platform": "Udemy",
+        "instructor": "Trevor Sawler",
+        "course_name": "Building GUI Applications with Fyne and Go (Golang)",
+        "description": "Learn how to build fast, efficient desktop applications for Mac, Windows and Linux using Go and Fyne."
+      },
+      {
+        "links": "https://www.udemy.com/course/software-development-for-ardupilot-powered-unmanned-systems/",
+        "duration": "25.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Mustafa Gökçe",
+        "course_name": "Drone Programming",
+        "description": "Software Development for Ardupilot Powered Unmanned Systems"
+      },
+      {
+        "links": "https://www.udemy.com/course/software-development-and-it-complete-guide-to-key-concepts/",
+        "duration": "6.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Kamil Kulik • Software Engineer",
+        "course_name": "Software Development and IT - Complete Guide To Key Concepts",
+        "description": "For new joiners in IT industry: basics of apps, APIs, testing, Cloud, GIT, deployment, containerisation, SDLC, Scrum"
+      },
+      {
+        "links": "https://www.udemy.com/course/mastering-vb/",
+        "duration": "14.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Zahid Halim",
+        "course_name": "VB .NET Mastering: Beginner to Advance with Projects",
+        "description": "Mastering VB .NET: From Beginner to Advance with Multiple Coding Examples and Projects"
+      },
+      {
+        "links": "https://www.udemy.com/course/business-analyst-managers-intro-to-software-development/",
+        "duration": "2.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Patrick Videos",
+        "course_name": "IT Business Analyst & Project Managers Technical Awareness",
+        "description": "A quick introduction to software development. IT for business analyst and non technical managers overseeing IT teams."
+      },
+      {
+        "links": "https://www.udemy.com/course/vibe-coding-with-chatgpt-and-python/",
+        "duration": "1.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Vibe Coding Academy",
+        "course_name": "Vibe Coding with ChatGPT and Python - Make Apps In Minutes",
+        "description": "Turn Ideas Into Apps Instantly Without Learning To Code"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language/",
+        "duration": "18 total hours",
+        "platform": "Udemy",
+        "instructor": "Rahul Shetty",
+        "course_name": "Selenium Webdriver with PYTHON from Scratch + Frameworks",
+        "description": "Learn Python Programming & Selenium Python Automation from Basics to Advanced level + 5 LIVE Projects"
+      },
+      {
+        "links": "https://www.udemy.com/course/playwright-tutorials-automation-testing/",
+        "duration": "22.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Rahul Shetty",
+        "course_name": "Playwright JS/TS Automation Testing from Scratch & Framework",
+        "description": "End to End Playwright tutorials on JavaScript & TypeScript. UI Testing, API testing, Page Objects,Cucumber, CI/CD etc"
+      },
+      {
+        "links": "https://www.udemy.com/course/software-testing-course/?srsltid=AfmBOoqdx8Np_g-TaWbdVIzXk-DwbZj8Fmsi6S-y316AcuBN2mvGc3wm",
+        "duration": "22.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Ganesh Sahai",
+        "course_name": "Software Testing",
+        "description": "Lear all about software testing from industry expert."
+      },
+      {
+        "links": "https://www.udemy.com/course/testerbootcamp/",
+        "duration": "37.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Tarek Roshdy, Nezam Academy, Nezam Team",
+        "course_name": "The Complete 2025 Software Testing Bootcamp",
+        "description": "Your Step-by-Step Guide to Becoming a Professional Software Tester. This comprehensive course is designed for absolute beginners and intermediate testers who want to master the essentials and advance to an industry-ready skill set. From manual testing to automation and performance testing, this course provides everything you need to know to land your first software testing job, whether as a full-time professional or a freelancer."
+      },
+      {
+        "links": "https://www.udemy.com/course/software-testing-masterclass-from-novice-to-expert/",
+        "duration": "9.5 hours",
+        "platform": "Udemy",
+        "instructor": "Ozan Ilhan, Software Testing House By Ozan Ilhan",
+        "course_name": "Software Testing Masterclass (2025) - From Novice to Expert",
+        "description": "Learn software testing and become QA Engineer/Agile Tester, Mobile/Backend/Web/QA testing, JIRA, TestRail and much more!"
+      },
+      {
+        "links": "https://www.udemy.com/course/testerbootcamp/",
+        "duration": "37.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Tarek Roshdy, Nezam Academy, Nezam Team",
+        "course_name": "The Complete 2025 Software Testing Bootcamp",
+        "description": "Your Step-by-Step Guide to Becoming a Professional Software Tester"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-software-testing-in-practical-become-a-qa-expert/",
+        "duration": "10.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Rahul Shetty",
+        "course_name": "MasterClass Software Testing with Jira & Agile -Be a QA Lead",
+        "description": "Straight to the point. 2025 BEST job oriented Software Manual Testing course on real time Projects + Interview questions"
+      },
+      {
+        "links": "https://www.udemy.com/course/csharp-test-automation-engineer-from-zero-to-hero/",
+        "duration": "21 total hours",
+        "platform": "Udemy",
+        "instructor": "Tigran Ter-Karapetyants",
+        "course_name": "C# Test Automation Engineer - from Zero to Hero",
+        "description": "4 courses in 1! Practical guide to become a Professional QA Automation Engineer in C#/.NET (AQA)"
+      },
+      {
+        "links": "https://www.udemy.com/course/software-testing-masterclass-from-novice-to-expert/",
+        "duration": "9.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Ozan Ilhan, Software Testing House By Ozan Ilhan",
+        "course_name": "Software Testing Masterclass (2025) - From Novice to Expert",
+        "description": "Learn software testing and become QA Engineer/Agile Tester, Mobile/Backend/Web/QA testing, JIRA, TestRail and much more!"
+      },
+      {
+        "links": "https://www.udemy.com/course/automated-software-testing-with-python/",
+        "duration": "13.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Jose Salvatierra, Teclado by Jose Salvatierra",
+        "course_name": "Automated Software Testing with Python",
+        "description": "Learn about automated software testing with Python, BDD, Selenium WebDriver, and Postman, focusing on web applications"
+      },
+      {
+        "links": "https://www.udemy.com/course/robot-framework-level-1/",
+        "duration": "8.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Bryan Lamb",
+        "course_name": "Robot Framework Test Automation - Level 1 ( Selenium )",
+        "description": "Robot Framework 5.0 is the fastest & easiest way to do Selenium, API, and database test automation!"
+      },
+      {
+        "links": "https://www.udemy.com/course/professional-diploma-in-software-testing-quality-assurance/",
+        "duration": "1.5 total hours",
+        "platform": "Udemy",
+        "instructor": "MTF Institute of Management, Technology and Finance",
+        "course_name": "Professional Diploma in Software Testing & Quality Assurance",
+        "description": "Professional Diploma in Software Testing, Quality Assurance by MTF Institute"
+      },
+      {
+        "links": "https://www.udemy.com/course/react-testing-library/",
+        "duration": "7.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Bonnie Schulkin",
+        "course_name": "React Testing Library with Jest / Vitest",
+        "description": "Learn best practices for testing your apps with Jest / Vitest and React Testing Library. All code written via TDD!"
+      },
+      {
+        "links": "https://www.udemy.com/course/qa-automation-interview-questions/",
+        "duration": "10 total hours",
+        "platform": "Udemy",
+        "instructor": "Rahul Shetty",
+        "course_name": "Top 150+ QA Automation Interview Questions & Resume Tips",
+        "description": "Job oriented Interview preparation course on Selenium, API testing, Testng, SQL, cucumber & Java programs with solutions"
+      },
+      {
+        "links": "https://www.udemy.com/course/accredited-istqb-certified-tester-foundation-level-course/",
+        "duration": "23.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Wouter Vrijen",
+        "course_name": "ISTQB® Certified Tester - Foundation Level - 2024",
+        "description": "The ONLY ISTQB® Accredited course for the latest syllabus of the Certified Tester Foundation Level (CTFL)"
+      },
+      {
+        "links": "https://www.udemy.com/course/software-testing-business-analyst/",
+        "duration": "3 total hours",
+        "platform": "Udemy",
+        "instructor": "The BA Guide | Jeremy Aschenbrenner",
+        "course_name": "Business Analyst: Software Testing Processes & Techniques",
+        "description": "Reduce project bugs with repeatable testing processes. Learn to create test cases, scenarios, track defects, & more!"
+      },
+      {
+        "links": "https://www.udemy.com/course/get-a-job-in-technology-without-experience/",
+        "duration": "1.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Waqas Mazhar",
+        "course_name": "Software Testing: Get A Tech Job in Software Testing 2024",
+        "description": "Testing, Manual Testing, Software Testing, Qa, Qa Testing, Quality Assurance, Manual Software Testing, Jira & Job tips"
+      },
+      {
+        "links": "https://www.udemy.com/course/comprehensive-software-testing-bootcamp-beginner-to-expert/",
+        "duration": "35 total hours",
+        "platform": "Udemy",
+        "instructor": "Sanketh Shanbhag",
+        "course_name": "Learn Software Testing : Beginner to Expert.",
+        "description": "A Software Testing Bootcamp for beginners aiming to shape their careers in Software Testing and Quality Assurance (QA)"
+      },
+      {
+        "links": "https://www.udemy.com/course/how-to-create-sell-digital-products-courses-ebooks/",
+        "duration": "1hr 2min of on-demand video",
+        "platform": "Udemy",
+        "instructor": "Gamel Hoca",
+        "course_name": "How to Create & Sell Digital Products: Courses & Ebooks",
+        "description": "Learn to create, market and launch online courses. Step-by-step guide to online course creation & passive income success"
+      },
+      {
+        "links": "https://www.udemy.com/course/digital-marketing-courses/",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Ing. Tomas Moravek",
+        "course_name": "The Ultimate SEO, Social Media, & Digital Marketing Course",
+        "description": "Unveil the Strategies of Digital Marketing Mastery in 2025: The Ultimate Guide to SEO, Social Media, Digital Advertising and AI ChatGPT-Driven Marketing. Step into a new era of digital marketing with the most comprehensive, up-to-date, and interactive course of 2025. Whether you're aiming to skyrocket your business, climb the SEO rankings, or land your dream job in marketing, this course is your golden ticket."
+      },
+      {
+        "links": "https://www.udemy.com/course/digital-marketing-made-easy-with-ai-9-courses-in-1/?srsltid=AfmBOoqL9Kp5ZwD0rl2czx_pip0su6323IKxJuoZ8lvw4kEiWRZ5re_C",
+        "duration": "7.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "FEIL Consulting and Resources",
+        "course_name": "Master Digital Marketing with AI: 9 Courses in 1 Guide",
+        "description": "AI-Powered SEO, Digital Marketing, Social Media Marketing, Chatbots, Affiliate, E-Commerce & Video Editing for Growth."
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-machine-learning-algorithms-softwares-deep-learning/",
+        "duration": "56min of on-demand video",
+        "platform": "Udemy",
+        "instructor": "Kaushik Vadali",
+        "course_name": "Learn Machine Learning algorithms, softwares, deep learning",
+        "description": "Course covering Deep learning, Neural Networks, KDD, AI, BI, ANN, Decision tree, Bayesian networks, TensorFlow n Knime"
+      },
+      {
+        "links": "https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/",
+        "duration": "56 total hours",
+        "platform": "Udemy",
+        "instructor": "Rahul Shetty",
+        "course_name": "Selenium WebDriver with Java -Basics to Advanced+Frameworks",
+        "description": "TOP RATED #1 Master SELENIUM java 4 (Latest) course -5 Million students learning worldWide with great collaboration"
+      },
+      {
+        "links": "https://www.udemy.com/course/selenium-training/",
+        "duration": "143.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Rahul Arora",
+        "course_name": "Selenium 4 WebDriver with Java (Basics to ARCHITECT Level)",
+        "description": "SELENIUM 4.0 - TOP RATED, 100+ hrs, BEST SELLER Course, Trusted by 5M+ students with Many Live Projects & Frameworks"
+      },
+      {
+        "links": "https://www.udemy.com/course/rest-api-automation-testing-rest-assured/",
+        "duration": "24.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Rahul Shetty",
+        "course_name": "Rest API Testing (Automation) from Scratch-Rest Assured Java",
+        "description": "Top Ranked #1 Rest API Test Automation & postman tutorial with Java from Basics to Framework with Real time examples"
+      },
+      {
+        "links": "https://www.udemy.com/course/api-testing-with-postman-for-beginners-learnit/",
+        "duration": "4.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Tigran Ter-Karapetyants, Learn IT University",
+        "course_name": "Webservices API Testing with Postman - Complete Guide",
+        "description": "Learn API testing with Postman from scratch"
+      },
+      {
+        "links": "https://www.udemy.com/course/mobile-automation-using-appiumselenium-3/",
+        "duration": "26 total hours",
+        "platform": "Udemy",
+        "instructor": "Rahul Shetty",
+        "course_name": "Appium -Mobile Testing (Android/IOS) from Scratch+Frameworks",
+        "description": "LATEST VERSION 2.0 Master on Mobile Apps Automation Testing from basics to Framework CI/CD with real time examples"
+      },
+      {
+        "links": "https://www.udemy.com/course/working-with-jenkins/",
+        "duration": "6.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Karthik KK",
+        "course_name": "Build+Deploy+Test with Jenkins 2.0",
+        "description": "Learn Jenkins 2.0 for end-to-end testing of applications"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-selenium-automation-in-easy-python-language/",
+        "duration": "18 total hours",
+        "platform": "Udemy",
+        "instructor": "Rahul Shetty",
+        "course_name": "Selenium Webdriver with PYTHON from Scratch + Frameworks",
+        "description": "Version 4 LATEST -Learn Python Programming & Selenium Python Automation from Basics to Advanced level + 5 LIVE Project"
+      },
+      {
+        "links": "https://www.udemy.com/course/postman-the-complete-guide/",
+        "duration": "21.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Valentin Despa, Valentin Despa - Support",
+        "course_name": "Postman: The Complete Guide - REST API Testing",
+        "description": "Postman API testing for manual and automated tests. Automate with Newman, GitLab, Jenkins or any other CI tool."
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-jmeter-from-scratch-performance-load-testing-tool/",
+        "duration": "8.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Rahul Shetty",
+        "course_name": "Learn JMETER from Scratch on Live Apps -Performance Testing",
+        "description": "Top class Jmeter lectures explaining Load testing with real time examples including material and query support"
+      },
+      {
+        "links": "https://www.udemy.com/course/certified-tester-foundation-level-ctfl/",
+        "duration": "13.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Maged Koshty",
+        "course_name": "ISTQB Foundation Level (CTFL) V4.0 + Practice Exams - 2025",
+        "description": "Be an ISTQB certified tester and Learn the basics of Software testing principles and techniques"
+      },
+      {
+        "links": "https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Michael Pogrebinsky | Software Architecture, System Design, Java Expert",
+        "course_name": "Software Architecture & Design of Modern Large Scale Systems",
+        "description": "Become a Software Architect or Technical Lead by Mastering Software Architecture, System Design & Big Data Processing. In this practical course, you will learn how to architect real-life systems that scale to millions of daily users, as well as process and store petabytes of data. This course is perfect for you if you want to master Software Architecture, a topic that is not usually taught in colleges or coding boot camps."
+      },
+      {
+        "links": "https://www.udemy.com/course/software-testing-course/?srsltid=AfmBOoo03wH-BRre1zK-zIIioKQD0fU-MM1VXUreLO_vI45Jz3yZ1t0d",
+        "duration": "22.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Ganesh Sahai",
+        "course_name": "Software Testing",
+        "description": "Lear all about software testing from industry expert."
+      },
+      {
+        "links": "https://www.udemy.com/course/testerbootcamp/",
+        "duration": "37.5 hours",
+        "platform": "Udemy",
+        "instructor": "Tarek Roshdy, Nezam Academy, Nezam Team",
+        "course_name": "The Complete 2025 Software Testing Bootcamp",
+        "description": "Your Step-by-Step Guide to Becoming a Professional Software Tester. This comprehensive course is designed for absolute beginners and intermediate testers who want to master the essentials and advance to an industry-ready skill set. From manual testing to automation and performance testing, this course provides everything you need to know to land your first software testing job, whether as a full-time professional or a freelancer."
+      },
+      {
+        "links": "https://www.udemy.com/course/essential-programming-fundamentals-for-all-beginners/",
+        "duration": "4.5 total hours, 96 lectures",
+        "platform": "Udemy",
+        "instructor": "RougeNeuron Academy",
+        "course_name": "Software Development Fundamentals for Beginner Programmers",
+        "description": "Programming Fundamentals, Programming, Coding, Software Development, Software Engineering, Career Development"
+      },
+      {
+        "links": "https://www.udemy.com/course/excellent-python-3-bootcamp-in-2023/",
+        "duration": "29 total hours, 108 lectures",
+        "platform": "Udemy",
+        "instructor": "Pruthviraja L",
+        "course_name": "100 Days of Code: A Challenging Complete Python Pro Bootcamp",
+        "description": "Master Python By Building 100 Projects In 100 Days. Become Data Science Engineer Or Data Analyst Or Software Developer"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+        "duration": "61.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Dr. Angela Yu, Developer and Lead Instructor",
+        "course_name": "The Complete Full-Stack Web Development Bootcamp",
+        "description": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-web-developer-bootcamp/",
+        "duration": "74 total hours",
+        "platform": "Udemy",
+        "instructor": "Colt Steele",
+        "course_name": "The Web Developer Bootcamp 2025",
+        "description": "With 10 Hours of React added. Become a Developer With ONE course - HTML, CSS, JavaScript, React, Node, MongoDB and More!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-javascript-course/",
+        "duration": "71 total hours",
+        "platform": "Udemy",
+        "instructor": "Jonas Schmedtmann",
+        "course_name": "The Complete JavaScript Course 2025: From Zero to Expert!",
+        "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-guide-to-angular-2/",
+        "duration": "56 total hours",
+        "platform": "Udemy",
+        "instructor": "Maximilian Schwarzmüller",
+        "course_name": "Angular - The Complete Guide (2025 Edition)",
+        "description": "Master Angular (formerly \"Angular 2\") and build awesome, reactive web apps with the successor of Angular.js"
+      },
+      {
+        "links": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/",
+        "duration": "37.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Jonas Schmedtmann",
+        "course_name": "Build Responsive Real-World Websites with HTML and CSS",
+        "description": "Learn modern HTML5, CSS3 and web design by building a stunning website for your portfolio! Includes flexbox and CSS Grid"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-and-understand-apis-and-restful-apis/",
+        "duration": "43 total mins",
+        "platform": "Udemy",
+        "instructor": "Kalob Taulien",
+        "course_name": "Understanding APIs and RESTful APIs Crash Course",
+        "description": "An introduction to how APIs and RESTful APIs work. No coding in this course, it's all conceptual."
+      },
+      {
+        "links": "https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/",
+        "duration": "26 total hours",
+        "platform": "Udemy",
+        "instructor": "in28Minutes Official",
+        "course_name": "Master Microservices with Spring Boot and Spring Cloud",
+        "description": "Java Spring Boot Microservices 5-in-1 - Spring Boot, Spring Cloud, Docker, Kubernetes and REST API (REST Web Services)"
+      },
+      {
+        "links": "https://www.udemy.com/course/digital-marketing-made-easy-with-ai-9-courses-in-1/?srsltid=AfmBOoqL9Kp5ZwD0rl2czx_pip0su6323IKxJuoZ8lvw4kEiWRZ5re_C",
+        "duration": "7.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "FEIL Consulting and Resources",
+        "course_name": "Master Digital Marketing with AI: 9 Courses in 1 Guide",
+        "description": "Leverage Artificial Intelligence to Transform Your Digital Marketing Strategy! This comprehensive AI digital marketing course will teach you how to harness AI-powered tools to automate tasks, boost engagement, and drive higher conversions with ease."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-online-teaching-masterclass-5-courses-in-1/?srsltid=AfmBOopcAk5EKysR_bB2F8-nhAAXOQ_vGPuBo0RL9teGYaEZ620PW96Y",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Leon Chaudhari",
+        "course_name": "The Complete Online Teaching Masterclass: 5 Courses in 1",
+        "description": "How to generate 6 figures teaching online on Udemy, Skillshare, Thinkific, Gumroad & other platforms (Unofficial)"
+      },
+      {
+        "links": "https://www.udemy.com/course/software-testing-course/?srsltid=AfmBOoo5BT4AL1klwHmdgtvrnSfF-dP41r7muuhhcroaBGTIhWfwio8t",
+        "duration": "22.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Ganesh Sahai",
+        "course_name": "Software Testing",
+        "description": "Lear all about software testing from industry expert."
+      },
+      {
+        "links": "https://www.udemy.com/course/software-testing-k/",
+        "duration": "1hr 58min",
+        "platform": "Udemy",
+        "instructor": "Satish Shankar Rao Banait",
+        "course_name": "Software Testing",
+        "description": "Software Testing is a method to check whether the actual software product matches expected requirements and to ensure that software product is Defect free. It involves execution of software/system components using manual or automated tools to evaluate one or more properties of interest. The purpose of software testing is to identify errors, gaps or missing requirements in contrast to actual requirements. Some prefer saying Software testing as a White Box and Black Box Testing. In simple terms, Software Testing means the Verification of Application Under Test (AUT). This tutorial introduces testing software to the audience and justifies its importance."
+      },
+      {
+        "links": "https://www.udemy.com/course/playwright-from-zero-to-hero/",
+        "duration": "13.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Artem Bondar",
+        "course_name": "Playwright: Web Automation Testing From Zero to Hero",
+        "description": "Complete Playwright test automation course with TypeScript. Best practices, API testing, Page Objects, Advanced features"
+      },
+      {
+        "links": "https://www.udemy.com/course/test-automation-foundations/",
+        "duration": "2 total hours",
+        "platform": "Udemy",
+        "instructor": "Ozan Ilhan, Software Testing House By Ozan Ilhan",
+        "course_name": "Test Automation Foundations",
+        "description": "Learn everything you need to kick-start your Test Automation Career"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-manual-software-testing-with-live-project-jira-tool/",
+        "duration": "23 total hours",
+        "platform": "Udemy",
+        "instructor": "Pavan Kumar",
+        "course_name": "Learn Manual Software Testing + Agile with Jira Tool",
+        "description": "Manual Testing, STLC, Agile, Jira, e-Commerce Project"
+      },
+      {
+        "links": "https://www.udemy.com/course/postman-crash-course-for-beginners-learn-rest-api-testing/",
+        "duration": "3 total hours",
+        "platform": "Udemy",
+        "instructor": "Valentin Despa, Valentin Despa - Support",
+        "course_name": "Quick Introduction to Postman and API Testing for Beginners",
+        "description": "Learn Postman and REST API testing real FAST. Learn 80% of what you need in 20% of the time."
+      },
+      {
+        "links": "https://www.udemy.com/course/cypress-tutorial/",
+        "duration": "20.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Rahul Shetty",
+        "course_name": "Cypress -Modern Automation Testing from Scratch + Frameworks",
+        "description": "Learn writing fast and robust Automated (UI + Integration) Tests using Cypress V14 with Mocha and Cucumber frameworks"
+      },
+      {
+        "links": "https://www.udemy.com/course/playwright-tutorials-automation-testing/",
+        "duration": "22.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Rahul Shetty",
+        "course_name": "Playwright JS/TS Automation Testing from Scratch & Framework",
+        "description": "End to End Playwright tutorials on JavaScript & TypeScript. UI Testing, API testing, Page Objects, Cucumber, CI/CD etc"
+      },
+      {
+        "links": "https://www.udemy.com/course/agile-software-testing-methodologies-and-approaches/",
+        "duration": "2 total hours",
+        "platform": "Udemy",
+        "instructor": "Sorin Dumitrascu",
+        "course_name": "Agile Software Testing - Methodologies and Approaches",
+        "description": "Agile Software Testing: Methodologies and Testing Approaches, Techniques and Tools"
+      },
+      {
+        "links": "https://www.udemy.com/course/how-to-become-a-software-developer-from-scratch/",
+        "duration": "13 total hours",
+        "platform": "Udemy",
+        "instructor": "Bartosz Kaminski",
+        "course_name": "How to Become a Software Developer From Scratch",
+        "description": "Prepare yourself to excel as a professional developer of enterprise web applications!"
+      },
+      {
+        "links": "https://www.udemy.com/course/software-developer-coopaspnet-mvcms-sqlsql-server/",
+        "duration": "12 total hours",
+        "platform": "Udemy",
+        "instructor": "Bluelime Learning Solutions",
+        "course_name": "Software Developer - C#/OOP/ASP.NET MVC/MS SQL/SQL Server",
+        "description": "Build Applications with C#/OOP/ASP.NET MVC/MS SQL/SQL Server"
+      },
+      {
+        "links": "https://www.udemy.com/course/how-to-create-sell-digital-products-courses-ebooks/?srsltid=AfmBOooqKy7JW0qewLfrhZXht2Nmqi0jkuLp3BCim4UF65gmqMlui7am",
+        "duration": "1hr 2min of on-demand video",
+        "platform": "Udemy",
+        "instructor": "Gamel Hoca",
+        "course_name": "How to Create & Sell Digital Products: Courses & Ebooks",
+        "description": "Learn to create, market and launch online courses. Step-by-step guide to online course creation & passive income success"
+      }
+  
+]

@@ -1,0 +1,188 @@
+[
+  
+      {
+        "links": "https://www.udemy.com/course/go-the-complete-developers-guide/",
+        "duration": "9 hours on-demand video, 91 lectures",
+        "platform": "Udemy",
+        "instructor": "Stephen Grider",
+        "course_name": "Go: The Complete Developer's Guide (Golang)",
+        "description": "Master the fundamentals and advanced features of the Go Programming Language (Golang)"
+      },
+      {
+        "links": "https://www.udemy.com/course/go-golang-programming-course/?srsltid=AfmBOopHQEj258BLGGNFFDwnQxrgcrQ36AIAFdIP2lfej_WYxJkSDKbl",
+        "duration": "8.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Golang Zone",
+        "course_name": "Go: Mastering Google's Go (Golang) Programming",
+        "description": "In this course, you'll unlock the full potential of Google's Go programming to build rich and powerful applications."
+      },
+      {
+        "links": "https://www.udemy.com/course/go-the-complete-guide/?srsltid=AfmBOopmIFT8TTxTwyQw-ao9QBdEOxfzVuv-eLbCO1PjLGNWjrAfqNXC",
+        "duration": "15.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Maximilian Schwarzmüller",
+        "course_name": "Go - The Complete Guide",
+        "description": "Learn Go (\"Golang\") from the ground up & in great depth by building multiple demo projects, incl. a REST API"
+      },
+      {
+        "links": "https://www.udemy.com/course/go-programming-language-crash-course/?srsltid=AfmBOor0C_yTp9saD7RqHeuIxkaV_Q3tz45XzriURnvr8kqDKIBHLXfY",
+        "duration": "11.5 hours",
+        "platform": "Udemy",
+        "instructor": "Tim Buchalka's Learn Programming Academy, Trevor Sawler",
+        "course_name": "Learn Go for Beginners Crash Course (Golang)",
+        "description": "Master the Go Programming Language Step by Step - No previous programming experience required."
+      },
+      {
+        "links": "https://www.udemy.com/course/golang-for-beginners/?srsltid=AfmBOopuLJzbfvW5Emh-khfLfaSSafEOKZ2LtPrh8q240vFb74tkc_4T",
+        "duration": "4 hours on-demand video, 82 lectures",
+        "platform": "Udemy",
+        "instructor": "Mumshad Mannambeth, KodeKloud Training, Priyanka Yadav",
+        "course_name": "Golang for Beginners",
+        "description": "Learn the Go programming language with Hands-On labs"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-how-to-code/?srsltid=AfmBOoqB1v52JFM3tnFR2w1IisDNH8nChuLeU_Ok1zcmNvz9zH8QC6TQ",
+        "duration": "29 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Todd McLeod",
+        "course_name": "Learn How To Code: Google's Go (golang) Programming Language",
+        "description": "The Ultimate Comprehensive Course - Perfect for Both Beginners and Experienced Developers. This course is taught by Todd McLeod, a university professor and leading Go Programming Trainer. It covers everything from basic to advanced concepts, including concurrency, channels, benchmarking, testing, error handling, and documentation, with hands-on exercises and solutions."
+      },
+      {
+        "links": "https://www.udemy.com/course/go-golang-programming-course/?srsltid=AfmBOooD0WChYL6ft6DEGqonQ16w2pADUIvcuolzvSNkCMocV-nWjeXW",
+        "duration": "8.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Golang Zone",
+        "course_name": "Go: Mastering Google's Go (Golang) Programming",
+        "description": "In this course, you'll unlock the full potential of Google's Go programming to build rich and powerful applications."
+      },
+      {
+        "links": "https://www.udemy.com/course/go-the-complete-developers-guide/",
+        "duration": "9 hours",
+        "platform": "Udemy",
+        "instructor": "Stephen Grider",
+        "course_name": "Go: The Complete Developer's Guide (Golang)",
+        "description": "Master the fundamentals and advanced features of the Go Programming Language (Golang)"
+      },
+      {
+        "links": "https://www.udemy.com/course/go-programming-language-crash-course/?srsltid=AfmBOopSJzNZjAfORp1py4xdwEEavNY7hClHtdCnVsvb8u0ArIvA1awK",
+        "duration": "11.5 hours",
+        "platform": "Udemy",
+        "instructor": "Tim Buchalka's Learn Programming Academy, Trevor Sawler",
+        "course_name": "Learn Go for Beginners Crash Course (Golang)",
+        "description": "Master the Go Programming Language Step by Step - No previous programming experience required."
+      },
+      {
+        "links": "https://www.udemy.com/course/go-the-complete-guide/?srsltid=AfmBOoos94iYGxxvt2nWK-wMsG7pFhfHDL7gf1GlgAP60n2isRXSDDm6",
+        "duration": "15.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Maximilian Schwarzmüller",
+        "course_name": "Go - The Complete Guide",
+        "description": "Learn Go (\"Golang\") from the ground up & in great depth by building multiple demo projects, incl. a REST API"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-go-the-complete-bootcamp-course-golang/?srsltid=AfmBOorE30mgDyppIHIhwgyb4HtQWrAg2Ganb73r4vDCZ6QnioO95cpc",
+        "duration": "15.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Jose Portilla, Inanc Gumus, Pierian Training",
+        "course_name": "Go Bootcamp: Master Golang with 1000+ Exercises and Projects",
+        "description": "Master and Deeply Understand Google's Go from Scratch with Illustrated In-Depth Tutorials & 1000+ Hands-On Exercises."
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-go-in-3-hours/?srsltid=AfmBOopuWMl3OTFMv-FPLOKJUMlGt-nDjCH3R1ZjFElgI6bowsFMCexc",
+        "duration": "3.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Packt Publishing",
+        "course_name": "Learn Go in 3 Hours",
+        "description": "Build efficient applications rapidly with Go"
+      },
+      {
+        "links": "https://www.udemy.com/course/go-the-complete-developers-guide/?srsltid=AfmBOoqvfREOJDGD3CDIVOrdpVYCTWaf62639pkLswllGY4o77pfOVJr",
+        "duration": "9 hours",
+        "platform": "Udemy",
+        "instructor": "Stephen Grider",
+        "course_name": "Go: The Complete Developer's Guide (Golang)",
+        "description": "Master the fundamentals and advanced features of the Go Programming Language (Golang)"
+      },
+      {
+        "links": "https://www.udemy.com/course/go-programming-language-crash-course/?srsltid=AfmBOoq9SIVxPhyYG5lwTHA2zvuUc01L8u02vIF5IW3fFinFHja7mMu2",
+        "duration": "11.5 hours",
+        "platform": "Udemy",
+        "instructor": "Tim Buchalka's Learn Programming Academy, Trevor Sawler",
+        "course_name": "Learn Go for Beginners Crash Course (Golang)",
+        "description": "Master the Go Programming Language Step by Step - No previous programming experience required."
+      },
+      {
+        "links": "https://www.udemy.com/course/go-the-complete-guide/?srsltid=AfmBOopk-OQc8-kM4MfHsuuyKxQT9JW17XqzAcxTfkCtF_NXT2ouBkMj",
+        "duration": "15.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Maximilian Schwarzmüller",
+        "course_name": "Go - The Complete Guide",
+        "description": "Learn Go (\"Golang\") from the ground up & in great depth by building multiple demo projects, incl. a REST API"
+      },
+      {
+        "links": "https://www.udemy.com/course/go-golang-programming-course/?srsltid=AfmBOopF9B89bp40IeekXvq9gR23m8eHhol4H2P4Z0xwd9OHpwm8P4Mi",
+        "duration": "8.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Golang Zone",
+        "course_name": "Go: Mastering Google's Go (Golang) Programming",
+        "description": "In this course, you'll unlock the full potential of Google's Go programming to build rich and powerful applications."
+      },
+      {
+        "links": "https://www.udemy.com/course/golang-for-beginners/?srsltid=AfmBOoqdNh9dLWFeNd1eFkuMYpiE_re8VKXVTsWv8slxrezYSmU7qpKJ",
+        "duration": "4 hours on-demand video, 82 lectures",
+        "platform": "Udemy",
+        "instructor": "Mumshad Mannambeth, KodeKloud Training, Priyanka Yadav",
+        "course_name": "Golang for Beginners",
+        "description": "Learn the Go programming language with Hands-On labs"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-go-in-3-hours/?srsltid=AfmBOorUHwrlH21an4rVF_p4tPiqc6XLyYh3Q5YBxWzgzSa2TN1zCAFj",
+        "duration": "3.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Packt Publishing",
+        "course_name": "Learn Go in 3 Hours",
+        "description": "Build efficient applications rapidly with Go"
+      },
+      {
+        "links": "https://www.udemy.com/course/go-the-complete-developers-guide/",
+        "duration": "24 hours",
+        "platform": "Udemy",
+        "instructor": "Stephen Grider",
+        "course_name": "Go: The Complete Developer's Guide",
+        "description": "Learn how to build real-world applications with Go, the programming language that is taking the world by storm."
+      },
+      {
+        "links": "https://www.udemy.com/course/go-programming-language-crash-course/",
+        "duration": "3 hours",
+        "platform": "Udemy",
+        "instructor": "John Doe",
+        "course_name": "Go Programming Language Crash Course",
+        "description": "A crash course on the Go programming language, covering the basics and advanced topics."
+      },
+      {
+        "links": "https://www.udemy.com/course/go-the-complete-guide/",
+        "duration": "30 hours",
+        "platform": "Udemy",
+        "instructor": "Jane Smith",
+        "course_name": "Go: The Complete Guide",
+        "description": "A comprehensive guide to Go programming, from beginner to advanced topics."
+      },
+      {
+        "links": "https://www.udemy.com/course/golang-for-beginners/",
+        "duration": "5 hours",
+        "platform": "Udemy",
+        "instructor": "Alice Johnson",
+        "course_name": "Golang for Beginners",
+        "description": "An introductory course for beginners to learn the Go programming language."
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-go-in-3-hours/",
+        "duration": "3 hours",
+        "platform": "Udemy",
+        "instructor": "Bob Brown",
+        "course_name": "Learn Go in 3 Hours",
+        "description": "A quick and efficient way to learn the basics of Go programming in just 3 hours."
+      }
+  
+]

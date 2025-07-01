@@ -1,0 +1,1173 @@
+[
+ 
+      {
+        "links": "https://www.udemy.com/course/programmatic-uber-clone-swift-firebase-no-storyboards/",
+        "duration": "18.5 total hours",
+        "instructor": "Stephan Dowless",
+        "course_name": "Programmatic Uber Clone App | Swift / Firebase | No Storyboards",
+        "description": "Build a fully programmatic Uber Clone with iOS 13 and the latest versions of Swift & Firebase, without storyboards!"
+      },
+      {
+        "links": "https://www.udemy.com/course/ios-13-app-development-bootcamp",
+        "duration": "55+ hours",
+        "instructor": "Dr. Angela Yu, Developer and Lead Instructor",
+        "course_name": "iOS & Swift - The Complete iOS App Development Bootcamp",
+        "description": "From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!"
+      },
+      {
+        "links": "https://www.udemy.com/course/bootcamp-generative-artificial-intelligence-and-llm-app-development/",
+        "duration": "More than 650 lessons divided into sections, More than 650 videos, More than 320 attached presentations, More than 220 practical notebooks, 50 practical code repositories on Github, Material for more than 400 hours of study and practice for the student.",
+        "instructor": "Julio Colomer",
+        "course_name": "2025 Bootcamp: Generative AI, LLM Apps, AI Agents, Cursor AI",
+        "description": "From zero to professional level: learn the keys to Generative AI, LLM Apps, AI Agents, and Cursor AI."
+      },
+      {
+        "links": "https://www.udemy.com/course/cloud-powered-web-app-development-with-aws-and-php/",
+        "duration": "14.5 hours on-demand video",
+        "instructor": "YouAccel Training, Blue Digital Media",
+        "course_name": "Cloud-Powered Web App Development with AWS and PHP",
+        "description": "This course provides a comprehensive introduction to cloud computing using Amazon Web Services (AWS) and web application development using PHP and MySQL. Students will gain an overview of AWS and its core services, including EC2 and storage, before delving into IAM: Identity and Access Management, which enables control of access to AWS resources. Students also learn how to launch EC2 instances, store data in AWS, and use Elastic Load Balancers (ELB), Auto Scaling Groups (ASG), and Route 53 to create a highly available and scalable web application."
+      },
+      {
+        "links": "https://www.udemy.com/course/dart-and-flutter-the-ultimate-mobile-app-development-course/?srsltid=AfmBOorIswEtzoCjzsCI6_yV3sCQb-0bLEUbnb8W1bN9NJHQF88Zow0g",
+        "duration": "",
+        "instructor": "Mehmood Khalil, Zaheer Irshad",
+        "course_name": "Dart and Flutter: The Ultimate Mobile App Development Course",
+        "description": "Complete Dart and Flutter Mastery: Build Mobile Apps from Zero to Hero"
+      },
+      {
+        "links": "https://www.udemy.com/course/ios-13-app-development-bootcamp/?srsltid=AfmBOoqn-Xf8odpuQW0AqOJ8pQeqWDc8uZ_nXqYr4k8hyGmIQ8TVUvI3",
+        "duration": "55+ hours",
+        "instructor": "Dr. Angela Yu, Developer and Lead Instructor",
+        "course_name": "iOS & Swift - The Complete iOS App Development Bootcamp",
+        "description": "From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI! This course includes 55+ hours of HD video tutorials and builds your programming knowledge while making real world apps. You'll be building 3D augmented reality apps that look like Pokemon Go and Harry Potter's magical newspapers!"
+      },
+      {
+        "links": "https://www.udemy.com/course/ios-15-app-development-with-swiftui-3-and-swift-5/?srsltid=AfmBOooO2bmv-MpkOk11u0crObJy211AYIvIX389UNfSN_sP0XGU-IVL",
+        "duration": "",
+        "instructor": "Kenneth Jones",
+        "course_name": "iOS 18, SwiftUI 6, & Swift 6: Build iOS Apps From Scratch",
+        "description": "Learn iOS development with SwiftUI 6 and Swift 6; build complete iOS 18 apps from scratch; visionOS, macOS, watchOS"
+      },
+      {
+        "links": "https://www.udemy.com/course/android-app-development-course-with-kotlin-android-a-ztm/",
+        "duration": "",
+        "instructor": "Oak Academy, OAK Academy Team, Mehmet ÖNGEL",
+        "course_name": "Android App Development Course with Kotlin | Android A-Z™",
+        "description": "Learn Android app development with kotlin, android development from scratch for mobile app development. This course is designed to help beginners to start making applications in Android and covers everything from the Android environment setup to publishing apps on Google Play."
+      },
+      {
+        "links": "https://www.udemy.com/course/android-development-and-android-application-hacking/",
+        "duration": "",
+        "instructor": "Oak Academy",
+        "course_name": "Android App Development & Android Hacking, Android Security",
+        "description": "Android Application Development, Android Hacking, Android security concept with Android Penetration Testing from scratch"
+      },
+      {
+        "links": "https://www.udemy.com/course/android-app-development-with-kotlin-intermediate-android/",
+        "duration": "",
+        "instructor": "Oak Academy, OAK Academy Team, Mehmet ÖNGEL",
+        "course_name": "Android App Development with Kotlin | Intermediate Android",
+        "description": "Kotlin Android | Android App Development with Firebase, Android Studio, android development, app development projects. This course is designed to help you develop advanced Android Applications using web integrated, online database. It covers important topics such as fragments, data transfer between screens, making calls, sending emails, and more. The course is suitable for those with basic Android knowledge who want to learn advanced levels of Android development."
+      },
+      {
+        "links": "https://www.udemy.com/course/android-app-development-with-kotlin-java-jetpack-compose/",
+        "duration": "",
+        "instructor": "Oak Academy, OAK Academy Team, Mehmet ÖNGEL",
+        "course_name": "Android App Development with Kotlin & Java & Jetpack Compose",
+        "description": "Learn Android App Development with Jetpack Compose, Kotlin, and Java from scratch. This course covers Android Studio installation, app design with Material3, and publishing apps on Google Play. It includes hands-on projects and exercises to develop modern Android apps."
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-kotlin-java-develop-android-app-development-kotlin/",
+        "duration": "52 hours",
+        "instructor": "Oak Academy, OAK Academy Team, Mehmet ÖNGEL",
+        "course_name": "Kotlin Java for Android App Development | Kotlin Android",
+        "description": "Android App Development with Kotlin, Java and Android studio, improve your android development skills in Kotlin android"
+      },
+      {
+        "links": "https://www.udemy.com/course/jetpack-compose-kotlin-for-modern-android-app-development/",
+        "duration": "",
+        "instructor": "Oak Academy, OAK Academy Team, Mehmet ÖNGEL",
+        "course_name": "Jetpack Compose & Kotlin for Modern Android App Development",
+        "description": "Kotlin & Android Jetpack Compose | Learn Android App Development Kotlin with Jetpack Compose to build native Android UI"
+      },
+      {
+        "links": "https://www.udemy.com/course/python-app-development-masterclass-app-development-bootcamp/?srsltid=AfmBOorxiADx2JY9eGoZYgAq5-K1kfLJ6fDdq457dKIC9ZQM9w7ux7wv",
+        "duration": "",
+        "instructor": "Learnify IT",
+        "course_name": "Python App Development Masterclass App Development Bootcamp",
+        "description": "Build Real-World Applications with Python: A Complete App Development Bootcamp for Beginners to Advanced Learners"
+      },
+      {
+        "links": "https://www.udemy.com/course/java-kotlin-android-app-development-with-10-practical-apps/",
+        "duration": "27 hours on-demand video",
+        "instructor": "Oak Academy, OAK Academy Team, Mehmet ÖNGEL",
+        "course_name": "Java & Kotlin Android App Development with 10 Practical Apps",
+        "description": "Master Android App Development with 10 projects in Java and Kotlin. Build real java and kotlin android apps step by step."
+      },
+      {
+        "links": "https://www.udemy.com/course/kotlin-android-app-development-with-hands-on-7-kotlin-apps/",
+        "duration": "",
+        "instructor": "Oak Academy, OAK Academy Team, Mehmet ÖNGEL",
+        "course_name": "Kotlin | Android App Development with Hands-on 7 Kotlin Apps",
+        "description": "Android App Development | Learn Kotlin, Android Studio, MVVM with hands-on Kotlin Android Apps, be mobile app developer"
+      },
+      {
+        "links": "https://www.udemy.com/course/android-app-development-hands-on-android-apps-with-java/",
+        "duration": "",
+        "instructor": "Oak Academy, OAK Academy Team, Mehmet ÖNGEL",
+        "course_name": "Android App Development: Hands-on Android Apps with Java",
+        "description": "Build 5 different Android Apps from scratch. Learn Android App development with real-life examples, improve your skills!"
+      },
+      {
+        "links": "https://www.udemy.com/course/android-app-development-build-10-different-android-apps/",
+        "duration": null,
+        "instructor": "Oak Academy, OAK Academy Team, Mehmet ÖNGEL",
+        "course_name": "Android App Development: Modern Android Development Skills",
+        "description": "Develop different modern Android apps, learn android & mobile app development with projects. This course is designed to fill the gap in hands-on application, focusing on real-world android app development with practical lectures. You will learn to build 10 different Android applications from scratch, reinforcing your existing knowledge and improving your skills in Android development."
+      },
+      {
+        "links": "https://www.udemy.com/course/android-development-android-app-development-from-scratch/",
+        "duration": "",
+        "instructor": "Oak Academy, OAK Academy Team, Mehmet ÖNGEL",
+        "course_name": "Android Development: Android App Development From Scratch",
+        "description": "Learn java, android, android studio, android development and android app development with Android 11, become a developer"
+      },
+      {
+        "links": "https://www.udemy.com/course/build-real-android-apps-android-app-development-with-java/",
+        "duration": "",
+        "instructor": "Oak Academy, OAK Academy Team, Mehmet ÖNGEL",
+        "course_name": "Android App Development with 7 Real Android Apps and Java",
+        "description": "Android App Development with Android Studio & Java, boost your android development skills with 7 different Android Apps"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/",
+        "duration": "over 30 hours of comprehensive content",
+        "instructor": "Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller",
+        "course_name": "Flutter & Dart - The Complete Guide [2025 Edition]",
+        "description": "A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps"
+      },
+      {
+        "links": "https://www.udemy.com/course/build-a-serverless-app-with-aws-lambda-hands-on/",
+        "duration": "",
+        "instructor": "Sundog Education by Frank Kane, Brian Tajuddin, Frank Kane, Sundog Education Team",
+        "course_name": "[RETIRED] Build a Serverless App with AWS Lambda - Hands On!",
+        "description": "Create a chat web app using Amazon Web Services - Lambda, DynamoDB, API Gateway, S3, Cognito, CloudFront, and more."
+      },
+      {
+        "links": "https://www.udemy.com/course/augmented-reality-merge-cube-create-your-augmented-reality-application/",
+        "duration": "",
+        "instructor": "ProTech Innovations Academy, ProTech Academy Support, Ashraf Said AlMadhoun",
+        "course_name": "Create Your Own Augmented Reality Application",
+        "description": "Create Your Own Augmented reality (AR) Apps in No Time using Free Tools without Experience. Explore this wonderful world!"
+      },
+      {
+        "links": "https://www.udemy.com/course/tiktokcloneapp/",
+        "duration": null,
+        "instructor": "Batuhan Akbaba",
+        "course_name": "TikTok Clone App | iOS 18 & Swift 6 | Firebase | Xcode 16",
+        "description": "This course is the only and most comprehensive Recording and Sharing Video course on Udemy. You will learn TikTok Clone Tutorial as you write in Swift Language and Firebase Database; 1- A Comprehensive Authentication System. · E-mail Login and Registration Procedures · User deletion (Delete User) operation 2- Efficiently model a complex Video Sharing Social Network architecture. · User Profiles (Profile View) · Stream video on home page (Feed) · Creating a custom designed camera (Custom Camera). · Designing Animated Camera Button. · Creating a specially designed Progress View. · Creating a camera timer. · Recording and merging multiple videos (Video Merge). · Play Recording and Stop Recording operations. · Re-Registration process. · Searching for users (Search User). · Editing a profile (Edit Profile). And more! This course is a professional course designed to start with the basics of Swift and use the beginner, intermediate and advanced Swift language to record and share one or more videos using the \"TikTok Clone\" i.e. Animated camera button, timer and progress view. and view all these videos on profiles and home feed. and It is a Social Networking application built using a Real-time database. With its filtering feature, it provides the ability to search for users and switch to user profiles by switching between pages. With the profile editing process; User can change their information instantly. In the profile section, both user information and shared posts are displayed, and they can see the post details by switching between pages. On the main page, there are user features and transition to user profiles, user's posts and show tab feature. You should start the course and if you have any questions, you should write to me in the Q&A section and get your answer as soon as possible!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-ultimate-guide-to-game-development-with-unity/",
+        "duration": "20+ hours of new content added",
+        "instructor": "Jonathan Weinberger, Unity Technologies, GameDevHQ Team, Thomas Kesler",
+        "course_name": "The Ultimate Guide to Game Development with Unity (Official)",
+        "description": "Created in partnership with Unity Technologies: learn C# by developing 2D & 3D games with this comprehensive guide"
+      },
+      {
+        "links": "https://www.udemy.com/course/chatgpt-build-solutions-and-apps-with-chatgpt-and-openai/",
+        "duration": "6 hours of instructional video content",
+        "instructor": "Henry Habib",
+        "course_name": "ChatGPT Masterclass - Build Solutions and Apps with ChatGPT",
+        "description": "Integrate ChatGPT into no-code apps and solutions | ChatGPT API | Create 6+ ChatGPT integrations | Build 4+ ChatGPT apps"
+      },
+      {
+        "links": "https://www.udemy.com/course/certified-kubernetes-application-developer/",
+        "duration": "",
+        "instructor": "Mumshad Mannambeth, KodeKloud Training, Vijin Palazhi",
+        "course_name": "Kubernetes Certified Application Developer (CKAD) with Tests",
+        "description": "Learn concepts and practice for the Kubernetes Certification with hands-on labs right in your browser - DevOps - CKAD"
+      },
+      {
+        "links": "https://www.udemy.com/course/fullstack-web-development-course-projects-base/",
+        "duration": null,
+        "instructor": "Masynctech Coding School, Aditya Mandal",
+        "course_name": "Full Stack Web Development With MERN STACK & GenAI 2025",
+        "description": "This course is perfect for anyone looking to learn fullstack web development in 2025. It covers all the latest technologies and frameworks that you'll need to know to build today's modern websites and web applications. We'll start by learning HTML, CSS, and JavaScript, the fundamental technologies of the web. Then we'll move on to more advanced topics like React, React Redux, React Query Node js, and MongoDB. By the end of the course, you'll build different projects ranging from a simple website to a fully-fledged web app. This course is designed for you to build your own business or a new career, and become an expert web developer. You don't need any previous experience in website development or programming as this course is designed in such a way that it can be done even if you have no coding or web development background."
+      },
+      {
+        "links": "https://www.udemy.com/course/master-langchain-pinecone-openai-build-llm-applications/",
+        "duration": "",
+        "instructor": "Andrei Dumitrescu",
+        "course_name": "LangChain Mastery: Build GenAI Apps with LangChain & Pinecone",
+        "description": "Step-by-Step Approach to LangChain and Pinecone for GenAI with LLMs. Develop Real-World LLM-Powered Apps with Python"
+      },
+      {
+        "links": "https://www.udemy.com/course/java-development-for-beginners-learnit/",
+        "duration": null,
+        "instructor": "Andrii Piatakha",
+        "course_name": "Java from Zero to First Job, Practical Guide, 2000+ examples",
+        "description": "Java Core, TDD, Streams, Lambdas, JPA/Hibernate, SQL, Build Tools, Git, Web Servers, HTML, Servlets, JSP, Spring Boot etc"
+      },
+      {
+        "links": "https://www.udemy.com/course/css-bootstrap-javascript-web-development-course/",
+        "duration": "5 hours on-demand video",
+        "instructor": "PROPER DOT INSTITUTE",
+        "course_name": "CSS, Bootstrap ,JavaScript, Web Development Course",
+        "description": "Learn Web Development Complete Course, CSS, Bootstrap And JavaScript complete Web development Stack course 2022"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/?srsltid=AfmBOoqw0FDnd0-FONxenemDMJrPT-3Nx7Vrl51GCDx3LbYaBEjRiSu2",
+        "duration": "over 30 hours of comprehensive content",
+        "instructor": "Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller",
+        "course_name": "Flutter & Dart - The Complete Guide [2025 Edition]",
+        "description": "A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps"
+      },
+      {
+        "links": "https://www.udemy.com/course/how-to-build-mobile-app-without-programming-skills/",
+        "duration": "2hr 32min of on-demand video",
+        "instructor": "Jason Low",
+        "course_name": "How To Build Mobile App Without Programming - Build 14 Apps!",
+        "description": "Guide to Android, iPhone, iPad, Amazon Kindle Applications Development Tutorials Without Technical or Coding Skills!"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/?srsltid=AfmBOorZfBraiegH-w73x4yDyHIG9TgO--De3dO2pWoTw22Wvgl9Npfl",
+        "duration": "over 30 hours of comprehensive content",
+        "instructor": "Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller",
+        "course_name": "Flutter & Dart - The Complete Guide [2025 Edition]",
+        "description": "A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps"
+      },
+      {
+        "links": "https://www.udemy.com/course/java-development-for-beginners-learnit/?srsltid=AfmBOoon8J7wDX0ET1oFWrJLVoHwuj_fzk5lbltebiXJl-xRqI4SXYLE",
+        "duration": "131 total hours",
+        "instructor": "Andrii Piatakha, Learn IT University",
+        "course_name": "Java from Zero to First Job, Practical Guide, 2000+ examples",
+        "description": "Java Core, TDD, Streams, Lambdas, JPA/Hibernate, SQL, Build Tools, Git, Web Servers, HTML, Servlets, JSP, Spring Boot etc"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-web-development-bootcamp/?srsltid=AfmBOoogq6p7Tp-cdRfueDfSs-fwdvG0V8EYID45KLkpqgTkiNqj3XIx",
+        "duration": "62+ hours",
+        "instructor": "Dr. Angela Yu, Developer and Lead Instructor",
+        "course_name": "The Complete Full-Stack Web Development Bootcamp",
+        "description": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps"
+      },
+      {
+        "links": "https://www.udemy.com/course/complete-full-stack-web-development-bootcamp/?srsltid=AfmBOooNGQOcG_ltFzF-LTpQri3lxW6yUB_U3WztRCGIPP6Y28UPYfpg",
+        "duration": "62.5 hours on-demand video",
+        "instructor": "Manik (Cloudaffle)",
+        "course_name": "Complete Full Stack Web Development Bootcamp - AI Integrated",
+        "description": "Complete Web Development in One Course with Modern Stack - JavaScript, Node.js, React, MongoDB, Linux and lots more!"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-google-apps-script-course/",
+        "duration": "",
+        "instructor": "Laurence Svekis",
+        "course_name": "Google Apps Script Emailer PDF maker from Doc Template",
+        "description": "Using a Google Doc Template - Populate the data from a Spreadsheet - Generate PDFs and email them to the listed emails"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-javascript-web-development-process-code-snippets-dom/?srsltid=AfmBOop0pJDeU_opn6NtqO0lngB40Rurdjk9s_TNkCwYMfKBS1-WUGrl",
+        "duration": null,
+        "instructor": "Laurence Svekis",
+        "course_name": "JavaScript projects Welcome to the DOM Useful Code Snippets",
+        "description": "Learn JavaScript for Beginners interactive web accessing the DOM Document Object Model. This course is designed to have lifetime access to regular JavaScript projects. Learn JavaScript with our Step by Step training, we show you how to build projects from Scratch. Learn at your own pace resources are included, source code and everything you need to practice and learn JavaScript. We show you useful examples of JavaScript Code snippets and explain the development process."
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/?srsltid=AfmBOoqIaZpDMzoskeENEPvci5dwQCZczv1KSByEi0DDZC_Xa3noXOZl",
+        "duration": "over 30 hours of comprehensive content",
+        "instructor": "Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller",
+        "course_name": "Flutter & Dart - The Complete Guide [2025 Edition]",
+        "description": "A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps"
+      },
+      {
+        "links": "https://www.udemy.com/course/jetpack-compose-kotlin-java-for-android-app-development/",
+        "duration": "",
+        "instructor": "Oak Academy, OAK Academy Team, Mehmet ÖNGEL",
+        "course_name": "Jetpack Compose & Kotlin & Java for Android App Development",
+        "description": "Comprehensive Guide to Android Development with Android Studio, Jetpack Compose, Kotlin & Java. This course teaches you how to build beautiful applications for smartphones using Android Jetpack Compose, Kotlin, and Java. It covers everything from Android environment setup to publishing your app on Google Play."
+      },
+      {
+        "links": "https://www.udemy.com/course/full-stack-android-development-and-mobile-app-marketing/",
+        "duration": "",
+        "instructor": "Oak Academy, OAK Academy Team, Mehmet ÖNGEL",
+        "course_name": "Full Stack Android Development and Mobile App Marketing",
+        "description": "Learn java, android, android studio, android development, android app development, app monetization and grow your sales"
+      },
+      {
+        "links": "https://www.udemy.com/course/android-app-development-course-with-kotlin-java-android/",
+        "duration": "",
+        "instructor": "Oak Academy, OAK Academy Team, Mehmet ÖNGEL",
+        "course_name": "Android App Development Course with Kotlin & Java | Android",
+        "description": "Boost mobile app development skills with android studio using Kotlin, Java android development. This course will take you from beginner to advance level, teaching you to develop android applications with both Kotlin and Java programming languages."
+      },
+      {
+        "links": "https://www.udemy.com/course/programmatic-uber-clone-swift-firebase-no-storyboards/",
+        "duration": "18.5 total hours",
+        "instructor": "Stephan Dowless",
+        "course_name": "Programmatic Uber Clone App |Swift /Firebase| No Storyboards",
+        "description": "Build a fully programmatic Uber Clone with iOS 13 and the latest versions of Swift & Firebase, without storyboards!"
+      },
+      {
+        "links": "https://www.udemy.com/course/ios-12-developer-course/",
+        "duration": "44.5 total hours",
+        "instructor": "Rob Percival, Nick Walter, Codestars",
+        "course_name": "The Complete iOS 12 & Swift Developer Course - Build 28 Apps",
+        "description": "Use Xcode 10 & Swift 4 to make real iOS12 apps like Uber and Instagram, with CoreML & ARKit, and more!"
+      },
+      {
+        "links": "https://www.udemy.com/course/apple-icloud-unlocking-cource/",
+        "duration": "1 total hour",
+        "instructor": "Mohamed Guerich",
+        "course_name": "Apple iCloud Unlocking Course",
+        "description": "Building iCloud unlock using C#"
+      },
+      {
+        "links": "https://www.udemy.com/course/build-ai-image-generator-app-with-react-native-and-publish/",
+        "duration": "9 total hours",
+        "instructor": "Md Alishan Ali",
+        "course_name": "Build AI Image Generator App With React Native and Publish",
+        "description": "Learn React Native by building an AI-powered image generator app, deploy backend APIs, and publish your app on the Play"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-10-day-iphone-app-bootcamp-new-ios-12-and-xcode-10/",
+        "duration": "12 total hours",
+        "instructor": "Nick Walter",
+        "course_name": "The 10 Day iPhone App Bootcamp - NEW iOS 12 and Xcode 10",
+        "description": "In 10 days you can have your own app in the App Store! Learn how to make apps using Swift 4.2, Xcode 10, and iOS 12"
+      },
+      {
+        "links": "https://www.udemy.com/course/ios-masterclass/",
+        "duration": "26 total hours",
+        "instructor": "Matthew Harding",
+        "course_name": "iOS Masterclass: Build An iOS AppStore-Quality App In Swift",
+        "description": "Build An iOS AppStore-Quality App to an iOS industry-standard. Xcode"
+      },
+      {
+        "links": "https://www.udemy.com/course/swiftui-chat-app-mvvm-cloud-firestore-ios-14-swift-5/",
+        "duration": "10 total hours",
+        "instructor": "Stephan Dowless",
+        "course_name": "SwiftUI WhatsApp Clone | MVVM | Cloud Firestore | iOS 15",
+        "description": "Build A Real Time Chat Application with SwiftUI, iOS 15, Xcode 13 & Cloud Firestore"
+      },
+      {
+        "links": "https://www.udemy.com/course/ios-14-swift-5-the-complete-ios-app-development-course/",
+        "duration": "12 total hours",
+        "instructor": "Oak Academy, OAK Academy Team",
+        "course_name": "IOS 14 & Swift 5 - The Complete iOS App Development Course",
+        "description": "IOS 14 App Development using Swift 5 and XCode 12 and become an iOS 14 developer with just one course."
+      },
+      {
+        "links": "https://www.udemy.com/course/modern-ios-dev/",
+        "duration": "16.5 total hours",
+        "instructor": "Bennett Lee",
+        "course_name": "Learn and Understand Building Modern iOS Apps",
+        "description": "Learn from USC professor on how to build modern iOS apps"
+      },
+      {
+        "links": "https://www.udemy.com/course/iphone-developer-course/",
+        "duration": "29.5 total hours",
+        "instructor": "Amir J",
+        "course_name": "iOS iPhone App Development - Complete Course",
+        "description": "Become an iPhone / iOS App Developer"
+      },
+      {
+        "links": "https://www.udemy.com/course/swift-starter-kit/",
+        "duration": "7 total hours",
+        "instructor": "Swift Starter Kit",
+        "course_name": "Project-Based SwiftUI Course: Develop 12 Apps for iOS",
+        "description": "Build 12 iOS Apps from scratch & learn the basics of Swift, iOS Development in Xcode, and SwiftUI"
+      },
+      {
+        "links": "https://www.udemy.com/course/build-your-first-iphone-app-ios-14-apps-using-swift-5/",
+        "duration": "9.5 total hours",
+        "instructor": "Nick Walter",
+        "course_name": "Build Your First iPhone App - iOS 14 Apps Using Swift 5",
+        "description": "Create Apps and Submit Them to the App Store Using UIKit and Xcode 12 - Perfect Course for Complete Beginners"
+      },
+      {
+        "links": "https://www.udemy.com/course/master-swiftui-app-development-in-ios/",
+        "duration": "15 total hours",
+        "instructor": "Neurotelli Technologies",
+        "course_name": "Master SwiftUI App Development for iOS",
+        "description": "Get In-Depth and Hands On Learning By Building A Ton Of Apps From A Proven Trainer & App Developer"
+      },
+      {
+        "links": "https://www.udemy.com/course/ios-13-swift-5-login-sign-up-onboarding-with-firebase/",
+        "duration": "5 total hours",
+        "instructor": "Stephan Dowless",
+        "course_name": "iOS 13 & Swift 5: Login, Sign Up & Onboarding with Firebase",
+        "description": "Create a beautiful onboarding and sign up feature with Swift 5 using Firebase & Firestore"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-future-of-app-development-text-to-app-ai-generation/",
+        "duration": "3.5 total hours",
+        "instructor": "Christ Raharja",
+        "course_name": "The Future of App Development: Text to App AI Generation",
+        "description": "Learn how to build & design app using AI text to app generator tools like Pico, Alta, Foxy, ZBrain, and Type Block"
+      },
+      {
+        "links": "https://www.udemy.com/course/building-and-testing-ussd-and-sms-applications-ussd-and-sms-gateway/",
+        "duration": "12.5 total hours",
+        "instructor": "Dr. Derdus Kenga",
+        "course_name": "Building and Testing USSD and SMS Applications",
+        "description": "Deliver your applications to the end user on USSD and SMS using PHP and MySQL"
+      },
+      {
+        "links": "https://www.udemy.com/course/building-production-ready-apps-with-prisma-client-for-nodejs/",
+        "duration": "7 total hours",
+        "instructor": "Naimish Verma",
+        "course_name": "Building Production-Ready Apps with Prisma Client for NodeJs",
+        "description": "Master Prisma for Node.js - From Concept to Deployment"
+      },
+      {
+        "links": "https://www.udemy.com/course/digiruu-app/",
+        "duration": "8.5 total hours",
+        "instructor": "Aman Birdi",
+        "course_name": "App Development - The Beginner's Course To Building Your App",
+        "description": "Learn the exact 10-step process that anyone can use to create their app without any experience"
+      },
+      {
+        "links": "https://www.udemy.com/course/ios-android-masterclass-build-3-apps-with-google-flutter/",
+        "duration": "29 total hours",
+        "instructor": "Mammoth Interactive, John Bura",
+        "course_name": "Build a Rental App with Flutter: iOS & Android Masterclass",
+        "description": "Start an empire with your first startup app. Learn the Dart programming language and back-end development with Firebase!"
+      },
+      {
+        "links": "https://www.udemy.com/course/ios-13-app-development-bootcamp/",
+        "duration": "60.5 total hours",
+        "instructor": "Dr. Angela Yu, Developer and Lead Instructor",
+        "course_name": "iOS & Swift - The Complete iOS App Development Bootcamp",
+        "description": "From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/",
+        "duration": "30 total hours",
+        "instructor": "Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller",
+        "course_name": "Flutter & Dart - The Complete Guide [2025 Edition]",
+        "description": "A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps"
+      },
+      {
+        "links": "https://www.udemy.com/course/react-native-the-practical-guide/",
+        "duration": "28.5 total hours",
+        "instructor": "Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller",
+        "course_name": "React Native - The Practical Guide [2025]",
+        "description": "Use React Native and your React knowledge to build native iOS and Android Apps - incl. Push Notifications, Hooks, Redux"
+      },
+      {
+        "links": "https://www.udemy.com/course/flutter-bootcamp-with-dart/",
+        "duration": "29 total hours",
+        "instructor": "Dr. Angela Yu, Developer and Lead Instructor",
+        "course_name": "The Complete Flutter Development Bootcamp with Dart",
+        "description": "Officially created in collaboration with the Google Flutter team."
+      },
+      {
+        "links": "https://www.udemy.com/course/android-kotlin-developer/",
+        "duration": "66.5 total hours",
+        "instructor": "Denis Panjuta, Tutorials.eu by Denis Panjuta",
+        "course_name": "The Complete Android 14 & Kotlin Development Masterclass",
+        "description": "Learn Android 14 App Development From Beginner to Advanced Developer. Build Apps like Trello, 7Min Workout, Weather App"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-react-native-and-redux-course/",
+        "duration": "38.5 total hours",
+        "instructor": "Stephen Grider",
+        "course_name": "The Complete React Native + Hooks Course",
+        "description": "Understand React Native with Hooks, Context, and React Navigation."
+      },
+      {
+        "links": "https://www.udemy.com/course/build-a-chat-application-with-firebase-and-flutter/",
+        "duration": "8 total hours",
+        "instructor": "Hussain Mustafa",
+        "course_name": "Build A Chat Application With Firebase, Flutter and Provider",
+        "description": "Make a complete mobile messaging application like WhatsApp or Telegram using Flutter, Firebase and Provider Framework!"
+      },
+      {
+        "links": "https://www.udemy.com/course/mastering-flutter-firebase-for-mobile-apps-development/",
+        "duration": "6.5 total hours",
+        "instructor": "Khushbakht Hassan, Saqib Awan, Hadia Baig",
+        "course_name": "Mastering Flutter & Firebase for Mobile Apps Development",
+        "description": "Learn Flutter & Firebase to Build Scalable, Cross-Platform Mobile Apps with Authentication, Firestore, and More"
+      },
+      {
+        "links": "https://www.udemy.com/course/android-kotlin-development/",
+        "duration": "34.5 total hours",
+        "instructor": "OCSALY Academy | 480.000+ Students",
+        "course_name": "Android App Development in 34 Hours : MobDevOps+ Android 15",
+        "description": "You don't need 34+hours for learning kotlin! START !Learn Kotlin in 34 Hours and write you own applications - Android 15"
+      },
+      {
+        "links": "https://www.udemy.com/course/flutter-20-firebase-build-a-chat-app-for-ios-android/",
+        "duration": "10.5 total hours",
+        "instructor": "Hussain Mustafa",
+        "course_name": "Flutter & Firebase Chat App: Master Flutter and Firebase",
+        "description": "The Ultimate Flutter and Firebase Course: Develop A Powerful Flutter and Firebase Powered Chat Application"
+      },
+      {
+        "links": "https://www.udemy.com/course/pmp-certification-exam-prep-course-pmbok-6th-edition/",
+        "duration": "35 total hours",
+        "instructor": "TIA Education, Andrew Ramdayal",
+        "course_name": "PMP Certification Exam Prep Course 35 PDU Contact Hours/PDU",
+        "description": "Get your PMP Certification with this course. Fully updated for the Current PMP Exam"
+      },
+      {
+        "links": "https://www.udemy.com/course/project-management-professional-certification-program-pmp/",
+        "duration": "61 total hours",
+        "instructor": "Sorin Dumitrascu",
+        "course_name": "Project Management Professional (PMP)",
+        "description": "60 PDU PMI PMP Certificate Exam Prep by PMBOK7 and PMBOK6"
+      },
+      {
+        "links": "https://www.udemy.com/course/ultimate-project-management-pmp-35-pdus/",
+        "duration": "28.5 total hours",
+        "instructor": "David McLachlan",
+        "course_name": "The Ultimate Project Management PMP Prep Course (35 PDUs)",
+        "description": "Master Project Management and Agile for your PMP or CAPM certification, with the PMBOK, Agile Practice Guide and more!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-project-management-course-beginner-to-project-manager/",
+        "duration": "8 total hours",
+        "instructor": "365 Careers",
+        "course_name": "The Project Management Course: Beginner to PROject Manager",
+        "description": "The Complete Course For Becoming A Successful Project Manager"
+      },
+      {
+        "links": "https://www.udemy.com/course/pmp_cram_course/",
+        "duration": "11.5 total hours",
+        "instructor": "TIA Education, Andrew Ramdayal",
+        "course_name": "PMP Exam Cram Course - 35-Hour Course Condensed - 12 PDUs",
+        "description": "PMP Focused Review: Your Fast Track to Success while earning 12 PDUs. Full-Length Mock Exam"
+      },
+      {
+        "links": "https://www.udemy.com/course/project-management-assessment/",
+        "duration": "30 questions",
+        "instructor": "MTF Institute of Management, Technology and Finance",
+        "course_name": "Project Management Professional Certification",
+        "description": "Project Management Certification and preparing for certification at other providers"
+      },
+      {
+        "links": "https://www.udemy.com/course/professional-certificate-in-project-management/",
+        "duration": "2.5 total hours",
+        "instructor": "MTF Institute of Management, Technology and Finance",
+        "course_name": "Professional Certificate in Project Management",
+        "description": "Professional Certificate in Project Management"
+      },
+      {
+        "links": "https://www.udemy.com/course/deeply-practical-project-management/",
+        "duration": "9 total hours",
+        "instructor": "William Stewart PhD, PMP, DPPM",
+        "course_name": "Deeply Practical Project Management (16 PDUs)",
+        "description": "How to apply the PMI project management processes in the simplest, most practical way, with a professional 44M example."
+      },
+      {
+        "links": "https://www.udemy.com/course/project-managers/",
+        "duration": "2.5 total hours",
+        "instructor": "MTF Institute of Management, Technology and Finance",
+        "course_name": "Professional Diploma in Project Management",
+        "description": "Professional Diploma in Project Management. Introduction to main areas of project management, tools of project manager"
+      },
+      {
+        "links": "https://www.udemy.com/course/pmp_projectmanagementprofessional_visakhrj_teachnology/",
+        "duration": "33 total hours",
+        "instructor": "Visakh R J",
+        "course_name": "PMP Project Management Professional Training Course",
+        "description": "This online course is fully updated as per the 2024 syllabus of the PMP Certification Exam"
+      },
+      {
+        "links": "https://www.udemy.com/course/project-management-professional-pmp-x/",
+        "duration": "41 total hours",
+        "instructor": "Sorin Dumitrascu",
+        "course_name": "PMI Project Management Professional (PMP)",
+        "description": "40 PDU Certificate Exam Prep by PMBOK7 for PMI Project Project Management Professional (PMP)"
+      },
+      {
+        "links": "https://www.udemy.com/course/master-course-pmp-project-management-professional/",
+        "duration": "1 total hour",
+        "instructor": "Dr. José Prabhu J",
+        "course_name": "Master Course in PMP - Project Management Professional",
+        "description": "PMP, Project Management Professional Certification, Project Management, PMP Certification, Project Planning, PMI PMBOK"
+      },
+      {
+        "links": "https://www.udemy.com/course/project-management-complete-guide-for-a-project-managers/",
+        "duration": "28 total hours",
+        "instructor": "Peter Alkema, Regenesys Business School",
+        "course_name": "Project Management - Complete Guide For A+ Project Managers",
+        "description": "Complete guide to project management - stakeholders, planning, cost, quality, risks, feasibility, methods & resourcing"
+      },
+      {
+        "links": "https://www.udemy.com/course/pmp-pmbok6-35-pdus/",
+        "duration": "30 total hours",
+        "instructor": "Joseph Phillips",
+        "course_name": "PMP Exam Prep Seminar - Complete Exam Coverage with 35 PDUs",
+        "description": "PMP Exam Prep Seminar - Earn 35 PDUs by completing the entire PMP course"
+      },
+      {
+        "links": "https://www.udemy.com/course/project-management-professional-pmp-certification/",
+        "duration": "201 questions",
+        "instructor": "Dr. Ravi Rawat",
+        "course_name": "Project Management Professional (PMP) Certification",
+        "description": "Demonstrate Your Expertise in Project Management with the Globally Recognized PMP Certification"
+      },
+      {
+        "links": "https://www.udemy.com/course/capm-pmbok6/",
+        "duration": "44.5 total hours",
+        "instructor": "Joseph Phillips",
+        "course_name": "CAPM Exam Prep Seminar -Updated for the 2023 CAPM Exam",
+        "description": "Pass the CAPM and Earn 25 Contact Hours to Qualify for the CAPM Exam"
+      },
+      {
+        "links": "https://www.udemy.com/course/capm-certification-training-prep-course/",
+        "duration": "26 total hours",
+        "instructor": "TIA Education, Andrew Ramdayal",
+        "course_name": "CAPM Exam Prep Course 25 PDU's for Current Exam",
+        "description": "Get your CAPM Certification with this Authorized Exam Prep Course"
+      },
+      {
+        "links": "https://www.udemy.com/course/a-project-management-course-becoming-a-project-manager/",
+        "duration": "1.5 total hours",
+        "instructor": "Providence Essien",
+        "course_name": "A project management course: Becoming a PROject Manager",
+        "description": "The Complete Course you need to Becoming a Successful PROject Manager"
+      },
+      {
+        "links": "https://www.udemy.com/course/professional-certificate-in-project-and-process-management/",
+        "duration": "4.5 total hours",
+        "instructor": "MTF Institute of Management, Technology and Finance",
+        "course_name": "Professional Certificate in Project and Process Management",
+        "description": "Project Management, Process Management, Lean Six Sigma, Business Process Management (BPM), Operations Management, Agile"
+      },
+      {
+        "links": "https://www.udemy.com/course/project-management-course-udemy/",
+        "duration": "22 total hours",
+        "instructor": "YESI EDUCATION, Mauricio Rubio - Agile Guru & Founder of YESI EDUCATION, AgileKB & Grabdl",
+        "course_name": "The Complete Project Management Fundamentals Course + CERT",
+        "description": "Project Management Certification to get in an industry that is adding 1.5 million jobs each year: Project Management"
+      },
+      {
+        "links": "https://www.udemy.com/course/web-development-masterclass-complete-certificate-course/",
+        "duration": "26 hours",
+        "instructor": "YouAccel Training",
+        "course_name": "Web Development Masterclass - Online Certification Course",
+        "description": "This course offers a comprehensive look into the entire web development process - from local server configuration using WAMP and MAMP (Apache, MySQL, PHP) to production deployment using the latest web technologies including: LAMP Stack (Linux, Apache, PHP and MySQL) for Ubuntu, HTML5, CSS, Bootstrap, JavaScript, jQuery, XML, and AJAX. The content is ideal for those interested in working as a web developer, launching a web application, or devoted enthusiasts. The concepts explored in this course are suitable for individuals of all skill levels. Each module starts with the fundamental concepts and gradually transitions into more advanced material."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-web-development-bootcamp/?srsltid=AfmBOor84YsaLXfu2n_QmEA8trVQbAaoaHTAbxUBucmiFrirMV-t1bp0",
+        "duration": "61 hours",
+        "instructor": "Dr. Angela Yu, Developer and Lead Instructor",
+        "course_name": "The Complete Full-Stack Web Development Bootcamp",
+        "description": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps"
+      },
+      {
+        "links": "https://www.udemy.com/course/html-web-development-skills/",
+        "duration": "1hr 12min of on-demand video",
+        "instructor": "DIGIFLAX E-LEARNING",
+        "course_name": "HTML",
+        "description": "A beginner's guide for HTML. Learn all concepts of HTML."
+      },
+      {
+        "links": "https://www.udemy.com/course/web-development-learn-by-doing-html5-css3-from-scratch-introductory/",
+        "duration": "1hr 11min of on-demand video",
+        "instructor": "Bradley Berger",
+        "course_name": "Web Development By Doing: HTML / CSS From Scratch",
+        "description": "Web Development From Scratch: Learn By Doing For Complete Beginners. HTML And CSS. Code Your First Website In 1 Hour."
+      },
+      {
+        "links": "https://www.udemy.com/course/test-driven-development-for-professionals/",
+        "duration": "2 hours",
+        "instructor": "Maurício Aniche",
+        "course_name": "Learn TDD in 24 hours",
+        "description": "A crash course for you to get deep into automated testing and JUnit!"
+      },
+      {
+        "links": "https://www.udemy.com/course/full-stack-development-with-java-ms-sql-spring-hibernate/",
+        "duration": "",
+        "instructor": "Oak Academy",
+        "course_name": "Full Stack Development with Java, MS SQL, Spring, Hibernate",
+        "description": "All aspects of Web Development with Java, MS SQL, Spring and Spring Hibernate for anyone who wants to start from scratch"
+      },
+      {
+        "links": "https://www.udemy.com/course/discord-bots-development-in-nodejs-for-beginners/?srsltid=AfmBOoqT83FFBLO2o8-D4rpg9e53gdZD7GdMIkjSows9PVWiGHuDaDSY",
+        "duration": "",
+        "instructor": "Erik Petersson",
+        "course_name": "Develop Discord Bots in Nodejs: Complete Course in 2023",
+        "description": "Learn To Develop Discord Bots in 2023 With Updated New Content. This course teaches you how to create basic and advanced Discord bots using Node.js, covering essential programming skills and the Discord bot API."
+      },
+      {
+        "links": "https://www.udemy.com/course/ios-13-app-development-bootcamp/",
+        "duration": "55+ hours",
+        "instructor": "Dr. Angela Yu, Developer and Lead Instructor",
+        "course_name": "iOS & Swift - The Complete iOS App Development Bootcamp",
+        "description": "From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!"
+      },
+      {
+        "links": "https://www.udemy.com/course/bootcamp-generative-artificial-intelligence-and-llm-app-development/",
+        "duration": "More than 650 lessons divided into sections, More than 650 videos, More than 320 attached presentations, More than 220 practical notebooks, 50 practical code repositories on Github, 45 LLM applications of different difficulty levels: basic, intermediate, and advanced, Material for more than 400 hours of study and practice for the student.",
+        "instructor": "Julio Colomer",
+        "course_name": "2025 Bootcamp: Generative AI, LLM Apps, AI Agents, Cursor AI",
+        "description": "From zero to professional level: learn the keys to Generative AI, LLM Apps, AI Agents, and Cursor AI."
+      },
+      {
+        "links": "https://www.udemy.com/course/dart-and-flutter-the-ultimate-mobile-app-development-course/?srsltid=AfmBOorIswEtzoCjzsCI6_yV3sCQb-0bLEUbnb8W1bN9NJHQF88Zow0g",
+        "duration": null,
+        "instructor": "Mehmood Khalil, Zaheer Irshad",
+        "course_name": "Dart and Flutter: The Ultimate Mobile App Development Course",
+        "description": "Complete Dart and Flutter Mastery: Build Mobile Apps from Zero to Hero. This course equips you with the skills to craft powerful, efficient, and visually stunning mobile applications for both iOS and Android platforms. You'll master Dart programming and unlock the power of Flutter to create natively compiled applications from a single codebase. The course includes hands-on projects and real-world examples, guiding you from the basics to advanced concepts in mobile app development."
+      },
+      {
+        "links": "https://www.udemy.com/course/ios-13-app-development-bootcamp/?srsltid=AfmBOoqn-Xf8odpuQW0AqOJ8pQeqWDc8uZ_nXqYr4k8hyGmIQ8TVUvI3",
+        "duration": "55+ hours",
+        "instructor": "Dr. Angela Yu, Developer and Lead Instructor",
+        "course_name": "iOS & Swift - The Complete iOS App Development Bootcamp",
+        "description": "From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!"
+      },
+      {
+        "links": "https://www.udemy.com/course/android-app-development-with-kotlin-intermediate-android/",
+        "duration": "",
+        "instructor": "Oak Academy, OAK Academy Team, Mehmet ÖNGEL",
+        "course_name": "Android App Development with Kotlin | Intermediate Android",
+        "description": "Kotlin Android | Android App Development with Firebase, Android Studio, android development, app development projects"
+      },
+      {
+        "links": "https://www.udemy.com/course/android-app-development-with-kotlin-java-jetpack-compose/",
+        "duration": "",
+        "instructor": "Oak Academy, OAK Academy Team, Mehmet ÖNGEL",
+        "course_name": "Android App Development with Kotlin & Java & Jetpack Compose",
+        "description": "Learn Android App Development with Jetpack Compose, Kotlin, and Java from scratch. This course covers everything from installing Android Studio to publishing your app on Google Play, with hands-on projects and exercises."
+      },
+      {
+        "links": "https://www.udemy.com/course/android-development-android-app-developer-course-with-pie/",
+        "duration": "",
+        "instructor": "Oak Academy, OAK Academy Team, Mehmet ÖNGEL",
+        "course_name": "Android App Development Course with Android 11 | Android",
+        "description": "Mobile app development, build your android app, learn android development with android studio, become an android expert."
+      },
+      {
+        "links": "https://www.udemy.com/course/java-kotlin-android-app-development-with-10-practical-apps/",
+        "duration": "27 hours on-demand video",
+        "instructor": "Oak Academy, OAK Academy Team, Mehmet ÖNGEL",
+        "course_name": "Java & Kotlin Android App Development with 10 Practical Apps",
+        "description": "Master Android App Development with 10 projects in Java and Kotlin. Build real java and kotlin android apps step by step"
+      },
+      {
+        "links": "https://www.udemy.com/course/android-app-development-build-10-different-android-apps/",
+        "duration": "",
+        "instructor": "Oak Academy, OAK Academy Team, Mehmet ÖNGEL",
+        "course_name": "Android App Development: Modern Android Development Skills",
+        "description": "Develop different modern Android apps, learn android & mobile app development with projects. This course is designed to fill the gap in hands-on application, focusing on real-world android app development with practical insights and real-life examples."
+      },
+      {
+        "links": "https://www.udemy.com/course/modern-artificial-intelligence-applications/",
+        "duration": "",
+        "instructor": "Dr. Ryan Ahmed, SuperDataScience Team, Ligency Team",
+        "course_name": "Modern Artificial Intelligence Masterclass: Build 6 Projects",
+        "description": "Harness the power of AI to solve practical, real-world problems in Finance, Tech, Art and Healthcare"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/",
+        "duration": "Over 30 hours of comprehensive content",
+        "instructor": "Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller",
+        "course_name": "Flutter & Dart - The Complete Guide [2025 Edition]",
+        "description": "A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/?srsltid=AfmBOoor7iThIhobdzahGk-THjMeIMSOuYbOrNa_MnsXdqjf7vIerbby",
+        "duration": "Over 30 hours of comprehensive content",
+        "instructor": "Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller",
+        "course_name": "Flutter & Dart - The Complete Guide [2025 Edition]",
+        "description": "A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-google-apps-script-course/",
+        "duration": "",
+        "instructor": "Laurence Svekis",
+        "course_name": "Google Apps Script Emailer PDF maker from Doc Template",
+        "description": "Using a Google Doc Template - Populate the data from a Spreadsheet - Generate PDFs and email them to the listed emails. The course demonstrates Applying Google Apps Script to create a time saving micro application making use of GSuite apps connected together to produce amazing functionality."
+      },
+      {
+        "links": "https://www.udemy.com/course/jetpack-compose-kotlin-java-for-android-app-development/",
+        "duration": "",
+        "instructor": "Oak Academy, OAK Academy Team, Mehmet ÖNGEL",
+        "course_name": "Jetpack Compose & Kotlin & Java for Android App Development",
+        "description": "Comprehensive Guide to Android Development with Android Studio, Jetpack Compose, Kotlin & Java. This course teaches you how to build beautiful applications for smartphones using Android SDK, Kotlin, and Java. It covers everything from environment setup to publishing your app on Google Play."
+      },
+      {
+        "links": "https://www.udemy.com/course/android-app-development-course-with-kotlin-java-android/",
+        "duration": "",
+        "instructor": "Oak Academy, OAK Academy Team, Mehmet ÖNGEL",
+        "course_name": "Android App Development Course with Kotlin & Java | Android",
+        "description": "Boost mobile app development skills with android studio using Kotlin, Java android development. This course is designed to help beginners start making applications in Android and covers both Kotlin and Java programming languages."
+      },
+      {
+        "links": "https://www.udemy.com/course/fullstack-web-development-course-projects-base/",
+        "duration": null,
+        "instructor": "Masynctech Coding School, Aditya Mandal",
+        "course_name": "Full Stack Web Development With MERN STACK & GenAI 2025",
+        "description": "This course is perfect for anyone looking to learn fullstack web development in 2025. It covers all the latest technologies and frameworks that you'll need to know to build today's modern websites and web applications. We'll start by learning HTML, CSS, and JavaScript, the fundamental technologies of the web. Then we'll move on to more advanced topics like React, React Redux, React Query Node js, and MongoDB. By the end of the course, you'll build different projects ranging from a simple website to a fully-fledged web app."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-flutter-ui-course-build-amazing-mobile-ui/",
+        "duration": "4.5 total hours",
+        "instructor": "Hussain Mustafa",
+        "course_name": "Flutter UI Bootcamp | Build Beautiful Apps using Flutter",
+        "description": "A complete guide to building beautiful and immersive mobile applications using Flutter for iOS and Android"
+      },
+      {
+        "links": "https://www.udemy.com/course/build-an-app-with-aspnet-core-and-angular-from-scratch/?srsltid=AfmBOors13CljgAdjqkELRb-DHWG-ZJcejcEKtxT4gUXrkmC0tgvCLXn",
+        "duration": "",
+        "instructor": "Neil Cummings",
+        "course_name": "Build an app with ASPNET Core and Angular from scratch",
+        "description": "A practical example of how to build an application with ASP.NET Core API and Angular from start to finish"
+      },
+      {
+        "links": "https://www.udemy.com/course/java-development-for-beginners-learnit/?srsltid=AfmBOopk-4Ujtzwdq2J3hfsw3C2z2OuB4CYiUfXv1LX5Q7MfCcO0ujjV",
+        "duration": null,
+        "instructor": "Andrii Piatakha",
+        "course_name": "Java from Zero to First Job, Practical Guide, 2000+ examples",
+        "description": "Java Core, TDD, Streams, Lambdas, JPA/Hibernate, SQL, Build Tools, Git, Web Servers, HTML, Servlets, JSP, Spring Boot etc"
+      },
+      {
+        "links": "https://www.udemy.com/course/discord-bots-development-in-nodejs-for-beginners/?srsltid=AfmBOoqT83FFBLO2o8-D4rpg9e53gdZD7GdMIkjSows9PVWiGHuDaDSY",
+        "duration": "",
+        "instructor": "Erik Petersson",
+        "course_name": "Develop Discord Bots in Nodejs: Complete Course in 2023",
+        "description": "Learn To Develop Discord Bots in 2023 With Updated New Content"
+      },
+      {
+        "links": "https://www.udemy.com/course/ios-13-swift-5-chat-app-with-firestore-mvvm/",
+        "duration": "9 total hours, 42 lectures, Intermediate",
+        "instructor": "Stephan Dowless",
+        "course_name": "iOS 13 & Swift 5: Chat App With Firestore | MVVM",
+        "description": "Real Time Chat App with Cloud Firestore & Swift 5"
+      },
+      {
+        "links": "https://www.udemy.com/course/building-modern-web-applications-with-go/",
+        "duration": "29.5 total hours, 183 lectures, All Levels",
+        "instructor": "Trevor Sawler",
+        "course_name": "Building Modern Web Applications with Go (Golang)",
+        "description": "Learn to program in Go from an award winning university professor"
+      },
+      {
+        "links": "https://www.udemy.com/course/test-driven-development-for-professionals/?srsltid=AfmBOopEizuhka6L1y5y0fk3hYzrQcAWK4Ia42tMBJb3A_hKQ7DReqLf",
+        "duration": "2 hours",
+        "instructor": "Maurício Aniche",
+        "course_name": "Learn TDD in 24 hours",
+        "description": "A crash course for you to get deep into automated testing and JUnit!"
+      },
+      {
+        "links": "https://www.udemy.com/course/freelance-web-design-from-design-to-development-to-making-money/",
+        "duration": "21.5 hours",
+        "instructor": "Vako Shvili",
+        "course_name": "Complete Web Design: from Figma to Webflow to Freelancing",
+        "description": "3 in 1 Course: Learn to design websites with Figma, build with Webflow, and make a living freelancing."
+      },
+      {
+        "links": "https://www.udemy.com/course/web-development-masterclass-complete-certificate-course/?srsltid=AfmBOoojUwmIkRCOdxsRaQPXYK0xhjshPUSn2yQd9nzBUNzr5a5jlGtz",
+        "duration": "26 hours",
+        "instructor": "YouAccel Training",
+        "course_name": "Web Development Masterclass - Online Certification Course",
+        "description": "This course offers a comprehensive look into the entire web development process - from local server configuration using WAMP and MAMP (Apache, MySQL, PHP) to production deployment using the latest web technologies including: LAMP Stack (Linux, Apache, PHP and MySQL) for Ubuntu, HTML5, CSS, Bootstrap, JavaScript, jQuery, XML, and AJAX. The content is ideal for those interested in working as a web developer, launching a web application, or devoted enthusiasts. The concepts explored in this course are suitable for individuals of all skill levels. Each module starts with the fundamental concepts and gradually transitions into more advanced material."
+      },
+      {
+        "links": "https://www.udemy.com/course/dart-and-flutter-the-ultimate-mobile-app-development-course/?srsltid=AfmBOorIswEtzoCjzsCI6_yV3sCQb-0bLEUbnb8W1bN9NJHQF88Zow0g",
+        "duration": null,
+        "instructor": "Mehmood Khalil, Zaheer Irshad",
+        "course_name": "Dart and Flutter: The Ultimate Mobile App Development Course",
+        "description": "Complete Dart and Flutter Mastery: Build Mobile Apps from Zero to Hero. This course equips you with the skills to craft powerful, efficient, and visually stunning mobile applications for both iOS and Android platforms. You'll master Dart programming and unlock the power of Flutter to create natively compiled applications from a single codebase. The course includes hands-on projects and real-world examples, guiding you to build dynamic user interfaces and manage user interactions seamlessly."
+      },
+      {
+        "links": "https://www.udemy.com/course/android-app-development-course-with-kotlin-android-a-ztm/",
+        "duration": "",
+        "instructor": "Oak Academy, OAK Academy Team, Mehmet ÖNGEL",
+        "course_name": "Android App Development Course with Kotlin | Android A-Z™",
+        "description": "Learn Android app development with kotlin, android development from scratch for mobile app development. This course is designed to help beginners to start making applications in Android Studio and Android application development or android app design."
+      },
+      {
+        "links": "https://www.udemy.com/course/android-app-development-with-kotlin-intermediate-android/",
+        "duration": "",
+        "instructor": "Oak Academy, OAK Academy Team, Mehmet ÖNGEL",
+        "course_name": "Android App Development with Kotlin | Intermediate Android",
+        "description": "Kotlin Android | Android App Development with Firebase, Android Studio, android development, app development projects. This course is designed for those who have basic Android knowledge and want to learn advanced levels of Android development using Kotlin. It covers important topics such as fragments, data transfer between screens, making calls, sending emails, and more."
+      },
+      {
+        "links": "https://www.udemy.com/course/android-app-development-with-kotlin-java-jetpack-compose/",
+        "duration": "",
+        "instructor": "Oak Academy, OAK Academy Team, Mehmet ÖNGEL",
+        "course_name": "Android App Development with Kotlin & Java & Jetpack Compose",
+        "description": "Learn Android App Development with Jetpack Compose, Kotlin, and Java from scratch. This course covers Android Studio setup, app design, and publishing apps on Google Play."
+      },
+      {
+        "links": "https://www.udemy.com/course/android-app-development-build-10-different-android-apps/",
+        "duration": "",
+        "instructor": "Oak Academy, OAK Academy Team, Mehmet ÖNGEL",
+        "course_name": "Android App Development: Modern Android Development Skills",
+        "description": "Develop different modern Android apps, learn android & mobile app development with projects. This course is designed to fill the gap in hands-on application, focusing on real-world android app development with practical lectures. You will learn to build 10 different Android applications from scratch, using tools like Kotlin, Java, and Firebase."
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/?srsltid=AfmBOoqw0FDnd0-FONxenemDMJrPT-3Nx7Vrl51GCDx3LbYaBEjRiSu2",
+        "duration": "Over 30 hours of comprehensive content",
+        "instructor": "Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller",
+        "course_name": "Flutter & Dart - The Complete Guide [2025 Edition]",
+        "description": "A Complete Guide to the Flutter SDK & Flutter Framework for building native iOS and Android apps"
+      },
+      {
+        "links": "https://www.udemy.com/course/how-to-build-mobile-app-without-programming-skills/?srsltid=AfmBOoqSDukhI9tOelhLkWcpgW0XOzLgf14IdQS6WTuNNO6jl1HrAlGr",
+        "duration": "2hr 32min of on-demand video",
+        "instructor": "Jason Low",
+        "course_name": "How To Build Mobile App Without Programming - Build 14 Apps!",
+        "description": "Guide to Android, iPhone, iPad, Amazon Kindle Applications Development Tutorials Without Technical or Coding Skills!"
+      },
+      {
+        "links": "https://www.udemy.com/course/mobile-app-development-for-beginners/?srsltid=AfmBOopfhl7PurUUDT_8ZTkogQYgp-4BX8zWvzSJrQk9Y-wjWAP_91wg",
+        "duration": "1.5 hours on-demand video",
+        "instructor": "Ahmed Mahmoud",
+        "course_name": "Mobile App Development for Beginners",
+        "description": "Learn how to develop mobile applications for Android in very easy steps using MIT App Inventor."
+      },
+      {
+        "links": "https://www.udemy.com/course/full-stack-android-development-and-mobile-app-marketing/",
+        "duration": "",
+        "instructor": "Oak Academy",
+        "course_name": "Full Stack Android Development and Mobile App Marketing",
+        "description": "Learn java, android, android studio, android development, android app development, app monetization and grow your sales"
+      },
+      {
+        "links": "https://www.udemy.com/course/fullstack-web-development-course-projects-base/",
+        "duration": "",
+        "instructor": "Masynctech Coding School, Aditya Mandal",
+        "course_name": "Full Stack Web Development With MERN STACK & GenAI 2025",
+        "description": "Full Stack Web Development with MERN Stack, GenAI, AI Prompting, Cursor AI, Node.js/Express, React, MongoDB, JavaScript. This course is perfect for anyone looking to learn fullstack web development in 2025. It covers all the latest technologies and frameworks that you'll need to know to build today's modern websites and web applications."
+      },
+      {
+        "links": "https://www.udemy.com/course/css-bootstrap-javascript-web-development-course/",
+        "duration": "5 hours",
+        "instructor": "PROPER DOT INSTITUTE",
+        "course_name": "CSS, Bootstrap ,JavaScript, Web Development Course",
+        "description": "Learn Web Development Complete Course, CSS, Bootstrap And JavaScript complete Web development Stack course 2022. This course includes 5 hours on-demand video, access on mobile and TV, full lifetime access, and a certificate of completion."
+      },
+      {
+        "links": "https://www.udemy.com/course/ios-13-swift-5-chat-app-with-firestore-mvvm/",
+        "duration": "9 total hours",
+        "instructor": "Stephan Dowless",
+        "course_name": "iOS 13 & Swift 5: Chat App With Firestore | MVVM",
+        "description": "Real Time Chat App with Cloud Firestore & Swift 5"
+      },
+      {
+        "links": "https://www.udemy.com/course/flutter-advanced-course-clean-architecture-with-mvvm/",
+        "duration": "20.5 total hours",
+        "instructor": "Mina Farid",
+        "course_name": "Flutter Advanced Course - Clean Architecture With MVVM",
+        "description": "Become a job ready flutter developer."
+      },
+      {
+        "links": "https://www.udemy.com/course/mobile-development-architecture/",
+        "duration": "3 total hours",
+        "instructor": "Jose Berardo Cunha",
+        "course_name": "Mobile Development Architecture",
+        "description": "Native Apps, Web Apps, Progressive Web Apps, Hybrid Apps, Web-Native Apps or Cross-Compiled Apps. Learn how to choose"
+      },
+      {
+        "links": "https://www.udemy.com/course/full-stack-web-mobile-app-development-mern-stack-project/",
+        "duration": "42.5 total hours",
+        "instructor": "Oak Academy, OAK Academy Team",
+        "course_name": "Full Stack Web & Mobile App Development | Mern Stack Project",
+        "description": "Full Stack Web Development and Mobile App Development with React JS, React Native, NodeJS, MongoDB | MERN Stack Projects"
+      },
+      {
+        "links": "https://www.udemy.com/course/build-mobile-apps-with-react-native-from-to-zero-to-expert/",
+        "duration": "10 total hours",
+        "instructor": "Elina Hovakimyan",
+        "course_name": "Build mobile apps with React Native: From ZERO to EXPERT",
+        "description": "All the knowledge you need to build enterprise mobile apps from scratch with all the high demanded features & more."
+      },
+      {
+        "links": "https://www.udemy.com/course/mobile-app-development-with-flutter/",
+        "duration": "27.5 total hours",
+        "instructor": "Nick Sereda",
+        "course_name": "Mobile App Development with Flutter & Dart (iOS and Android)",
+        "description": "The Complete iOS and Android Mobile App Development Course with Flutter and Dart (2022)."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-flutter-and-dart-guide/",
+        "duration": "8 total hours",
+        "instructor": "Ecstacks IT",
+        "course_name": "The Complete Flutter and Dart Guide",
+        "description": "Complete package for building interactive android and IOS apps with googles cross platform framework flutter"
+      },
+      {
+        "links": "https://www.udemy.com/course/jetpack-compose-modern-app/",
+        "duration": "4 total hours",
+        "instructor": "Catalin Stefan",
+        "course_name": "Jetpack Compose Modern App development using latest tech",
+        "description": "Jetpack Compose, Coroutines, Flows, Retrofit, Hilt DI, Room database, Navigation, BottomNavBar and lots more"
+      },
+      {
+        "links": "https://www.udemy.com/course/become-a-mobile-app-developer-ios-android-windows/",
+        "duration": "13.5 total hours",
+        "instructor": "Bluelime Learning Solutions",
+        "course_name": "Become A Mobile App Developer (iOS / Android / Windows)",
+        "description": "Build Mobile Apps Step by Step For iOS,Android,Windows from scratch"
+      },
+      {
+        "links": "https://www.udemy.com/course/android-apps-development-masterclass-build-2-apps-java/",
+        "duration": "8 total hours",
+        "instructor": "Vijay Kumar",
+        "course_name": "Android App's Development Masterclass - Build 2 Apps - Java",
+        "description": "The \"Android Dev Masterclass - Build 2 Apps - Java\" course teaches you how to build 2 different Android applications"
+      },
+      {
+        "links": "https://www.udemy.com/course/build-a-mobile-app-without-coding/",
+        "duration": "1.5 total hours",
+        "instructor": "Mohit khoria",
+        "course_name": "Build a Mobile App without Coding in 2 Hours",
+        "description": "Launch your own Mobile App in 2 hours. We will build a mobile app with Google Sheets and Glide, with no coding required."
+      },
+      {
+        "links": "https://www.udemy.com/course/mobile-and-web-development-with-react-js-native-angular/",
+        "duration": "32.5 total hours",
+        "instructor": "Oak Academy, OAK Academy Team",
+        "course_name": "FullStack Web Development with ReactJS, ReactNative, Angular",
+        "description": "Full Stack Web Development with React JS, React Native, Angular, NodeJS, MongoDB and Learn Mobile App Development"
+      },
+      {
+        "links": "https://www.udemy.com/course/taxi-app-in-react-native/",
+        "duration": "8 total hours",
+        "instructor": "Stefan Hyltoft",
+        "course_name": "Taxi App in React Native",
+        "description": "Make a basic taxi app in React Native!"
+      },
+      {
+        "links": "https://www.udemy.com/course/master-flutter-dart-oop-state-management-project-based/",
+        "duration": "49.5 total hours",
+        "instructor": "Dastagir Ahmed",
+        "course_name": "Flutter Shop App | Dart & State Management | Riverpod [2024]",
+        "description": "An online shop for selling virtual products. You will master Dart OOP | State Management | Building API"
+      },
+      {
+        "links": "https://www.udemy.com/course/flutter-e-commerce-bootcamp-build-amazon-clone/",
+        "duration": "15.5 total hours",
+        "instructor": "Sanjay Kumar Das",
+        "course_name": "Flutter E-commerce Bootcamp: Build Amazon Clone",
+        "description": "Master Flutter UI, Firebase, State Management, Payment Integration etc while Building an E-Commerce: Amazon Clone."
+      },
+      {
+        "links": "https://www.udemy.com/course/build-todo-web-application-with-abp-framework/",
+        "duration": "1hr 13min of on-demand video",
+        "instructor": "Volosoft Bilişim",
+        "course_name": "Build a Todo Web Application with ABP Framework",
+        "description": "Welcome to this quick course, this is a very simple course that demonstrates how to create a todo web application step by step, with the multi-layer Domain Driven Design template using the ABP Framework. And we'll do that with each pre-integrated UI framework and database provider option: UI Frameworks: MVC, Blazor, Angular. Database providers: Entity Framework Core (SQLServer, MySQL, SQLite, Oracle, Oracle-Devart, PostgreSQL), MongoDb. ABP Framework offers an opinionated architecture to build enterprise software solutions with best practices on top of NET and ASP NET Core platforms."
+      },
+      {
+        "links": "https://www.udemy.com/course/building-modern-web-applications-with-go/",
+        "duration": "29.5 total hours",
+        "instructor": "Trevor Sawler",
+        "course_name": "Building Modern Web Applications with Go (Golang)",
+        "description": "Learn to program in Go from an award winning university professor"
+      },
+      {
+        "links": "https://www.udemy.com/course/10-financial-web-apps-using-html-css-and-js-front-end/",
+        "duration": "18.5 total hours",
+        "instructor": "Norbert B. Menyhart",
+        "course_name": "10+ HTML CSS and JS Financial Web Apps - Front-End Web Dev",
+        "description": "Lean HTML, CSS and JS by building 10 real world financial web applications using HTML, CSS and JavaScript."
+      },
+      {
+        "links": "https://www.udemy.com/course/build-lexica-art-clone-using-htmlcssjs-php/",
+        "duration": "2.5 total hours",
+        "instructor": "Christopher Glikpo",
+        "course_name": "Build Lexica Art Clone Using HTML,CSS,JS +PHP",
+        "description": "Crafting a Lexica Art Clone: A Web Development Journey with HTML, CSS, JavaScript, and PHP"
+      },
+      {
+        "links": "https://www.udemy.com/course/integrate-webcam-features-into-your-web-app-using-free-codes/",
+        "duration": "2 total hours",
+        "instructor": "Michael Enyichi Nwuzor",
+        "course_name": "Integrate WebCam Features Into Your Web App Using FREE Codes",
+        "description": "Build a simple web application and integrate webcam features into it using FREE JavaScript, CSS, PHP and MySQL Database"
+      },
+      {
+        "links": "https://www.udemy.com/course/laravel-11-from-scratch/",
+        "duration": "4 total hours",
+        "instructor": "Jorge Luis García Coello",
+        "course_name": "Mastering Laravel - From zero to hero",
+        "description": "Master Laravel 11 from scratch by building a complete application step-by-step, from zero to deploy."
+      },
+      {
+        "links": "https://www.udemy.com/course/lets-build-a-go-version-of-laravel/",
+        "duration": "19.5 total hours",
+        "instructor": "Trevor Sawler",
+        "course_name": "Let's Build a Go version of Laravel",
+        "description": "Build a reusable Go module and command line application that makes building a web application simple, fast and secure."
+      },
+      {
+        "links": "https://www.udemy.com/course/version-2-develop-a-result-checker-web-application-in-php/",
+        "duration": "44.5 total hours",
+        "instructor": "Okere Godspower",
+        "course_name": "Version 2: Develop a Result Checker Web Application in PHP",
+        "description": "Build a Complete School Results Management Application (Terminal Report Generating, Pins Management and many more ...)"
+      },
+      {
+        "links": "https://www.udemy.com/course/creating-a-web-app-for-ipad/",
+        "duration": "2.5 total hours",
+        "instructor": "Chris Converse",
+        "course_name": "Creating a Web App for iPad",
+        "description": "Use standard web technologies to create an app-like experience for iPad. And best of all, no App Store required!"
+      },
+      {
+        "links": "https://www.udemy.com/course/create-a-calculator-web-app-with-javascript-html-css/",
+        "duration": "4 total hours",
+        "instructor": "DigiFisk (Programming is fun)",
+        "course_name": "Learn Javascript Web App Development -Build A Calculator App",
+        "description": "Javascript for Front End Web Development - Build Your Own Calculator App Using Javascript, HTML5 & CSS in an hour"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-ultimate-nextjs13-portfolio-website-responsive/",
+        "duration": "10 total hours",
+        "instructor": "Ehizeex Okwuose",
+        "course_name": "Ultimate Next.js 14 Portfolio Website (Zero To Hero) 2024",
+        "description": "Next.js 14 Full Course 2024 | Build and Deploy a Full Stack App Using the Official React Framework (Learn By Doing)"
+      },
+      {
+        "links": "https://www.udemy.com/course/solid-js-firebase-the-complete-guide-twitter-clone-app/",
+        "duration": "24 total hours",
+        "instructor": "Eincode by Filip Jerga, Filip Jerga",
+        "course_name": "Solid JS & Firebase - Complete Guide to X(Twitter) Clone",
+        "description": "Build a Twitter-like app with Solid JS and Typescript. Unleash Solid JS reactivity. Use Firebase as the data store."
+      },
+      {
+        "links": "https://www.udemy.com/course/h2o-wave-starter-course/",
+        "duration": "39 total mins",
+        "instructor": "H2O.ai University",
+        "course_name": "H2O Wave Starter Course",
+        "description": "Learn H2O Wave, Cloud Deployment, AI App Development with Python and Advanced AI App features."
+      },
+      {
+        "links": "https://www.udemy.com/course/full-stack-development-web-app-mobile-app-back-end-api/",
+        "duration": "20.5 total hours",
+        "instructor": "Krystian Czekalski",
+        "course_name": "Angular & Django Full Stack: web, backend API, mobile apps",
+        "description": "Angular 6 web app, python Django 2 RESTfull API, Cross platform iOS and Android mobile with NativeScript"
+      },
+      {
+        "links": "https://www.udemy.com/course/turn-your-idea-into-a-web-application-no-code-guide/",
+        "duration": "1 total hour",
+        "instructor": "Dr. Firas | Centre de Certification",
+        "course_name": "Turn Your Idea Into a Web Application – No-Code Guide 2025",
+        "description": "Learn to create, customize, and monetize a web application without coding using Hostinger Horizons."
+      },
+      {
+        "links": "https://www.udemy.com/course/build-a-travel-blog-app-with-react-and-chakra-ui-mern-2023/",
+        "duration": "10 total hours",
+        "instructor": "Ben Fisher",
+        "course_name": "Build a Travel Blog App with React and Chakra UI MERN [2023]",
+        "description": "Build and deploy a travel blog web app from scratch with React, Redux, Express, NodeJs, MongoDB [MERN Stack + Chakra UI]"
+      },
+      {
+        "links": "https://www.udemy.com/course/build-etsy-yelp-craigslist-and-a-web-scraper-from-scratch/",
+        "duration": "18.5 total hours",
+        "instructor": "Alex Yang",
+        "course_name": "One-stop Ruby on Rails: Build Web Applications from Scratch",
+        "description": "Master Ruby on Rails, HTML, CSS, APIs, and other web technologies by building Etsy, Yelp, and Craigslist from scratch."
+      }
+ 
+]

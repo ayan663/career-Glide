@@ -1,0 +1,19 @@
+.centered-navbar {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  /* position: fixed;  */
+  top: 0; /* Aligns it to the top */
+  left: 0; /* Aligns it to the left edge */
+  margin: 0; /* Removes any extra margin */
+  background-color: white; /* Optional: Set a background color to make the navbar visible */
+  z-index: 1000; /* Ensures the navbar stays above other elements */
+}
+
+.centered-navbar .navbar-collapse {
+  justify-content: center;
+}
+
+.brand {
+  margin-right: 20%;
+}

@@ -1,0 +1,948 @@
+[
+ 
+      {
+        "links": "https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/",
+        "duration": "26 total hours",
+        "platform": "Udemy",
+        "instructor": "in28Minutes Official",
+        "course_name": "Master Microservices with Spring Boot and Spring Cloud",
+        "description": "Java Spring Boot Microservices 5-in-1 - Spring Boot, Spring Cloud, Docker, Kubernetes and REST API (REST Web Services)"
+      },
+      {
+        "links": "https://www.udemy.com/course/spring-web-services-tutorial/",
+        "duration": "14 total hours",
+        "platform": "Udemy",
+        "instructor": "in28Minutes Official",
+        "course_name": "Master Java Web Services and REST API with Spring Boot",
+        "description": "Build Java Web Services & REST API - RESTful & SOAP - with Spring & Spring Boot. Learn REST API & SOAP Web Services Now!"
+      },
+      {
+        "links": "https://www.udemy.com/course/docker-kubernetes-the-practical-guide/",
+        "duration": "23.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller",
+        "course_name": "Docker & Kubernetes: The Practical Guide [2025 Edition]",
+        "description": "Learn Docker, Docker Compose, Multi-Container Projects, Deployment and all about Kubernetes from the ground up!"
+      },
+      {
+        "links": "https://www.udemy.com/course/ai-agents-automation-business-with-langchain-llm-apps/",
+        "duration": "10 total hours",
+        "platform": "Udemy",
+        "instructor": "Arnold Oberleiter",
+        "course_name": "AI-Agents: Automation & Business with LangChain & LLM Apps",
+        "description": "AI Agents with Node.js, Python, JavaScript, LangChain, LangGraph, GPT-4o, Llama, and RAG! Automate tasks, sell software"
+      },
+      {
+        "links": "https://www.udemy.com/course/microservices-with-node-js-and-react/",
+        "duration": "54.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Stephen Grider",
+        "course_name": "Microservices with Node JS and React",
+        "description": "Build, deploy, and scale an E-Commerce app using Microservices built with Node, React, Docker and Kubernetes"
+      },
+      {
+        "links": "https://www.udemy.com/course/node-with-react-fullstack-web-development/",
+        "duration": "25.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Stephen Grider",
+        "course_name": "Node with React: Fullstack Web Development",
+        "description": "Build and deploy fullstack web apps with NodeJS, React, Redux, Express, and MongoDB."
+      },
+      {
+        "links": "https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/",
+        "duration": "19 total hours",
+        "platform": "Udemy",
+        "instructor": "Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller, Manuel Lorenz",
+        "course_name": "React, NodeJS, Express & MongoDB - The MERN Fullstack Guide",
+        "description": "Build fullstack React.js applications with Node.js, Express.js & MongoDB (MERN) with this project-focused course."
+      },
+      {
+        "links": "https://www.udemy.com/course/php-with-laravel-for-beginners-become-a-master-in-laravel/",
+        "duration": "43 total hours",
+        "platform": "Udemy",
+        "instructor": "Edwin Diaz | 900,000+ Students, Coding Faculty Solutions",
+        "course_name": "PHP with Laravel for beginners - Become a Master in Laravel",
+        "description": "Learn to master Laravel to make advanced applications like the real CMS app we build on this course"
+      },
+      {
+        "links": "https://www.udemy.com/course/hibernate-jpa-tutorial-for-beginners-in-100-steps/",
+        "duration": "14 total hours",
+        "platform": "Udemy",
+        "instructor": "in28Minutes Official",
+        "course_name": "Master Hibernate and JPA with Spring Boot in 100 Steps",
+        "description": "Learn Hibernate, JPA (Java Persistence API) and Spring Data JPA using Spring and Spring Boot"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+        "duration": "61.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Dr. Angela Yu, Developer and Lead Instructor",
+        "course_name": "The Complete Full-Stack Web Development Bootcamp",
+        "description": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-web-developer-bootcamp/",
+        "duration": "74 total hours",
+        "platform": "Udemy",
+        "instructor": "Colt Steele",
+        "course_name": "The Web Developer Bootcamp 2025",
+        "description": "With 10 Hours of React added. Become a Developer With ONE course - HTML, CSS, JavaScript, React, Node, MongoDB and More!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-javascript-course/",
+        "duration": "71 total hours",
+        "platform": "Udemy",
+        "instructor": "Jonas Schmedtmann",
+        "course_name": "The Complete JavaScript Course 2025: From Zero to Expert!",
+        "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-guide-to-angular-2/",
+        "duration": "56 total hours",
+        "platform": "Udemy",
+        "instructor": "Maximilian Schwarzmüller",
+        "course_name": "Angular - The Complete Guide (2025 Edition)",
+        "description": "Master Angular (formerly 'Angular 2') and build awesome, reactive web apps with the successor of Angular.js"
+      },
+      {
+        "links": "https://www.udemy.com/course/web-development-masterclass-complete-certificate-course/",
+        "duration": "26 total hours",
+        "platform": "Udemy",
+        "instructor": "YouAccel Training",
+        "course_name": "Web Development Masterclass - Online Certification Course",
+        "description": "Cloud Computing | Web Apps | Linux | Web Servers | DBMS | LAMP Stack | HTML | CSS | JavaScript | PHP | + More"
+      },
+      {
+        "links": "https://www.udemy.com/course/front-end-web-development/",
+        "duration": "17 total hours",
+        "platform": "Udemy",
+        "instructor": "Joseph Delgadillo, Nick Germaine",
+        "course_name": "The Complete Front-End Web Development Course",
+        "description": "Get started as a front-end web developer using HTML, CSS, JavaScript, jQuery, and Bootstrap!"
+      },
+      {
+        "links": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/",
+        "duration": "37.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Jonas Schmedtmann",
+        "course_name": "Build Responsive Real-World Websites with HTML and CSS",
+        "description": "Learn modern HTML5, CSS3 and web design by building a stunning website for your portfolio! Includes flexbox and CSS Grid"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-and-understand-apis-and-restful-apis/",
+        "duration": "43 total mins",
+        "platform": "Udemy",
+        "instructor": "Kalob Taulien",
+        "course_name": "Understanding APIs and RESTful APIs Crash Course",
+        "description": "An introduction to how APIs and RESTful APIs work. No coding in this course, it's all conceptual."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-guide-to-angular-2/",
+        "duration": "56 total hours",
+        "platform": "Udemy",
+        "instructor": "Maximilian Schwarzmüller",
+        "course_name": "Angular - The Complete Guide (2025 Edition)",
+        "description": "Master Angular (formerly \"Angular 2\") and build awesome, reactive web apps with the successor of Angular.js"
+      },
+      {
+        "links": "https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/?srsltid=AfmBOorodbTKPbWxTvcxA_cJNKWDux7tYYgzCqACRweAiXRw6smPoeL4",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Hussein Nasser",
+        "course_name": "Fundamentals of Backend Engineering",
+        "description": "Understand backend communication design patterns, protocols, execution and proxying"
+      },
+      {
+        "links": "https://www.udemy.com/course/vania-dart-backend-framework/?srsltid=AfmBOoo9ij8zQz__Vdr-XVS0OokbmEUCotXzI6vz73g0p23bRYcT4xpL",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Ahmed Elsaid",
+        "course_name": "Vania Dart ( backend framework )",
+        "description": "Mastering Vania Dart: Build Fast and Scalable APIs with Dart. Vania Dart is a lightweight and high-performance backend framework designed for Dart developers who want to build modern, efficient, and scalable web APIs. This course will take you on a step-by-step journey, from setting up Vania Dart to deploying full-fledged APIs with advanced features."
+      },
+      {
+        "links": "https://www.udemy.com/course/html-and-css-for-beginners-crash-course-learn-fast-easy/",
+        "duration": "9 total hours",
+        "platform": "Udemy",
+        "instructor": "Edwin Diaz | 900,000+ Students, Coding Faculty Solutions",
+        "course_name": "HTML and CSS for Beginners - Build a Website & Launch ONLINE",
+        "description": "HTML and CSS for Beginners course will give your all the knowledge you need to master HTML and CSS easily and quickly."
+      },
+      {
+        "links": "https://www.udemy.com/course/html-javascript-bootstrap-certification-course/",
+        "duration": "6.5 total hours",
+        "platform": "Udemy",
+        "instructor": "YouAccel Training",
+        "course_name": "HTML, JavaScript, & Bootstrap - Certification Course",
+        "description": "A Comprehensive Guide for Beginners interested in learning HTML, JavaScript, & Bootstrap. Build Interactive Web Pages."
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-web-design-html-css-adobe-photoshop/",
+        "duration": "5.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Creative Online School",
+        "course_name": "Practical Web Design & Development: 7 Courses in 1",
+        "description": "Master in Practical Web design and development using Photoshop, HTML5, CSS3, Bootstrap and more."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-web-developer-course-2/",
+        "duration": "31 total hours",
+        "platform": "Udemy",
+        "instructor": "Rob Percival, Codestars • over 2 million students worldwide!",
+        "course_name": "The Complete Web Developer Course 3.0",
+        "description": "Learn Web Development in 2024! Build apps, website, projects using HTML, CSS, Javascript, PHP, Python, MySQL & more!"
+      },
+      {
+        "links": "https://www.udemy.com/course/html-css-javascript-certification-course-for-beginners/",
+        "duration": "5.5 total hours",
+        "platform": "Udemy",
+        "instructor": "YouAccel Training",
+        "course_name": "HTML, CSS, & JavaScript - Certification Course for Beginners",
+        "description": "A Comprehensive Guide for Beginners interested in learning HTML, CSS, & JavaScript to Build Interactive Web Pages."
+      },
+      {
+        "links": "https://www.udemy.com/course/nextjs-react-the-complete-guide/",
+        "duration": "40.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Maximilian Schwarzmüller",
+        "course_name": "Next.js 15 & React - The Complete Guide",
+        "description": "Learn NextJS 15 from the ground up and build fullstack ReactJS + NextJS apps with the App Router or Pages Router!"
+      },
+      {
+        "links": "https://www.udemy.com/course/aspnet-core-identity-with-angular-jwt-email-confirmation/",
+        "duration": "13.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Shayan Vaghei",
+        "course_name": "ASP.NET Core Identity with Angular (JWT, Email Confirmation)",
+        "description": "You will create a web application using .NET 7 Web API and Angular 15 to implement full fledge of ASPNET Identity"
+      },
+      {
+        "links": "https://www.udemy.com/course/build-a-flashcard-website-with-python-and-django/",
+        "duration": "3 total hours",
+        "platform": "Udemy",
+        "instructor": "John Elder",
+        "course_name": "Build A Flashcard Website With Python and Django",
+        "description": "Learn Python Driven Web Development With Django and Python!"
+      },
+      {
+        "links": "https://www.udemy.com/course/nodejs-for-beginners-become-a-nodejs-developer/",
+        "duration": "23.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Edwin Diaz | 900,000+ Students, Coding Faculty Solutions",
+        "course_name": "Node.js for Beginners - Become a Node js Developer + Project",
+        "description": "Build an Amazing CMS system - Using Express + MongoDB + Bootstrap - Handlebars + Authentication + AJAX + Deployment"
+      },
+      {
+        "links": "https://www.udemy.com/course/understanding-typescript/",
+        "duration": "22.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Maximilian Schwarzmüller",
+        "course_name": "Understanding TypeScript",
+        "description": "Boost your JavaScript projects with TypeScript: Learn all about core types, generics, TypeScript + React or Node & more!"
+      },
+      {
+        "links": "https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/",
+        "duration": "32 total hours",
+        "platform": "Udemy",
+        "instructor": "Jose Portilla, Pierian Training",
+        "course_name": "Python and Django Full Stack Web Developer Bootcamp",
+        "description": "Learn to build websites with HTML , CSS , Bootstrap , Javascript , jQuery , Python 3 , and Django!"
+      },
+      {
+        "links": "https://www.udemy.com/course/backend-engineering-with-go/?srsltid=AfmBOor1mmDRoFhkFkUv8xhVQ3glhWyWfCoR06HIg3HNI123-s0oxS1l",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Tiago Taquelim",
+        "course_name": "Backend Engineering with Go",
+        "description": "The complete guide for building and deploying production web APIs in Golang (PostgreSQL, Docker and Google Cloud)"
+      },
+      {
+        "links": "https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/?srsltid=AfmBOoqPqWc8Qpk0XVHwTs_YiTUIwPHIG5e1iFiPZrVFB-pKLeE3-TN8",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Hussein Nasser",
+        "course_name": "Fundamentals of Backend Engineering",
+        "description": "Understand backend communication design patterns, protocols, execution and proxying"
+      },
+      {
+        "links": "https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/?srsltid=AfmBOopGJ6D2JPUUcSedH48IRmVHBM1fgABv7--OuVtaQg8cg_Mt7D1L",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Hussein Nasser",
+        "course_name": "Fundamentals of Backend Engineering",
+        "description": "Understand backend communication design patterns, protocols, execution and proxying"
+      },
+      {
+        "links": "https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes/",
+        "duration": "19 hours",
+        "platform": "Udemy",
+        "instructor": "TECH SCHOOL",
+        "course_name": "Backend Master Class [Golang + Postgres + Kubernetes + gRPC]",
+        "description": "Learn everything about backend web development: Golang, Postgres, Redis, Gin, gRPC, Docker, Kubernetes, AWS, CI/CD"
+      },
+      {
+        "links": "https://www.udemy.com/course/refactoru-adv-backend-dev/?srsltid=AfmBOoo_L-Jdh5Vga50aMe1ZV2DZfmD5nlpDvzbLcEa96prDsCPc5yFc",
+        "duration": "52min of on-demand video",
+        "platform": "Udemy",
+        "instructor": "RefactorU LLC",
+        "course_name": "Advanced Backend Web Development",
+        "description": "In this course we examine several technologies. The first is Grunt. Grunt is a task runner which is a way for us to implement a build system to handle writing our code in different languages, preprocessing, minifying our code, and doing unit testing -- all automated. We’ll also take a look at Coffeescript, which is a preprocessor for Javascript. It follows a lot of similar structures to Python and is very, very popular. Finally, we’ll discuss Sockets. Sockets are a way for us to open a constant connection between the server and the client. Normally when you make a request, the request goes up and then comes down with the data. With a socket, that request goes up and stays open, allowing the server to send data whenever it wants and the client to send data whenever it wants. So, we can make real time applications using sockets and we’ll take a look at how to implement a very simple system using socket IO."
+      },
+      {
+        "links": "https://www.udemy.com/course/backend-web-development-bootcamp/?srsltid=AfmBOoohAjyuXjn-6yKUnShPiTTVFDNhAyHGcnA1QF9O9Az3ztjhOWZh",
+        "duration": "12.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Md Al Mamun",
+        "course_name": "Backend Web Development Bootcamp - From Beginner to Expert",
+        "description": "Master Backend Development with Node js, MongoDB, Mongoose, SQL, GraphQL, TypeScript, and Microservices Architecture."
+      },
+      {
+        "links": "https://www.udemy.com/course/backend-engineering-with-go/",
+        "duration": "17 hours",
+        "platform": "Udemy",
+        "instructor": "Tiago Taquelim",
+        "course_name": "Backend Engineering with Go",
+        "description": "The complete guide for building and deploying production web APIs in Golang (PostgreSQL, Docker and Google Cloud)"
+      },
+      {
+        "links": "https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/",
+        "duration": "20 total hours",
+        "platform": "Udemy",
+        "instructor": "Andrei Neagoie",
+        "course_name": "Master the Coding Interview: Data Structures + Algorithms",
+        "description": "Ultimate coding interview bootcamp. Get more job offers, negotiate a raise: Everything you need to get the job you want!"
+      },
+      {
+        "links": "https://www.udemy.com/course/datastructurescncpp/",
+        "duration": "58.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Abdul Bari",
+        "course_name": "Mastering Data Structures & Algorithms using C and C++",
+        "description": "Learn, Analyse and Implement Data Structure using C and C++. Learn Recursion and Sorting."
+      },
+      {
+        "links": "https://www.udemy.com/course/java-collections-framework-learnit/",
+        "duration": "6 total hours",
+        "platform": "Udemy",
+        "instructor": "Andrii Piatakha, Learn IT University",
+        "course_name": "Java Collections Framework + Generics, Lambdas & Stream API",
+        "description": "Learn Java Collections Framework from scratch to PRO level with practical exercises"
+      },
+      {
+        "links": "https://www.udemy.com/course/certified-kubernetes-application-developer/",
+        "duration": "17 total hours",
+        "platform": "Udemy",
+        "instructor": "Mumshad Mannambeth, KodeKloud Training, Vijin Palazhi",
+        "course_name": "Kubernetes Certified Application Developer (CKAD) with Tests",
+        "description": "Learn concepts and practice for the Kubernetes Certification with hands-on labs right in your browser - DevOps - CKAD"
+      },
+      {
+        "links": "https://www.udemy.com/course/spring-5-with-spring-boot-2/",
+        "duration": "49.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Navin Reddy, Telusko",
+        "course_name": "Java Spring Framework 6 with Spring Boot 3",
+        "description": "Master Java, Spring 6 and Spring Boot 3 with JDBC, JPA, Security, Docker and Microservices with Telusko"
+      },
+      {
+        "links": "https://www.udemy.com/course/kubernetes-for-developers/",
+        "duration": "6.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Houssem Dellai",
+        "course_name": "Kubernetes for developers",
+        "description": "Learn how to deploy, manage and scale dockerized apps in Kubernetes"
+      },
+      {
+        "links": "https://www.udemy.com/course/leetcode-coding-interview-question-solution-explanation/",
+        "duration": "39 total hours",
+        "platform": "Udemy",
+        "instructor": "Md. A. Barik",
+        "course_name": "LeetCode in Java: Algorithms Coding Interview Questions",
+        "description": "Ace your next coding interview by solving essential coding interview questions and get an offer from big tech company."
+      },
+      {
+        "links": "https://www.udemy.com/course/software-architecture-learnit/",
+        "duration": "56.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Andrii Piatakha, Learn IT University",
+        "course_name": "Software Architecture and Clean Code Design in OOP",
+        "description": "Learn design patterns and principles for Object-oriented programming to make your software scalable and easy to maintain"
+      },
+      {
+        "links": "https://www.udemy.com/course/introduction-to-data-structures/",
+        "duration": "8.5 total hours",
+        "platform": "Udemy",
+        "instructor": "William Fiset",
+        "course_name": "Easy to Advanced Data Structures",
+        "description": "A complete guide to learning everything there is to know about data structures"
+      },
+      {
+        "links": "https://www.udemy.com/course/gof-design-patterns-learnit/",
+        "duration": "3.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Andrii Piatakha, Learn IT University",
+        "course_name": "GoF Design Patterns - Complete Course with Java Examples",
+        "description": "Software Design Patterns in OOP with Java examples. Architecture principles and clean code design in OOP applications"
+      },
+      {
+        "links": "https://www.udemy.com/course/elasticsearch-complete-guide/",
+        "duration": "13 total hours",
+        "platform": "Udemy",
+        "instructor": "Bo Andersen",
+        "course_name": "Complete Guide to Elasticsearch",
+        "description": "Learn Elasticsearch from scratch and begin learning the ELK stack (Elasticsearch, Logstash & Kibana) and Elastic Stack."
+      },
+      {
+        "links": "https://www.udemy.com/course/deploy-infra-in-the-cloud-using-terraform/",
+        "duration": "9 total hours",
+        "platform": "Udemy",
+        "instructor": "Houssem Dellai",
+        "course_name": "Deploy Infra in the Cloud using Terraform",
+        "description": "Learn how to apply Infrastructure as Code (IaC) with Terraform. Covers Web Apps, Database, VM, Kubernetes and Azure."
+      },
+      {
+        "links": "https://www.udemy.com/course/software-architecture-design-of-modern-large-scale-systems/",
+        "duration": "7 total hours",
+        "platform": "Udemy",
+        "instructor": "Michael Pogrebinsky | Software Architecture, System Design, Java Expert, Top Developer Academy LLC",
+        "course_name": "Software Architecture & Design of Modern Large Scale Systems",
+        "description": "Become a Software Architect or Technical Lead by Mastering Software Architecture, System Design & Big Data Processing."
+      },
+      {
+        "links": "https://www.udemy.com/course/data-structures-and-algorithms-java/",
+        "duration": "10 total hours",
+        "platform": "Udemy",
+        "instructor": "Scott Barrett",
+        "course_name": "Java Data Structures & Algorithms + LEETCODE Exercises",
+        "description": "DSA + LEETCODE for Cracking the Coding Interview – Animated Videos for Faster Learning and Deeper Understanding"
+      },
+      {
+        "links": "https://www.udemy.com/course/solid-design/",
+        "duration": "2 total hours",
+        "platform": "Udemy",
+        "instructor": "George S",
+        "course_name": "SOLID Principles: Introducing Software Architecture & Design",
+        "description": "Gain mastery over SOLID Principles and write clean and well-designed code in Object Oriented Languages like Java etc."
+      },
+      {
+        "links": "https://www.udemy.com/course/introduction-to-microservices/",
+        "duration": "1.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Sean Campbell",
+        "course_name": "Microservices: Designing Highly Scalable Systems",
+        "description": "Microservices with a Purpose: Exploring the Bigger Picture"
+      },
+      {
+        "links": "https://www.udemy.com/course/mastering-react-19-e-commerce-bootcamp-interview-qa/",
+        "duration": "25 total hours",
+        "platform": "Udemy",
+        "instructor": "Init Tech Labs Dhairya Joshi, Nirmal Joshi",
+        "course_name": "Mastering React 19 + E-Commerce Bootcamp + Interview Q&A",
+        "description": "Become pro with React 19 + NextJS, Redux Tool Kit , NodeJS, MySQL, App Router, JWT, JOSE, BcryptJS, TailwindCSS, Stripe"
+      },
+      {
+        "links": "https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/?srsltid=AfmBOooGtuwt4g6NN_rfXsx8AWN8uLD4et8HlkUcYaCEhoC_eQzdzjun",
+        "duration": "19 hours",
+        "platform": "Udemy",
+        "instructor": "Hussein Nasser",
+        "course_name": "Fundamentals of Backend Engineering",
+        "description": "Understand backend communication design patterns, protocols, execution and proxying"
+      },
+      {
+        "links": "https://www.udemy.com/course/backend-web-development-python-djangodatabases-git-api/?srsltid=AfmBOop9vayOBSyLq8SkdHI7WlhJs7R_PlCOnrrB0QZKKLErto0EDOU-",
+        "duration": "19 hours",
+        "platform": "Udemy",
+        "instructor": "Bluelime Learning Solutions",
+        "course_name": "Backend Web Development - Python, Django,Databases, Git, API",
+        "description": "Become a backend developer using :Python, Django, Database Integration, Cloud Deployment , API,Git & Github"
+      },
+      {
+        "links": "https://www.udemy.com/course/java-tutorial/",
+        "duration": "16 total hours",
+        "platform": "Udemy",
+        "instructor": "John Purcell",
+        "course_name": "Java Tutorial for Complete Beginners",
+        "description": "Learn to program using the Java programming language"
+      },
+      {
+        "links": "https://www.udemy.com/course/complete-python-bootcamp/",
+        "duration": "22 total hours",
+        "platform": "Udemy",
+        "instructor": "Jose Portilla, Pierian Training",
+        "course_name": "The Complete Python Bootcamp From Zero to Hero in Python",
+        "description": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games"
+      },
+      {
+        "links": "https://www.udemy.com/course/100-days-of-code/",
+        "duration": "56.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Dr. Angela Yu, Developer and Lead Instructor",
+        "course_name": "100 Days of Code: The Complete Python Pro Bootcamp",
+        "description": "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!"
+      },
+      {
+        "links": "https://www.udemy.com/course/automate/",
+        "duration": "9.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Al Sweigart",
+        "course_name": "Automate the Boring Stuff with Python Programming",
+        "description": "A practical programming course for office workers, academics, and administrators who want to improve their productivity."
+      },
+      {
+        "links": "https://www.udemy.com/course/java-the-complete-java-developer-course/",
+        "duration": "135.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Tim Buchalka, Tim Buchalka's Learn Programming Academy, Edwin Einsen Vásquez Velásquez, Igor Popovic",
+        "course_name": "Java Masterclass 2025: 130+ Hours of Expert Lessons",
+        "description": "Gain real-world experience with OOP, coding exercises, and problem-solving for job-ready Java development skills"
+      },
+      {
+        "links": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/",
+        "duration": "71.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller",
+        "course_name": "React - The Complete Guide 2025 (incl. Next.js, Redux)",
+        "description": "Dive in and learn React.js from scratch! Learn React, Hooks, Redux, React Router, Next.js, Best Practices and way more!"
+      },
+      {
+        "links": "https://www.udemy.com/course/java-programming-complete-beginner-to-advanced/",
+        "duration": "10.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Code IT, Sunshine Coding",
+        "course_name": "Java Programming for Complete Beginners",
+        "description": "Learn Core Java Skills including the lastest version of Java"
+      },
+      {
+        "links": "https://www.udemy.com/course/python-programming-beginner-to-advanced/",
+        "duration": "8 total hours",
+        "platform": "Udemy",
+        "instructor": "EdYoda for Business, Dipesh Sharma",
+        "course_name": "Python Programming - From Basics to Advanced level",
+        "description": "This Python for beginners course will help you to become Zero to Hero. Learn Python Programming in Easy Way."
+      },
+      {
+        "links": "https://www.udemy.com/course/python-for-beginners-learn-all-the-basics-of-python/",
+        "duration": "5 total hours",
+        "platform": "Udemy",
+        "instructor": "Yassin Marco MBA",
+        "course_name": "Python for beginners - Learn all the basics of python",
+        "description": "Learn how to program in python- python functions-python basic apps - python tips and tricks - Other Python features"
+      },
+      {
+        "links": "https://www.udemy.com/course/python-the-complete-python-developer-course/",
+        "duration": "61.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Tim Buchalka, Jean-Paul Roberts, Tim Buchalka's Learn Programming Academy",
+        "course_name": "Learn Python Programming Masterclass",
+        "description": "This Python For Beginners Course Teaches You The Python Language Fast. Includes Python Online Training With Python 3"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-python-programming-a-step-by-step-course-to-beginners/",
+        "duration": "5.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Ivan Lourenço Gomes, Learn IT University, Andrii Piatakha",
+        "course_name": "Learn to Code in Python 3: Programming beginner to advanced",
+        "description": "Python3 programming made easy with exercises, challenges and lots of real life examples. Learn to code today!"
+      },
+      {
+        "links": "https://www.udemy.com/course/project-development-using-java-for-beginners-2020/",
+        "duration": "45.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Hemanth kumar",
+        "course_name": "Project Development Using JAVA for Beginners - 2025",
+        "description": "Learn Java from scratch and become Software Engineer."
+      },
+      {
+        "links": "https://www.udemy.com/course/python-data-analysis-bootcamp-with-pandas-and-nltk/",
+        "duration": "6 total hours",
+        "platform": "Udemy",
+        "instructor": "Mammoth Interactive, John Bura",
+        "course_name": "Python Data Analysis Bootcamp with Pandas and NLTK",
+        "description": "Analyze data fast and easy with Python and Pandas"
+      },
+      {
+        "links": "https://www.udemy.com/course/maintainable-code-with-java-examples/",
+        "duration": "1.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Liviu Oprisan",
+        "course_name": "Maintainable Code with Java Examples",
+        "description": "How to write easy to maintain and extend code with Java Examples"
+      },
+      {
+        "links": "https://www.udemy.com/course/c-intermediate-part-ii-reflection-events-linq/",
+        "duration": "11 total hours",
+        "platform": "Udemy",
+        "instructor": "Ivan Iliev",
+        "course_name": "C# Intermediate - Part II (Reflection, Events, LINQ)",
+        "description": "Value and Reference Types, Generics, Reflection, Delegates and Events, Lambda and LINQ"
+      },
+      {
+        "links": "https://www.udemy.com/course/java-programming-for-beginners-w/",
+        "duration": "4 total hours",
+        "platform": "Udemy",
+        "instructor": "Abd El Fattah Khatib",
+        "course_name": "Java Programming for Beginners",
+        "description": "Learn how to Code in Java with no previous experience. Master Writing functions, For, While, Recursion and More"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-python-courses/?srsltid=AfmBOorUG0FpO6LUd3WJvm3_1yq46T-drE1Af_YkcaNGsj1EASIkUZ7N",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Neamatullah Ekhteyari",
+        "course_name": "101 Python Projects | The Complete Python Course for 2025",
+        "description": "Master Python in 2025: Build 101 Projects, Learn Socket Programming, Automation, Data Analysis, OpenCV and OOP. This course is designed for anyone who wants to learn Python from scratch or improve their existing skills with real-world projects. Over the course of 101 diverse projects, you'll learn Python fundamentals, intermediate skills, and advanced Python projects, gaining hands-on experience in web development, automation, data analysis, image processing, and much more."
+      },
+      {
+        "links": "https://www.udemy.com/course/backend-web-development-bootcamp/?srsltid=AfmBOorkYE5q-AIP_gTp94lnwYLWCjzzEDHL4WQgeH-EkfFaORAmmAnf",
+        "duration": "12.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Md Al Mamun",
+        "course_name": "Backend Web Development Bootcamp - From Beginner to Expert",
+        "description": "Master Backend Development with Node js, MongoDB, Mongoose, SQL, GraphQL, TypeScript, and Microservices Architecture."
+      },
+      {
+        "links": "https://www.udemy.com/course/refactoru-adv-backend-dev/?srsltid=AfmBOorygq3bggv2Etx5f4n9vq0lRelvlJJEyyIfGvv7MuC6WPkr6aMQ",
+        "duration": "52min of on-demand video",
+        "platform": "Udemy",
+        "instructor": "RefactorU LLC",
+        "course_name": "Advanced Backend Web Development",
+        "description": "In this course we examine several technologies. The first is Grunt. Grunt is a task runner which is a way for us to implement a build system to handle writing our code in different languages, preprocessing, minifying our code, and doing unit testing -- all automated. We’ll also take a look at Coffeescript, which is a preprocessor for Javascript. It follows a lot of similar structures to Python and is very, very popular. Finally, we’ll discuss Sockets. Sockets are a way for us to open a constant connection between the server and the client. Normally when you make a request, the request goes up and then comes down with the data. With a socket, that request goes up and stays open, allowing the server to send data whenever it wants and the client to send data whenever it wants. So, we can make real time applications using sockets and we’ll take a look at how to implement a very simple system using socket IO."
+      },
+      {
+        "links": "https://www.udemy.com/course/backend-web-development-python-djangodatabases-git-api/?srsltid=AfmBOopNjhpWfQ75_LFtkfsZ3Hug1T6n96jokpHVW5ON6PlK0Xh2XU6A",
+        "duration": "19 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Bluelime Learning Solutions",
+        "course_name": "Backend Web Development - Python, Django,Databases, Git, API",
+        "description": "Become a backend developer using :Python, Django, Database Integration, Cloud Deployment , API,Git & Github"
+      },
+      {
+        "links": "https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/?srsltid=AfmBOopffCtwTRvG3QBRjX-EEhpJ924fb2wEtCz9HS2p3hoBIYl17cKV",
+        "duration": "19 hours",
+        "platform": "Udemy",
+        "instructor": "Hussein Nasser",
+        "course_name": "Fundamentals of Backend Engineering",
+        "description": "Understand backend communication design patterns, protocols, execution and proxying"
+      },
+      {
+        "links": "https://www.udemy.com/course/backend-development-with-nodejs/?srsltid=AfmBOoqPY7VboEsBsH9l56iyClrF9Xf8sifECGiZUQ6nxAGoWdhdQJ90",
+        "duration": "Not specified",
+        "platform": "Udemy",
+        "instructor": "Frontend Coach",
+        "course_name": "Backend Development with Node.js",
+        "description": "Master the Art of Building Robust and Scalable Backend Systems with Node.js. This comprehensive course is designed to equip you with the knowledge and hands-on experience to become a proficient backend developer using Node.js. You'll dive deep into the core principles of backend development, learning how to set up a robust backend environment and leverage the power of Node.js to build scalable applications. You'll explore advanced topics such as asynchronous programming, event-driven architecture, and working with databases, empowering you to overcome complex challenges in backend development."
+      },
+      {
+        "links": "https://www.udemy.com/course/django-2/?srsltid=AfmBOoqphixojJp2mLuF-DUpWkqzk8LpsIP2FPtTPGYqbsTJ0vdEuSF9",
+        "duration": "6 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Igneus Technologies",
+        "course_name": "Backend web development with Django 2 - Build 8 projects",
+        "description": "A course for beginners in back end, uses Django 2, python3 to make you a full stack developer"
+      },
+      {
+        "links": "https://www.udemy.com/course/nodejs-master-class/",
+        "duration": "15 total hours",
+        "platform": "Udemy",
+        "instructor": "Mosh Hamedani",
+        "course_name": "Node.js: The Complete Guide to Build RESTful APIs (2018)",
+        "description": "Learn to build fast, scalable and secure RESTful services with Node, Express and MongoDB, from setup to production"
+      },
+      {
+        "links": "https://www.udemy.com/course/machinelearning/",
+        "duration": "43 total hours",
+        "platform": "Udemy",
+        "instructor": "Kirill Eremenko, Hadelin de Ponteves, SuperDataScience Team, Ligency Team",
+        "course_name": "Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2025]",
+        "description": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/",
+        "duration": "32 total hours",
+        "platform": "Udemy",
+        "instructor": "365 Careers",
+        "course_name": "The Data Science Course: Complete Data Science Bootcamp 2025",
+        "description": "Complete Data Science Training: Math, Statistics, Python, Advanced Statistics in Python, Machine and Deep Learning"
+      },
+      {
+        "links": "https://www.udemy.com/course/real-time-ai-ppe-detection-yolov8-python-opencv/",
+        "duration": "1 total hour",
+        "platform": "Udemy",
+        "instructor": "Muhammad Yaqoob G",
+        "course_name": "AI PPE Detection: Real-Time Workplace Safety with Python&CV",
+        "description": "AI-Powered PPE Detection: Ensuring Workplace Safety in Real Time with Python & Computer Vision"
+      },
+      {
+        "links": "https://www.udemy.com/course/best-internet-marketing-tips-social-media-online-ads/",
+        "duration": "3.5 total hours",
+        "platform": "Udemy",
+        "instructor": "FEIL Consulting and Resources",
+        "course_name": "Internet Marketing Tips: Social Media Marketing & Online Ads",
+        "description": "The Ultimate Guide to Digital Marketing Strategy: Top Tips for Social Media Marketing & Online Ads"
+      },
+      {
+        "links": "https://www.udemy.com/course/git-github-bootcamp-with-codespace-tothepoint-job-prep-2025/",
+        "duration": "5.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Karan Gupta",
+        "course_name": "GIT-GitHub Bootcamp with CodeSpace #ToThePoint Job Prep-2025",
+        "description": "Fight Against Layoff! 100% Job HandsOn Skills - Essential Version Control for Developers, Team & Complete Beginners"
+      },
+      {
+        "links": "https://www.udemy.com/course/shallow-neural-networks-for-time-series-forecasting/",
+        "duration": "4.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Quant Algorithmic Economist",
+        "course_name": "Shallow Neural Networks for Time Series Forecasting",
+        "description": "ML, Shallow Learning and timeseries forecasts!"
+      },
+      {
+        "links": "https://www.udemy.com/course/50-days-of-becoming-a-pro-game-programmer-in-c-using-sdl2/",
+        "duration": "23.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Umair Khan",
+        "course_name": "50 Days of Becoming a Pro Game Programmer in C++ using SDL2",
+        "description": "Learn the Most Powerful C++ Gaming Library and Make Pro Level Games in Just 50 Days of Professional Guide"
+      },
+      {
+        "links": "https://www.udemy.com/course/theming-angular-and-material-md3-the-missing-guide/",
+        "duration": "12 total hours",
+        "platform": "Udemy",
+        "instructor": "Kobi Hari",
+        "course_name": "Theming Angular 19 and Material MD3 - The missing guide",
+        "description": "Learn to Theme and customize Angular Material 19 (MD3) using, SCSS, and Modern CSS Techniques"
+      },
+      {
+        "links": "https://www.udemy.com/course/make-10-advanced-pro-games-in-c-using-sdl2/",
+        "duration": "25.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Python School",
+        "course_name": "Make 10 Advanced Pro Games in C++ using SDL2",
+        "description": "Learn to make Professional Level Stunning Games using the most powerful C++ Graphical Library SDL2"
+      },
+      {
+        "links": "https://www.udemy.com/course/react-firebase-tanstack-build-dynamic-web-apps-2025/",
+        "duration": "4 total hours",
+        "platform": "Udemy",
+        "instructor": "Kainaat Fida, Fazila B",
+        "course_name": "React Firebase & TanStack: Build Dynamic Web Apps 2025",
+        "description": "Master React.js, Firebase, TanStack, and Vite to Build Dynamic Web Apps – A Complete Guide to Modern Web Development"
+      },
+      {
+        "links": "https://www.udemy.com/course/self-driving-and-ros-2-learn-by-doing-plan-navigation/",
+        "duration": "28 total hours",
+        "platform": "Udemy",
+        "instructor": "Antonio Brandi",
+        "course_name": "Self Driving and ROS 2 - Learn by Doing! Plan & Navigation",
+        "description": "Create a ROS2 Self-Driving robot with Python and C++. Master Navigation, Planning and Decision Making with Behavior Tree"
+      },
+      {
+        "links": "https://www.udemy.com/course/pre-coding-bootcamp-your-first-step-to-become-a-programmer/",
+        "duration": "5 total hours",
+        "platform": "Udemy",
+        "instructor": "Ardit Sulce",
+        "course_name": "Pre-Coding Bootcamp: Your First Step to Become a Programmer",
+        "description": "Feeling lost in coding courses? This course fills the gaps beginners face—tools, concepts, and how programming works."
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-python-100-exercises-real-world-projects/",
+        "duration": "1 total hour",
+        "platform": "Udemy",
+        "instructor": "Hafiz Taqi Ul Hassan",
+        "course_name": "100+ Python Coding Exercises, Quizzes & Real-World Projects",
+        "description": "Python Hands On: Solve 100+ Python Coding Exercises, Quizzes & Build Real Life Projects (Includes My Complete Notes)"
+      },
+      {
+        "links": "https://www.udemy.com/course/introduction-to-vibe-coding/",
+        "duration": "1.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Mayfair Real Estate Institute",
+        "course_name": "Introduction to Vibe Coding",
+        "description": "Learn how to build apps using AI agents like ChatGPT focus on prompts, creativity, workflows, and modern no-code coding."
+      },
+      {
+        "links": "https://www.udemy.com/course/introduction-to-openai-api-chatgpt-api-chatgpt-plugins/",
+        "duration": "3 total hours",
+        "platform": "Udemy",
+        "instructor": "Valentin Despa, Valentin Despa - Support",
+        "course_name": "Introduction to OpenAI API & ChatGPT API for Developers",
+        "description": "Intro to GenAI. Integrate APIs from OpenAI such as ChatGPT (GPT-3.5 & GPT4), Whisper & DALL-E in your own applications"
+      },
+      {
+        "links": "https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/",
+        "duration": "25.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Ligency Team, Ed Donner",
+        "course_name": "LLM Engineering: Master AI, Large Language Models & Agents",
+        "description": "Become an LLM Engineer in 8 weeks: Build and deploy 8 LLM apps, mastering Generative AI, RAG, LoRA and AI Agents."
+      },
+      {
+        "links": "https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/",
+        "duration": "56 total hours",
+        "platform": "Udemy",
+        "instructor": "Rahul Shetty",
+        "course_name": "Selenium WebDriver with Java -Basics to Advanced+Frameworks",
+        "description": "\"TOP RATED #1 Master SELENIUM java 4 (Latest) course\" -5 Million students learning worldWide with great collaboration"
+      },
+      {
+        "links": "https://www.udemy.com/course/web-dev-master/",
+        "duration": "79.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Hitesh Choudhary",
+        "course_name": "Complete web development course",
+        "description": "Only web development course that you will need. Covers HTML, CSS, Tailwind, Node, React, MongoDB, Prisma, Deployment etc"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-php-full-stack-web-developer-bootcamp/",
+        "duration": "47.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Srini Vanamala",
+        "course_name": "The Complete PHP Full Stack Web Developer Bootcamp",
+        "description": "Learn to build websites with HTML , CSS , JAVASCRIPT , Bootstrap , PHP , MySQL , WordPress , OOP & more!"
+      },
+      {
+        "links": "https://www.udemy.com/course/building-modern-web-applications-with-go/",
+        "duration": "29.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Trevor Sawler",
+        "course_name": "Building Modern Web Applications with Go (Golang)",
+        "description": "Learn to program in Go from an award winning university professor"
+      },
+      {
+        "links": "https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/",
+        "duration": "26 total hours",
+        "platform": "Udemy",
+        "instructor": "in28Minutes Official",
+        "course_name": "Mastering Microservices with Spring Boot and Spring Cloud",
+        "description": "Java Spring Boot Microservices 5-in-1 - Spring Boot, Spring Cloud, Docker, Kubernetes and REST API (REST Web Services)"
+      },
+      {
+        "links": "https://www.udemy.com/course/nodejs-api-masterclass/",
+        "duration": "12 total hours",
+        "platform": "Udemy",
+        "instructor": "Brad Traversy",
+        "course_name": "Node.js API Masterclass With Express & MongoDB",
+        "description": "Create a real world backend for a bootcamp directory app"
+      },
+      {
+        "links": "https://www.udemy.com/course/complete-nodejs-developer-zero-to-mastery/",
+        "duration": "46.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Andrei Neagoie, Adam Odziemkowski",
+        "course_name": "Complete NodeJS Developer (GraphQL, MongoDB, + more)",
+        "description": "Learn from real NodeJS experts! Includes REALLY Advanced NodeJS. Express, GraphQL, REST, MongoDB, SQL, MERN + much more"
+      },
+      {
+        "links": "https://www.udemy.com/course/python-first-coding/",
+        "duration": "5.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Jay Alphey",
+        "course_name": "Python as a first coding language",
+        "description": "Master programming skills using Python, a top language for data science"
+      },
+      {
+        "links": "https://www.udemy.com/course/java-interview-questions-with-answers/",
+        "duration": "4 total hours",
+        "platform": "Udemy",
+        "instructor": "Gauttam SK",
+        "course_name": "Java Interview Questions With Answers",
+        "description": "Java Interview Questions With Answers : Practical + Theory"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-programming-by-developing-real-apps-using-csharp/",
+        "duration": "5 total hours",
+        "platform": "Udemy",
+        "instructor": "Montec Edge",
+        "course_name": "Learn Programming By Developing Real Applications Using C#",
+        "description": "Career programmer foundations"
+      },
+      {
+        "links": "https://www.udemy.com/course/cprogramming-acompleteguide/",
+        "duration": "4 total hours",
+        "platform": "Udemy",
+        "instructor": "Syed Adil",
+        "course_name": "C PROGRAMMING – A COMPREHENSIVE GUIDE",
+        "description": "C programming,devise logic and write programs,design and develop applications using C,learn more than 90% of C features"
+      },
+      {
+        "links": "https://www.udemy.com/course/backend-web-development-bootcamp/?srsltid=AfmBOoozRjIK7ZrhtIDb5_cZTZZQ4IBM7LItuo5GR2afc2bBrz8TA917",
+        "duration": "12.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Md Al Mamun",
+        "course_name": "Backend Web Development Bootcamp - From Beginner to Expert",
+        "description": "Master Backend Development with Node js, MongoDB, Mongoose, SQL, GraphQL, TypeScript, and Microservices Architecture."
+      },
+      {
+        "links": "https://www.udemy.com/course/refactoru-adv-backend-dev/?srsltid=AfmBOoqHF6lKTuDCwmozLoSnqeA8xfka05iuYelU2S4K7auJGxBnX5FU",
+        "duration": "52min of on-demand video",
+        "platform": "Udemy",
+        "instructor": "RefactorU LLC",
+        "course_name": "Advanced Backend Web Development",
+        "description": "In this course we examine several technologies. The first is Grunt. Grunt is a task runner which is a way for us to implement a build system to handle writing our code in different languages, preprocessing, minifying our code, and doing unit testing -- all automated. We’ll also take a look at Coffeescript, which is a preprocessor for Javascript. It follows a lot of similar structures to Python and is very, very popular. Finally, we’ll discuss Sockets. Sockets are a way for us to open a constant connection between the server and the client. Normally when you make a request, the request goes up and then comes down with the data. With a socket, that request goes up and stays open, allowing the server to send data whenever it wants and the client to send data whenever it wants. So, we can make real time applications using sockets and we’ll take a look at how to implement a very simple system using socket IO."
+      },
+      {
+        "links": "https://www.udemy.com/course/fundamentals-of-backend-communications-and-protocols/?srsltid=AfmBOopfO4SmdwKet0S3eepvC3U0WPICjyoqnKk9xG92GJGMVnl_WSfo",
+        "duration": "19 hours",
+        "platform": "Udemy",
+        "instructor": "Hussein Nasser",
+        "course_name": "Fundamentals of Backend Engineering",
+        "description": "Understand backend communication design patterns, protocols, execution and proxying"
+      },
+      {
+        "links": "https://www.udemy.com/course/backend-web-development-python-djangodatabases-git-api/?srsltid=AfmBOoqYx02Gxgf6jlIcwRlqduP-nijlbEXwvVLuPqVHmYIKFYh640VD",
+        "duration": "19 hours",
+        "platform": "Udemy",
+        "instructor": "Bluelime Learning Solutions",
+        "course_name": "Backend Web Development - Python, Django,Databases, Git, API",
+        "description": "Become a backend developer using :Python, Django, Database Integration, Cloud Deployment , API,Git & Github"
+      },
+      {
+        "links": "https://www.udemy.com/course/backend-development-with-nodejs/?srsltid=AfmBOopi4uyLpOxy5urTnSeEx2FzmtgMDunWHROLgzCr3nH5uzQyIsoo",
+        "duration": "Not specified",
+        "platform": "Udemy",
+        "instructor": "Frontend Coach",
+        "course_name": "Backend Development with Node.js",
+        "description": "Master the Art of Building Robust and Scalable Backend Systems with Node.js. This comprehensive course is designed to equip you with the knowledge and hands-on experience to become a proficient backend developer using Node.js. You'll dive deep into the core principles of backend development, learning how to set up a robust backend environment and leverage the power of Node.js to build scalable applications. You'll explore advanced topics such as asynchronous programming, event-driven architecture, and working with databases, empowering you to overcome complex challenges in backend development."
+      },
+      {
+        "links": "https://www.udemy.com/course/backend-master-class-golang-postgresql-kubernetes/?srsltid=AfmBOooTlTK7Wvzr4Qm6W9bLGGOlWBM25zjhYSftpmuHaJcysHRAD-uQ",
+        "duration": "19 hours",
+        "platform": "Udemy",
+        "instructor": "TECH SCHOOL",
+        "course_name": "Backend Master Class [Golang + Postgres + Kubernetes + gRPC]",
+        "description": "Learn everything about backend web development: Golang, Postgres, Redis, Gin, gRPC, Docker, Kubernetes, AWS, CI/CD"
+      },
+      {
+        "links": "https://www.udemy.com/course/spring-boot-tutorial-for-beginners/",
+        "duration": "17.5 total hours",
+        "platform": "Udemy",
+        "instructor": "in28Minutes Official",
+        "course_name": "Learn Spring Boot 3 in 100 Steps - No 1 Java Framework",
+        "description": "Java Spring Boot Framework in 100 steps - Build a REST API and a Web application with Java, JPA, SpringBoot and Maven"
+      },
+      {
+        "links": "https://www.udemy.com/course/docker-kubernetes-the-practical-guide/",
+        "duration": "23.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Academind by Maximilian Schwarzmüller",
+        "course_name": "Docker & Kubernetes: The Practical Guide [2025 Edition]",
+        "description": "Learn Docker, Docker Compose, Multi-Container Projects, Deployment and all about Kubernetes from the ground up!"
+      },
+      {
+        "links": "https://www.udemy.com/course/react-nodejs-express-mongodb-the-mern-fullstack-guide/",
+        "duration": "19 total hours",
+        "platform": "Udemy",
+        "instructor": "Academind by Maximilian Schwarzmüller, Manuel Lorenz",
+        "course_name": "React, NodeJS, Express & MongoDB - The MERN Fullstack Guide",
+        "description": "Build fullstack React.js applications with Node.js, Express.js & MongoDB (MERN) with this project-focused course."
+      },
+      {
+        "links": "https://www.udemy.com/course/backend-engineering-with-go/",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Tiago Taquelim",
+        "course_name": "Backend Engineering with Go",
+        "description": "The complete guide for building and deploying production web APIs in Golang (PostgreSQL, Docker and Google Cloud)"
+      }
+   
+]

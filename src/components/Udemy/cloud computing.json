@@ -1,0 +1,532 @@
+[
+  
+      {
+        "links": "https://www.udemy.com/course/introduction-to-cloud-computing/?srsltid=AfmBOortUMwLPPPxpU-HMoW0TZe0Docbxes866o47oRPumZeNxU0xdEj",
+        "duration": "56min of on-demand video",
+        "platform": "Udemy",
+        "instructor": "Xavier Corbett",
+        "course_name": "Introduction to Cloud Computing",
+        "description": "In this introduction to Cloud Computing, we answer the key question “What is the cloud?” With a solid, standards based approach and examples from the real world, we look at all the definitions that come together to mean cloud. After this course you will have the foundation you need to launch into a career using cloud, to spearhead the cloud initiative within your organisation, or simply hold your own in that infuriating water cooler conversation with Simon the datacentre manager about how “there is no such things as ‘the cloud’."
+      },
+      {
+        "links": "https://www.udemy.com/course/intro-to-cloud-computing/?srsltid=AfmBOooPDygDDxPQBk_IlDhqjPHIR9la-6dRB9Eiuc9mWpXEHLTr2B2U",
+        "duration": "39 mins",
+        "platform": "Udemy",
+        "instructor": "Charles Smith",
+        "course_name": "Cloud Computing For Beginners",
+        "description": "Introduction To Cloud Computing - Cloud Concepts, Amazon Web Services, Microsoft Azure, & Google Cloud Platform"
+      },
+      {
+        "links": "https://www.udemy.com/course/cloud-computing-c/?srsltid=AfmBOoo-9q-4-ghH6YrW7Xmgm0za3gWOTgvbQEUruBYlvtITfmtRsxNr",
+        "duration": "1 hour on-demand video",
+        "platform": "Udemy",
+        "instructor": "Management Study Guide",
+        "course_name": "Cloud Computing",
+        "description": "A wonderful course for beginners to gain in-depth knowledge about the concepts of Cloud Computing. This course covers fundamental concepts of cloud computing and is designed for absolute beginners. Learn about the underlying systems—storage, networking, and compute—that support cloud computing."
+      },
+      {
+        "links": "https://www.udemy.com/course/fundamentals-of-cloud-computing-a/?srsltid=AfmBOoqdO-vDQcI1u70A6P7bO1_F621XGe6qkNLSoL3Kn_x3cX_v4aQB",
+        "duration": "4 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Codaming - Simplified Learning, Vedika Singh",
+        "course_name": "Basics of Cloud Computing | Fundamentals of Cloud Computing",
+        "description": "Embark on a transformative journey into the world of Cloud Computing with our comprehensive course designed to empower you with the skills and knowledge needed to navigate the rapidly evolving landscape of digital technology. This course covers core concepts, principles, and practical applications of cloud computing, including cloud migration, architecture, service models, and security."
+      },
+      {
+        "links": "https://www.udemy.com/course/cloud-computing-with-amazon-web-services-part-1/?srsltid=AfmBOoprK8umvNp_gsMGoePCbxy9V0WTOUPIdMLukiupd7F5NPJwF527",
+        "duration": "2hr 40min of on-demand video",
+        "platform": "Udemy",
+        "instructor": "Ricky Brar",
+        "course_name": "Cloud Computing With Amazon Web Services",
+        "description": "A beginner's guide to learn Cloud Computing with AWS. This course is a beginner's guide on Cloud Computing using AWS. In this course, I will be explaining most of the services required to build your infrastructure on the cloud. It is completely based on practical sessions and focuses primarily on how to configure AWS services in real time."
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-certified-cloud-practitioner-training-course/",
+        "duration": "Over 12 hours of comprehensive video lessons",
+        "platform": "Udemy",
+        "instructor": "Neal Davis | AWS Certified Solutions Architect & Developer",
+        "course_name": "AWS Certified Cloud Practitioner (CLF-C02) Exam Training",
+        "description": "Earn your AWS Certified Cloud Practitioner Certification in 20 Days! Hands-on Exercises + AWS Bonus Practice Exam. This course is designed for beginners and covers all necessary topics to pass the AWS Cloud Practitioner certification exam with confidence."
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-certified-cloud-practitioner/",
+        "duration": "23+ hours",
+        "platform": "Udemy",
+        "instructor": "Zeal Vora",
+        "course_name": "AWS Certified Cloud Practitioner 2025",
+        "description": "Our AWS Certified Cloud Practitioner 2023 course is specifically designed for new aspirants who are planning to enter into the field of Cloud Computing and AWS and intend to gain the official AWS Certified Cloud Practitioner certification. We start this course from absolute scratch, and hence there is no prior knowledge required about Cloud or AWS. This course starts with providing a detailed understanding of Cloud Computing to its viewers. Once the basics of Cloud Computing are understood, then the journey begins into AWS to master various aspects related to Infrastructure, Storage, Security, Identity Management, and many more. This course consists of 5 major sections covering the content of 23+ hours. Post completing this course, the candidate will have a solid base understanding of AWS services. This course also has an exam preparation section with practice tests to verify if the candidate is ready to take the official certification exams. With tons of quizzes in order to prepare you for exams, Real-world scenarios, and great Support from our Instructor in case of doubts, this course is all you need to build a solid foundation on AWS and gain the Certification."
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-cloud-practitioner-complete-aws-introduction/",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller",
+        "course_name": "AWS Certified Cloud Practitioner CLF-C02",
+        "description": "Get a detailed overview of all core AWS services needed to pass the certification exam & boost your cloud career! This course will teach you AWS from the ground up and provide a thorough overview of all its key services. By the end of the course, you will have a solid understanding of what AWS is, what its many services are all about (and what each service does) and which kind of service (or service combination) may be used to meet IT or application requirements."
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-certified-cloud-practitioner-certification-training/",
+        "duration": "Over 5 hours of video-based training",
+        "platform": "Udemy",
+        "instructor": "Neal Davis | AWS Certified Solutions Architect & Developer",
+        "course_name": "[EXAM REVIEWER] AWS Certified Cloud Practitioner CLF-C02",
+        "description": "Guided Video Walkthrough for the AWS Certified Cloud Practitioner CLF-C02 | 2 Practice Tests with 130 Practice Questions"
+      },
+      {
+        "links": "https://www.udemy.com/course/exam-review-aws-certified-cloud-practitioner/",
+        "duration": "3 hours",
+        "platform": "Udemy",
+        "instructor": "in28Minutes Official, Ranga Karanam | GCP Certification - Google Cloud Engineer & Architect",
+        "course_name": "AWS Certified Cloud Practitioner - EXAM REVIEW - 2021",
+        "description": "AWS Certified Cloud Practitioner - 3 HOUR Crash Course for the AWS Certification"
+      },
+      {
+        "links": "https://www.udemy.com/course/complete-aws-cloud-practitioner-training/",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Imran Afzal, Abbas Mehmood",
+        "course_name": "Complete AWS Cloud Practitioner Training - CLF-C02",
+        "description": "This Complete AWS Cloud Practitioner Training - CLF-C02 course is designed to provide a solid foundation in AWS cloud computing, tailored for anyone aiming to pass the AWS Certified Cloud Practitioner exam. Through a combination of lectures, hands-on exercises, and practice tests, you’ll build practical knowledge of AWS's core services, global infrastructure, and essential cloud concepts. Perfect for beginners and IT professionals alike, this course not only prepares you for certification but also empowers you to make decisions about deploying, managing, and optimizing cloud resources in AWS."
+      },
+      {
+        "links": "https://www.udemy.com/course/az-900-azure-exam-prep-understanding-cloud-concepts/",
+        "duration": "9+ Hours of Video Lectures",
+        "platform": "Udemy",
+        "instructor": "Thomas Mitchell, labITout Learning",
+        "course_name": "AZ-900 Bootcamp: Microsoft Azure Fundamentals",
+        "description": "AZ-900 Exam-Prep with 120+ Lectures, Hands-On Labs, Exam Simulator, Flashcards, and a Complete 48-Page Study Guide"
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "in28Minutes Official, Ranga Karanam | GCP Certification - Google Cloud Engineer & Architect",
+        "course_name": "AWS Certified Cloud Practitioner - AWS Certification",
+        "description": "AWS Certified Cloud Practitioner - AWS Certification. Start Cloud Computing. Learn AWS Concepts."
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-certified-cloud-practitioner-exam-prep-cloud-mastery/",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "YouAccel Training",
+        "course_name": "AWS Certified Cloud Practitioner: Exam Prep & Cloud Mastery",
+        "description": "The Ultimate Theoretical Guide to AWS Cloud Computing and Passing the AWS Certified Cloud Practitioner Exam (CLF-C02)"
+      },
+      {
+        "links": "https://www.udemy.com/course/google-cloud-professional-cloud-architect-certification/",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "in28Minutes Official, Ranga Karanam | GCP Certification - Google Cloud Engineer & Architect",
+        "course_name": "GCP Professional Cloud Architect: Google Cloud Certification",
+        "description": "Become a GCP Cloud Architect. Architect Google Cloud Platform (GCP) Solutions. Includes 4 New Case Studies."
+      },
+      {
+        "links": "https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "in28Minutes Official",
+        "course_name": "Master Microservices with Spring Boot and Spring Cloud",
+        "description": "Java Spring Boot Microservices 5-in-1 - Spring Boot, Spring Cloud, Docker, Kubernetes and REST API (REST Web Services)"
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?srsltid=AfmBOorVBVUsLsbrgJ2vCKaLHxtA44Z7HHrL6w_d7PI-L2BZtd5Bfgvf",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Stephane Maarek | AWS Certified Cloud Practitioner, Solutions Architect, Developer",
+        "course_name": "Ultimate AWS Certified Cloud Practitioner CLF-C02 2025",
+        "description": "This course covers the newest CLF-C02 exam. Welcome! I'm here to help you prepare and PASS the newest AWS Certified Cloud Practitioner exam. It covers in-depth all the new topics on the AWS Certified Cloud Practitioner CLF-C02 exam and is packed with practical knowledge on how to use AWS inside and out. It teaches you how to prepare for the AWS exam with a logical progression of topics, hands-on lectures, quizzes, and a practice exam at the end of the course."
+      },
+      {
+        "links": "https://www.udemy.com/course/big-data-engineering-bootcamp-with-gcp-and-azure-cloud/?srsltid=AfmBOoq2OkWUPzHkTRkzAxEZHIJ1IfXD9vyJgSyN1vvOEEbi4aZ0ACY_",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Krish Naik, Mayank Aggarwal, KRISHAI Technologies Private Limited",
+        "course_name": "Big Data Engineering Bootcamp with GCP, and Azure Cloud",
+        "description": "Master Big Data with Hadoop, Spark, Kafka & Cloud | Build Real-World Projects & Scalable Data Pipelines from Scratch"
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-certified-cloud-practitioner-new/",
+        "duration": "15 total hours",
+        "platform": "Udemy",
+        "instructor": "Stephane Maarek | AWS Certified Cloud Practitioner, Solutions Architect, Developer",
+        "course_name": "Ultimate AWS Certified Cloud Practitioner CLF-C02 2025",
+        "description": "Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AWS Cloud Practitioner CLF-C02 exam!"
+      },
+      {
+        "links": "https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/",
+        "duration": "390 questions",
+        "platform": "Udemy",
+        "instructor": "Stephane Maarek | AWS Certified Cloud Practitioner, Solutions Architect, Developer, Abhishek Singh",
+        "course_name": "6 Practice Exams | AWS Certified Cloud Practitioner CLF-C02",
+        "description": "Prepare the AWS Certified Cloud Practitioner CLF-C02. 390 unique high-quality test questions with detailed explanations!"
+      },
+      {
+        "links": "https://www.udemy.com/course/big-data-engineering-bootcamp-with-gcp-and-azure-cloud/",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Krish Naik, Mayank Aggarwal, KRISHAI Technologies Private Limited",
+        "course_name": "Big Data Engineering Bootcamp with GCP, and Azure Cloud",
+        "description": "Master Big Data with Hadoop, Spark, Kafka & Cloud | Build Real-World Projects & Scalable Data Pipelines from Scratch"
+      },
+      {
+        "links": "https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/?srsltid=AfmBOoqKCGu5lv1ImH2IRQInq88gHCwsV7SctmwAwVFuq8ZH743ECkWT",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Stephane Maarek, Abhishek Singh",
+        "course_name": "6 Practice Exams | AWS Certified Cloud Practitioner CLF-C02",
+        "description": "Prepare the AWS Certified Cloud Practitioner CLF-C02. 390 unique high-quality test questions with detailed explanations!"
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-certified-cloud-practitioner-training-course/",
+        "duration": "14 total hours",
+        "platform": "Udemy",
+        "instructor": "Neal Davis | AWS Certified Solutions Architect & Developer, Digital Cloud Training | AWS Certified Cloud Practitioner",
+        "course_name": "AWS Certified Cloud Practitioner (CLF-C02) Exam Training [2025]",
+        "description": "Earn your AWS Certified Cloud Practitioner Certification in 20 Days! Hands-on Exercises + AWS Bonus Practice Exam"
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-certified-cloud-practitioner/",
+        "duration": "24.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Zeal Vora",
+        "course_name": "AWS Certified Cloud Practitioner 2025 [NEW]",
+        "description": "Video Course + Practice Exams | Pass the AWS Cloud Practitioner Exam!"
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/",
+        "duration": "17.5 total hours",
+        "platform": "Udemy",
+        "instructor": "in28Minutes Official, Ranga Karanam | GCP Certification - Google Cloud Engineer & Architect",
+        "course_name": "AWS Certified Cloud Practitioner - AWS Certification",
+        "description": "AWS Certified Cloud Practitioner - AWS Certification. Start Cloud Computing. Learn AWS Concepts."
+      },
+      {
+        "links": "https://www.udemy.com/course/exam-review-aws-certified-cloud-practitioner/",
+        "duration": "2.5 total hours",
+        "platform": "Udemy",
+        "instructor": "in28Minutes Official, Ranga Karanam | GCP Certification - Google Cloud Engineer & Architect",
+        "course_name": "AWS Certified Cloud Practitioner - EXAM REVIEW - 2021",
+        "description": "AWS Certified Cloud Practitioner - 3 HOUR Crash Course for the AWS Certification"
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-cloud-practitioner-complete-aws-introduction/",
+        "duration": "12.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Academind by Maximilian Schwarzmüller, Maximilian Schwarzmüller",
+        "course_name": "AWS Certified Cloud Practitioner CLF-C02",
+        "description": "Get a detailed overview of all core AWS services needed to pass the certification exam & boost your cloud career!"
+      },
+      {
+        "links": "https://www.udemy.com/course/complete-aws-cloud-practitioner-training/",
+        "duration": "21.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Imran Afzal, Abbas Mehmood",
+        "course_name": "Complete AWS Cloud Practitioner Training - CLF-C02",
+        "description": "Mastering AWS: Cloud Practitioner Certification Course to Pass CLF-C02 exam"
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-certified-cloud-practitioner-certification-training/",
+        "duration": "5 total hours",
+        "platform": "Udemy",
+        "instructor": "Neal Davis | AWS Certified Solutions Architect & Developer, Digital Cloud Training | AWS Certified Cloud Practitioner AWS Certified Solutions Architect, AWS Developer Associate",
+        "course_name": "[EXAM REVIEWER] AWS Certified Cloud Practitioner CLF-C02",
+        "description": "Guided Video Walkthrough for the AWS Certified Cloud Practitioner CLF-C02 | 2 Practice Tests with 130 Practice Questions"
+      },
+      {
+        "links": "https://www.udemy.com/course/cogluma-aws-certified-cloud-practitioner/",
+        "duration": "20 total hours",
+        "platform": "Udemy",
+        "instructor": "Evan Phipps",
+        "course_name": "AWS Certified Cloud Practitioner - UPDATED for 2025",
+        "description": "Learn AWS concepts to earn your AWS Certified Cloud Practitioner certification. Sit for the AWS CLF-C02 exam."
+      },
+      {
+        "links": "https://www.udemy.com/course/introduction-to-cloud-computing/?srsltid=AfmBOoo-bcQXREjtKLWTsnhdj0snQyDM5wTZ0mzsY6UZ-1eNKgeqHJY6",
+        "duration": "56min of on-demand video",
+        "platform": "Udemy",
+        "instructor": "Xavier Corbett",
+        "course_name": "Introduction to Cloud Computing",
+        "description": "Welcome to the Cloud... now, what is it? - Free Course"
+      },
+      {
+        "links": "https://www.udemy.com/course/fundamentals-of-cloud-computing-a/?srsltid=AfmBOoqNru3lEJQW2ygLULX_C_-iLAIVTVMoj6a1qpRhwV-FhT_3WgXx",
+        "duration": "4 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Codaming - Simplified Learning, Vedika Singh",
+        "course_name": "Basics of Cloud Computing | Fundamentals of Cloud Computing",
+        "description": "Embark on a transformative journey into the world of Cloud Computing with our comprehensive course designed to empower you with the skills and knowledge needed to navigate the rapidly evolving landscape of digital technology. This course covers core concepts, principles, and practical applications of cloud computing, including cloud migration, architecture, service models, and security."
+      },
+      {
+        "links": "https://www.udemy.com/course/introduction-to-cloud-computing-on-amazon-aws-for-beginners/?srsltid=AfmBOopha74P6Z4PTJClW_XTkzAc3FGngkYHRuzOFlXnLEt351bblrP_&couponCode=ST8MT220425G3",
+        "duration": "9.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Neal Davis | AWS Certified Solutions Architect & Developer, Digital Cloud Training | AWS Certified Cloud Practitioner AWS Certified Solutions Architect, AWS Developer Associate",
+        "course_name": "Introduction to Cloud Computing on AWS for Beginners [2025]",
+        "description": "Learn Cloud Computing Concepts and AWS Basics | Master AWS Fundamentals and Hands-on Skills on Amazon Web Services (AWS)"
+      },
+      {
+        "links": "https://www.udemy.com/course/exam-review-aws-certified-cloud-practitioner/",
+        "duration": "3 hours",
+        "platform": "Udemy",
+        "instructor": "in28Minutes Official, Ranga Karanam",
+        "course_name": "AWS Certified Cloud Practitioner - EXAM REVIEW - 2021",
+        "description": "AWS Certified Cloud Practitioner - 3 HOUR Crash Course for the AWS Certification"
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?srsltid=AfmBOorVBVUsLsbrgJ2vCKaLHxtA44Z7HHrL6w_d7PI-L2BZtd5Bfgvf",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Stephane Maarek | AWS Certified Cloud Practitioner, Solutions Architect, Developer",
+        "course_name": "Ultimate AWS Certified Cloud Practitioner CLF-C02 2025",
+        "description": "Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AWS Cloud Practitioner CLF-C02 exam!"
+      },
+      {
+        "links": "https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/",
+        "duration": "390 questions",
+        "platform": "Udemy",
+        "instructor": "Stephane Maarek, Abhishek Singh",
+        "course_name": "6 Practice Exams | AWS Certified Cloud Practitioner CLF-C02",
+        "description": "Prepare the AWS Certified Cloud Practitioner CLF-C02. 390 unique high-quality test questions with detailed explanations!"
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-certified-cloud-practitioner-training-course/",
+        "duration": "14 total hours",
+        "platform": "Udemy",
+        "instructor": "Neal Davis | AWS Certified Solutions Architect & Developer, Digital Cloud Training",
+        "course_name": "AWS Certified Cloud Practitioner (CLF-C02) Exam Training [2025]",
+        "description": "Earn your AWS Certified Cloud Practitioner Certification in 20 Days! Hands-on Exercises + AWS Bonus Practice Exam"
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-certified-cloud-practitioner-step-by-step/",
+        "duration": "17.5 total hours",
+        "platform": "Udemy",
+        "instructor": "in28Minutes Official, Ranga Karanam",
+        "course_name": "AWS Certified Cloud Practitioner - AWS Certification",
+        "description": "Start Cloud Computing. Learn AWS Concepts."
+      },
+      {
+        "links": "https://www.udemy.com/course/exam-review-aws-certified-cloud-practitioner/",
+        "duration": "2.5 total hours",
+        "platform": "Udemy",
+        "instructor": "in28Minutes Official, Ranga Karanam",
+        "course_name": "AWS Certified Cloud Practitioner - EXAM REVIEW - 2021",
+        "description": "3 HOUR Crash Course for the AWS Certification"
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-cloud-practitioner-complete-aws-introduction/",
+        "duration": "12.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Academind by Maximilian Schwarzmüller",
+        "course_name": "AWS Certified Cloud Practitioner CLF-C02",
+        "description": "Get a detailed overview of all core AWS services needed to pass the certification exam & boost your cloud career!"
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-certified-cloud-practitioner-certification-training/",
+        "duration": "5 total hours",
+        "platform": "Udemy",
+        "instructor": "Neal Davis | AWS Certified Solutions Architect & Developer, Digital Cloud Training",
+        "course_name": "[EXAM REVIEWER] AWS Certified Cloud Practitioner CLF-C02",
+        "description": "Guided Video Walkthrough for the AWS Certified Cloud Practitioner CLF-C02 | 2 Practice Tests with 130 Practice Questions"
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-certified-cloud-practitioner-training-course/",
+        "duration": "14 total hours",
+        "platform": "Udemy",
+        "instructor": "Neal Davis | AWS Certified Solutions Architect & Developer, Digital Cloud Training | AWS Certified Cloud Practitioner AWS Certified Solutions Architect, AWS Developer Associate",
+        "course_name": "AWS Certified Cloud Practitioner (CLF-C02) Exam Training [2025]",
+        "description": "Earn your AWS Certified Cloud Practitioner Certification in 20 Days! Hands-on Exercises + AWS Bonus Practice Exam"
+      },
+      {
+        "links": "https://www.udemy.com/course/exam-review-aws-certified-cloud-practitioner/",
+        "duration": "2.5 total hours",
+        "platform": "Udemy",
+        "instructor": "in28Minutes Official, Ranga Karanam | GCP Certification - Google Cloud Engineer & Architect",
+        "course_name": "AWS Certified Cloud Practitioner - EXAM REVIEW - 2021",
+        "description": "3 HOUR Crash Course for the AWS Certification"
+      },
+      {
+        "links": "https://www.udemy.com/course/digital-marketing-made-easy-with-ai-9-courses-in-1/?srsltid=AfmBOoqL9Kp5ZwD0rl2czx_pip0su6323IKxJuoZ8lvw4kEiWRZ5re_C",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "FEIL Consulting and Resources",
+        "course_name": "Master Digital Marketing with AI: 9 Courses in 1 Guide",
+        "description": "Leverage Artificial Intelligence to Transform Your Digital Marketing Strategy! This comprehensive AI digital marketing course will teach you how to harness AI-powered tools to automate tasks, boost engagement, and drive higher conversions with ease."
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-certified-cloud-practitioner-training-course/",
+        "duration": "20 Days",
+        "platform": "Udemy",
+        "instructor": "Neal Davis | AWS Certified Solutions Architect & Developer",
+        "course_name": "AWS Certified Cloud Practitioner (CLF-C02) Exam Training",
+        "description": "This popular AWS Cloud Practitioner Training for the AWS Certified Cloud Practitioner certification exam (CLF-C02) is packed with over 12 hours of comprehensive video lessons, hands-on lessons and a full-length practice exam simulation. With our mixture of in-depth theory, architectural diagrams and hands-on training, you'll learn how to architect and build applications on Amazon Web Services, fully preparing you for the AWS Cloud Practitioner certification exam."
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-certified-cloud-practitioner-exam-prep-cloud-mastery/",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "YouAccel Training",
+        "course_name": "AWS Certified Cloud Practitioner: Exam Prep & Cloud Mastery",
+        "description": "The Ultimate Theoretical Guide to AWS Cloud Computing and Passing the AWS Certified Cloud Practitioner Exam (CLF-C02). This course is meticulously designed to equip you with the essential knowledge and skills required to not only pass the certification exam with confidence but also to enhance your professional acumen in cloud computing."
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-certified-cloud-practitioner-new/?srsltid=AfmBOorVBVUsLsbrgJ2vCKaLHxtA44Z7HHrL6w_d7PI-L2BZtd5Bfgvf",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Stephane Maarek | AWS Certified Cloud Practitioner, Solutions Architect, Developer",
+        "course_name": "Ultimate AWS Certified Cloud Practitioner CLF-C02 2025",
+        "description": "This course covers the newest CLF-C02 exam. Welcome! I'm here to help you prepare and PASS the newest AWS Certified Cloud Practitioner exam. It covers in-depth all the new topics on the AWS Certified Cloud Practitioner CLF-C02 exam and is packed with practical knowledge on how to use AWS inside and out."
+      },
+      {
+        "links": "https://www.udemy.com/course/big-data-engineering-bootcamp-with-gcp-and-azure-cloud/?srsltid=AfmBOoqbBan6Lopg8wSfhKx4Wxt6eQyf56XtnI1S5U6KEBQdHvRBIBKc",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Krish Naik, Mayank Aggarwal, KRISHAI Technologies Private Limited",
+        "course_name": "Big Data Engineering Bootcamp with GCP, and Azure Cloud",
+        "description": "Master Big Data with Hadoop, Spark, Kafka & Cloud | Build Real-World Projects & Scalable Data Pipelines from Scratch"
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-certified-cloud-practitioner-certification-training/",
+        "duration": "5 total hours",
+        "platform": "Udemy",
+        "instructor": "Neal Davis | AWS Certified Solutions Architect & Developer, Digital Cloud Training | AWS Certified Cloud Practitioner",
+        "course_name": "[EXAM REVIEWER] AWS Certified Cloud Practitioner CLF-C02",
+        "description": "Guided Video Walkthrough for the AWS Certified Cloud Practitioner CLF-C02 | 2 Practice Tests with 130 Practice Questions"
+      },
+      {
+        "links": "https://www.udemy.com/course/introduction-to-cloud-computing-on-amazon-aws-for-beginners/",
+        "duration": "9.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Neal Davis | AWS Certified Solutions Architect & Developer, Digital Cloud Training | AWS Certified Cloud Practitioner AWS Certified Solutions Architect, AWS Developer Associate",
+        "course_name": "Introduction to Cloud Computing on AWS for Beginners [2025]",
+        "description": "Learn Cloud Computing Concepts and AWS Basics | Master AWS Fundamentals and Hands-on Skills on Amazon Web Services (AWS)"
+      },
+      {
+        "links": "https://www.udemy.com/course/amazon-aws-ec2-lemp-host-multiple-domains-on-one-server/",
+        "duration": "41 total mins",
+        "platform": "Udemy",
+        "instructor": "Ronen Eliav",
+        "course_name": "Amazon AWS EC2 LEMP + Host Multiple Domains on One Server",
+        "description": "Amazon AWS EC2 LEMP + Host Multiple Domains on One Server + Cloudflare"
+      },
+      {
+        "links": "https://www.udemy.com/course/cloud-computing-and-amazon-web-services-aws-fundamentals/",
+        "duration": "2.5 total hours",
+        "platform": "Udemy",
+        "instructor": "YouAccel Training",
+        "course_name": "Cloud Computing and Amazon Web Services (AWS) Fundamentals",
+        "description": "Examine the Key Principles of Cloud Computing including Service Models, Deployment Models, & Foundations of AWS"
+      },
+      {
+        "links": "https://www.udemy.com/course/az-104-microsoft-azure-hands-on-labs/",
+        "duration": "7 total hours",
+        "platform": "Udemy",
+        "instructor": "Kaizad Anklesaria",
+        "course_name": "Microsoft Azure: Hands On Training: AZ-900 AZ-104 and AZ-305",
+        "description": "Master the MS Azure Cloud Computing Platform with Hands-On Labs for AZ-900, AZ-104 and AZ-305"
+      },
+      {
+        "links": "https://www.udemy.com/course/fundamentals-of-cloud-computing-a/",
+        "duration": "4 total hours",
+        "platform": "Udemy",
+        "instructor": "Codaming - Simplified Learning, Vedika Singh",
+        "course_name": "Basics of Cloud Computing | Fundamentals of Cloud Computing",
+        "description": "Embark on a transformative journey into the world of Cloud Computing with our comprehensive latest course 2024"
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-ec2-aws-certified-solutions-architect-associate/",
+        "duration": "9 total hours",
+        "platform": "Udemy",
+        "instructor": "Mohammed Asif Khan",
+        "course_name": "AWS EC2 : AWS Certified Solutions Architect - Associate",
+        "description": "AWS EC2 for AWS Certified Solutions Architect - Associate: Step-by-Step Guide for Beginners (Non-Native English Speakers)"
+      },
+      {
+        "links": "https://www.udemy.com/course/cloud-computing-vs-on-premise-infrastructure-solutions/",
+        "duration": "34 total mins",
+        "platform": "Udemy",
+        "instructor": "John Courtenay",
+        "course_name": "Cloud Computing & Hybrid Cloud vs On-Premise Solutions",
+        "description": "Learn the advantages of on-premise, cloud computing & hybrid cloud infrastructure solutions in this 30 min course!"
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-business-essentials/",
+        "duration": "2.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Neal Davis | AWS Certified Solutions Architect & Developer, Digital Cloud Training | AWS Certified Cloud Practitioner AWS Certified Solutions Architect, AWS Developer Associate",
+        "course_name": "AWS Business Essentials - The Business Value of AWS [2025]",
+        "description": "Learn the fundamentals of cloud computing and Amazon Web Services AWS | Build a business case for migrating to AWS Cloud"
+      },
+      {
+        "links": "https://www.udemy.com/course/welcome-to-cloud-computing-world/",
+        "duration": "3 total hours",
+        "platform": "Udemy",
+        "instructor": "Mohamed Rhim",
+        "course_name": "Cloud Computing Fundamentals",
+        "description": "A course describing the basics of cloud computing and most of the aspects related to this topic"
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-fundamentals-amazon-web-services-for-beginners/",
+        "duration": "24.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Pravin Mishra | AWS Certified Cloud Practitioner | Solutions Architect",
+        "course_name": "AWS Fundamentals with 2 Projects: Cloud for Beginners [2025]",
+        "description": "Learn Cloud Computing, Amazon Web Services, AWS Basic and Master AWS Fundamentals with Hands-on, assignment Practice set"
+      },
+      {
+        "links": "https://www.udemy.com/course/cloud-computing-for-beginners-database-technologies/",
+        "duration": "2.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Idan Gabrieli",
+        "course_name": "Cloud Computing for Beginners - Database Technologies",
+        "description": "Learn the Technology, Concept and Market Use Cases of Database Technologies and Database as a Service (DBaaS)"
+      },
+      {
+        "links": "https://www.udemy.com/course/cloud-computing-for-beginners-infrastructure-as-a-service/",
+        "duration": "2.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Idan Gabrieli",
+        "course_name": "Cloud Computing for Beginners - Infrastructure as a Service",
+        "description": "Learn the Technology, Concept and Market Use Cases of Infrastructure as a Service Model in Public Cloud Computing"
+      },
+      {
+        "links": "https://www.udemy.com/course/az-104-manage-identities-and-governance-in-azure/",
+        "duration": "2 total hours",
+        "platform": "Udemy",
+        "instructor": "Kaizad Anklesaria",
+        "course_name": "AZ 104 - Manage Identities and Governance in Azure",
+        "description": "Mastering Identity Protection and Access Control: A Comprehensive Guide"
+      },
+      {
+        "links": "https://www.udemy.com/topic/cloud-computing/free/",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "",
+        "course_name": "Top Free Cloud Computing Courses & Tutorials Online - Updated [April 2025]",
+        "description": "Discover the world of cloud computing with a top-rated course from Udemy. Whether you’re interested in the different types and advantages of cloud computing, or using cloud computing services like Azure and AWS, Udemy has a course to help you achieve"
+      },
+      {
+        "links": "https://www.udemy.com/course/cloud-computing-c/?srsltid=AfmBOooVWhEYFSMPOMOVX3SMemwiejQIwpda8ONPSzQ2-llk96Nz287n",
+        "duration": "1 hour",
+        "platform": "Udemy",
+        "instructor": "Management Study Guide",
+        "course_name": "Cloud Computing",
+        "description": "The term Cloud refers to a Network or the Internet. This course covers fundamental concepts of cloud computing and is designed for absolute beginners. Learn about the underlying systems—storage, networking, and compute—that support cloud computing."
+      },
+      {
+        "links": "https://www.udemy.com/course/fundamentals-of-cloud-computing-a/?srsltid=AfmBOoqog3JLXKFVc-7tMM4wFVSTP053_UerJJ6rUfwAMCfc2fGUccVb",
+        "duration": "4 hours",
+        "platform": "Udemy",
+        "instructor": "Codaming - Simplified Learning, Vedika Singh",
+        "course_name": "Basics of Cloud Computing | Fundamentals of Cloud Computing",
+        "description": "Embark on a transformative journey into the world of Cloud Computing with our comprehensive course designed to empower you with the skills and knowledge needed to navigate the rapidly evolving landscape of digital technology. This course covers core concepts, principles, and practical applications of cloud computing, including cloud migration, architecture, service models, and security."
+      },
+      {
+        "links": "https://www.udemy.com/course/introduction-to-cloud-computing/?srsltid=AfmBOoq-MrmHn7rw23RfSifyOUP2WtFeD91iXvKMw8upe24xawbdd5_T",
+        "duration": "56min of on-demand video",
+        "platform": "Udemy",
+        "instructor": "Xavier Corbett",
+        "course_name": "Introduction to Cloud Computing",
+        "description": "In this introduction to Cloud Computing, we answer the key question “What is the cloud?” With a solid, standards based approach and examples from the real world, we look at all the definitions that come together to mean cloud. After this course you will have the foundation you need to launch into a career using cloud, to spearhead the cloud initiative within your organisation, or simply hold your own in that infuriating water cooler conversation with Simon the datacentre manager about how “there is no such things as ‘the cloud’."
+      }
+  
+]

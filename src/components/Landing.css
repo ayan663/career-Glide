@@ -1,0 +1,36 @@
+.big-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 20px;
+  background-color: #f0f0f0; /* Optional: Set a background color */
+  height: 400px; /* Adjust the height as needed */
+}
+
+.text-section {
+  flex: 1; /* Takes up the left side */
+  padding-right: 20px;
+}
+
+.image-section {
+  flex: 1; /* Takes up the right side */
+  display: flex;
+  justify-content: center;
+}
+
+.image-section img {
+  max-width: 100%;
+  height: auto; /* Ensures the image maintains aspect ratio */
+}
+.card-container {
+  display: flex;
+  justify-content: space-between; /* Spread cards evenly */
+  gap: 20px; /* Space between cards */
+  padding: 20px; /* Add some padding around the container */
+}
+
+.ui.card {
+  width: 250px; /* Define card width */
+  flex-shrink: 0; /* Prevent cards from shrinking */
+}

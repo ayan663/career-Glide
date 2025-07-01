@@ -1,0 +1,926 @@
+[
+  
+   
+      {
+        "links": "https://www.udemy.com/course/15-days-of-sql/?srsltid=AfmBOorMcsC5WmsfPP9U7S5QbLvxCsO1l7avpBO7KrCj-lJu9s_T0vqQ",
+        "duration": "15 hours",
+        "platform": "Udemy",
+        "instructor": "Nikolai Schuler",
+        "course_name": "15 Days of SQL: The Complete SQL Masterclass 2025",
+        "description": "Master SQL in just 15 days from Basics to Pro by working daily on real-life projects"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-sql-bootcamp/?srsltid=AfmBOopqSTZKgOWYlN-6wBKx9pMWjmEKtW0XFJHL0EU5I6zlffISvgrv",
+        "duration": "9 hours on-demand video, 83 lectures, 8h 51m total length",
+        "platform": "Udemy",
+        "instructor": "Jose Portilla, Pierian Training",
+        "course_name": "The Complete SQL Bootcamp: Go from Zero to Hero",
+        "description": "Learn how to use SQL quickly and effectively with this course! You'll learn how to read and write complex queries to a database using one of the most in demand skills - PostgreSQL. These skills are also applicable to any other major SQL database, such as MySQL, Microsoft SQL Server, Amazon Redshift, Oracle, and much more."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-sql-masterclass-for-data-analytics/?srsltid=AfmBOor5863ou_j0wOolIsrG_z4TTG8lhBs3PEBA0n9xTqFwJCPlWQPf",
+        "duration": "9.5 hours on-demand video, 52 coding exercises, 1 practice test, 13 articles, 75 downloadable resources",
+        "platform": "Udemy",
+        "instructor": "Start-Tech Academy",
+        "course_name": "Zero to Hero in SQL: SQL for Data Analytics",
+        "description": "SQL course covering basic to advanced SQL topics for SQL Database (PostgreSQL). Beginner friendly SQL training"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-sql-bootcamp/",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Jose Portilla, Pierian Training",
+        "course_name": "The Complete SQL Bootcamp: Go from Zero to Hero",
+        "description": "Learn how to use SQL quickly and effectively with this course! You'll learn how to read and write complex queries to a database using one of the most in demand skills - PostgreSQL. These skills are also applicable to any other major SQL database, such as MySQL, Microsoft SQL Server, Amazon Redshift, Oracle, and much more. Learning SQL is one of the fastest ways to improve your career prospects as it is one of the most in demand tech skills! In this course you'll learn quickly and receive challenges and tests along the way to improve your understanding!"
+      },
+      {
+        "links": "https://www.udemy.com/course/master-data-science-with-sql-and-python/",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Desmond Otieno Onam",
+        "course_name": "Master Data Science with SQL and Python",
+        "description": "This course comprehensively introduces data science using Python and MySQL, combining essential data manipulation, analysis, and database management skills. You'll learn Python's powerful data science libraries, including Pandas, NumPy, and Matplotlib, to clean, analyze, and visualize data. Additionally, you'll gain hands-on experience with MySQL, mastering SQL queries, database creation, and data management techniques to store and retrieve data efficiently. Through real-world projects, you will explore the entire data science pipeline—data collection, storage, analysis, and visualization—while understanding how Python and MySQL integrate to solve practical problems. By the end of this course, you’ll be able to manipulate and analyze datasets, create insightful visualizations, and work confidently with databases, equipping you with the skills to handle diverse data science challenges in any professional setting. Suitable for beginners and intermediates."
+      },
+      {
+        "links": "https://www.udemy.com/course/curso-sql-do-zero-ao-avancado/?srsltid=AfmBOopux-2JMXwnvynJkdnHy7OaMwigBfluMJ0uo89PqPLTzof8VeZK",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Andre Iacono | 325000+ Students | AI · Cloud · Developer |",
+        "course_name": "Banco de Dados SQL do Zero ao Avançado + Projetos Reais",
+        "description": "Aprenda SQL - MySQL Do Básico ao Avançado com Projetos Inclusos. Top Instructor com aulas 100% hands on!"
+      },
+      {
+        "links": "https://www.udemy.com/course/ssis-sql-server-integration-services/?srsltid=AfmBOorBh93rEpmKct69OsFJyYF-1OP_KMda4vuvMXYFiEq3fm_Kp1N9",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Edmilson Alves dos Santos",
+        "course_name": "SQL Server Integration Services (SSIS) - ETL Avançado",
+        "description": "Aprenda a realizar extração, transformação e carregamento de arquivos e bancos de dados relacionais. Nesse curso você vai aprender as principais tarefas de transformações de dados, manipular e integrar dados de uma forma bem prática e objetiva. O curso tem o objetivo de deixar o aluno apto a realizar o ETL utilizando o SQL Server Integration Services - SSIS, para que ele aplique no dia a dia da sua empresa ou em projetos acadêmicos."
+      },
+      {
+        "links": "https://www.udemy.com/course/curso-sql-do-zero-ao-avancado/?srsltid=AfmBOorYXeFnHc2cTTxQ649mnZ64jUf1fmHu9ISEM1LOuUAm-YNuwlCc",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Andre Iacono | 325000+ Students | AI · Cloud · Developer |",
+        "course_name": "Banco de Dados SQL do Zero ao Avançado + Projetos Reais",
+        "description": "Aprenda SQL - MySQL Do Básico ao Avançado com Projetos Inclusos. Top Instructor com aulas 100% hands on!"
+      },
+      {
+        "links": "https://www.udemy.com/course/sql-and-postgresql/",
+        "duration": "22 total hours",
+        "platform": "Udemy",
+        "instructor": "Stephen Grider",
+        "course_name": "SQL and PostgreSQL: The Complete Developer's Guide",
+        "description": "Become an expert with SQL and PostgreSQL! Store and fetch data, tune queries, and design efficient database structures!"
+      },
+      {
+        "links": "https://www.udemy.com/course/professional-certificate-in-sql-and-sql-for-data-analysis/",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "MTF Institute of Management, Technology and Finance",
+        "course_name": "Professional Certificate in SQL and SQL for Data Analysis",
+        "description": "Structured Query Language, SQL, SQLite, Retrieving and Manipulating Data, Commands, Queries, Data Aggregation, Features"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Colt Steele",
+        "course_name": "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert",
+        "description": "Master SQL, Work With Complex Databases, Build Reports, and More! This course was just completely redone and rebuilt from the ground up, with over 325 brand new videos recorded. The course now uses MySQL 8.x and covers new topics including: Window Functions, Views, and SQL modes. Whether you work in sales or marketing, you run your own company, or you want to build your own apps, mastering MySQL is crucial to answering complex business problems and questions using insights from data."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-sql-bootcamp/",
+        "duration": "9 total hours",
+        "platform": "Udemy",
+        "instructor": "Jose Portilla, Pierian Training",
+        "course_name": "The Complete SQL Bootcamp: Go from Zero to Hero",
+        "description": "Become an expert at SQL!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/",
+        "duration": "22 total hours",
+        "platform": "Udemy",
+        "instructor": "Colt Steele",
+        "course_name": "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert",
+        "description": "Master SQL, Work With Complex Databases, Build Reports, and More!"
+      },
+      {
+        "links": "https://www.udemy.com/course/sql-the-complete-introduction-to-sql-programming/",
+        "duration": "3.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Yassin Marco MBA",
+        "course_name": "SQL- The Complete Introduction to SQL programming",
+        "description": "Learn the basics of SQL programming and Data manipulation with the use SQL"
+      },
+      {
+        "links": "https://www.udemy.com/course/sql-mysql-for-data-analytics-and-business-intelligence/",
+        "duration": "12 total hours",
+        "platform": "Udemy",
+        "instructor": "365 Careers, 365 Team",
+        "course_name": "SQL - MySQL for Data Analytics and Business Intelligence",
+        "description": "SQL that will get you hired – SQL for Data Science, Data Engineering, Business Analysis, Marketing, and Data Management"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-sql-programming-essentials-immersive-training/",
+        "duration": "3.5 total hours",
+        "platform": "Udemy",
+        "instructor": "SDE Arts by Ahmed EL Mohandes, Ahmed El Mohandes",
+        "course_name": "The SQL Programming Essentials Immersive Training",
+        "description": "Learn SQL Programming step by step and know how it works. Building, Accessing and Manipulating databases and tables"
+      },
+      {
+        "links": "https://www.udemy.com/course/mysql-for-everyone/",
+        "duration": "6.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Nick Ovchinnikov",
+        "course_name": "SQL for Developers, Data Analysts and BI. MySQL for everyone",
+        "description": "Learn SQL with MySQL Workbench from zero. Great match for beginners in SQL, coders with any experience or Data Analytics"
+      },
+      {
+        "links": "https://www.udemy.com/course/sql-mastery-learn-enough-sql-to-be-a-professional/",
+        "duration": "4.5 total hours",
+        "platform": "Udemy",
+        "instructor": "SDE Arts by Ahmed EL Mohandes, Ahmed El Mohandes",
+        "course_name": "SQL: From Zero to Hero - Unleash the Data Superpowers Within",
+        "description": "Blast Off from Beginner to Data Jedi: Master SQL in 2024 and Rule the Information Galaxy"
+      },
+      {
+        "links": "https://www.udemy.com/course/2022-complete-sql-bootcamp-from-zero-to-hero-in-sql/",
+        "duration": "4 total hours",
+        "platform": "Udemy",
+        "instructor": "Toppers Bootcamp",
+        "course_name": "2025 Complete SQL Bootcamp from Zero to Hero in SQL",
+        "description": "Become an expert in SQL by learning through concept & Hands-on coding :)"
+      },
+      {
+        "links": "https://www.udemy.com/course/sql-for-newbs/",
+        "duration": "3.5 total hours",
+        "platform": "Udemy",
+        "instructor": "A Course You'll Actually Finish, David Kim, Peter Sefton",
+        "course_name": "SQL for NEWBS: Weekender Crash Course",
+        "description": "Data Analysis for Data Scientists, Marketers, & Business/Product folks. Using MySQL but appropriate for all SQL."
+      },
+      {
+        "links": "https://www.udemy.com/course/sql-basics-crash-course-with-sql-server/",
+        "duration": "6.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Travis Cuzick",
+        "course_name": "SQL for Data Analysis - with SQL Server",
+        "description": "The most direct path to mastering the SQL skills you'll actually use on the job"
+      },
+      {
+        "links": "https://www.udemy.com/course/complete-microsoft-sql-server-database-administration-course/",
+        "duration": "32 total hours",
+        "platform": "Udemy",
+        "instructor": "Imran Afzal, Abbas Mehmood",
+        "course_name": "Complete Microsoft SQL Server Database Administration Course",
+        "description": "Mastering Database Management and Security with Microsoft SQL Server"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-sql-bootcamp/?srsltid=AfmBOooxB0BTKsDxXWMJNWw1xQoMyOlmCmQA43hqkAR3FQSZoFZ3hteL",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Jose Portilla, Pierian Training",
+        "course_name": "The Complete SQL Bootcamp: Go from Zero to Hero",
+        "description": "Learn how to use SQL quickly and effectively with this course! You'll learn how to read and write complex queries to a database using one of the most in demand skills - PostgreSQL. These skills are also applicable to any other major SQL database, such as MySQL, Microsoft SQL Server, Amazon Redshift, Oracle, and much more. Learning SQL is one of the fastest ways to improve your career prospects as it is one of the most in demand tech skills! In this course you'll learn quickly and receive challenges and tests along the way to improve your understanding!"
+      },
+      {
+        "links": "https://www.udemy.com/course/data-analysis-projects-using-sql-power-bi-tableau-excel/?srsltid=AfmBOoqzYtRo_s8fKkXRReGOhpTvMAqjWapE-9CAZxixLLissvIpSuhh",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Graeme Gordon",
+        "course_name": "Data Analysis | SQL,Tableau,Power BI & Excel | Real Projects",
+        "description": "4-in-1 bundle: Practical learning of the essential tools used in Data Science with hands on examples and projects"
+      },
+      {
+        "links": "https://www.udemy.com/course/data-analysis-projects-using-sql-power-bi-tableau-excel/?srsltid=AfmBOorj2wgk3mYRBFfCnPdZxC-U6x1M0MLkq8iXplLqJ25hXPcjVsWw",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Graeme Gordon",
+        "course_name": "Data Analysis | SQL,Tableau,Power BI & Excel | Real Projects",
+        "description": "4-in-1 bundle: Practical learning of the essential tools used in Data Science with hands on examples and projects"
+      },
+      {
+        "links": "https://www.udemy.com/course/sub-query-magic-write-t-sql-subqueries-using-sql-server/",
+        "duration": "02:08:24 of on-demand video",
+        "platform": "Udemy",
+        "instructor": "Kris Wenzel",
+        "course_name": "EssentialSQL: Subquery Magic - Master SQL Sub Queries",
+        "description": "Learn what subqueries are and how to use them in SQL queries. This course covers correlated subqueries, inner queries, nested queries, and more."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-sql-masterclass-for-data-analytics/",
+        "duration": "10 total hours",
+        "platform": "Udemy",
+        "instructor": "Start-Tech Academy",
+        "course_name": "Zero to Hero in SQL: SQL for Data Analytics",
+        "description": "SQL course covering basic to advanced SQL topics for SQL Database (PostgreSQL). Beginner friendly SQL training"
+      },
+      {
+        "links": "https://www.udemy.com/course/google-bigquery-and-postgresql-sql-for-data-analysis/",
+        "duration": "11.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Start-Tech Academy",
+        "course_name": "Google BigQuery & PostgreSQL : Big Query for Data Analysis",
+        "description": "Become BigQuery expert by mastering Google BigQuery for data analysis. Cover all SQL queries in PostgreSQL & Big Query"
+      },
+      {
+        "links": "https://www.udemy.com/course/unleash-the-data-dragon-postgres-sql/",
+        "duration": "6.5 total hours",
+        "platform": "Udemy",
+        "instructor": "SDE Arts by Ahmed EL Mohandes, Ahmed El Mohandes",
+        "course_name": "Mastering PostgreSQL: The Ultimate SQL Guide for Beginners",
+        "description": "Craft Powerful Queries, Build Data Fortresses: Conquer Real-World Challenges with SQL and Postgres"
+      },
+      {
+        "links": "https://www.udemy.com/course/postgresqlmasterclass/",
+        "duration": "67.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Adnan Waheed",
+        "course_name": "PostgreSQL Bootcamp : Go From Beginner to Advanced, 60+hours",
+        "description": "Learn about Subqueries, CTEs, Indexes, PL/SQL, PL/pgSQL, Triggers, Cursors, Partitions, Views, JSON, Window Functions..."
+      },
+      {
+        "links": "https://www.udemy.com/course/postgresql-bootcamp-complete-beginner-to-advanced-course/",
+        "duration": "5.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Knowledge Nest",
+        "course_name": "PostgreSQL Bootcamp : Complete Beginner to Advanced Course",
+        "description": "Learn PostgreSQL Database, PostgreSQL for Creating Databases and Writing SQL Queries using PostgreSQL and PgAdmin4"
+      },
+      {
+        "links": "https://www.udemy.com/course/postgresql-and-mysql-for-beginners/",
+        "duration": "10 total hours",
+        "platform": "Udemy",
+        "instructor": "Start-Tech Trainings, Start-Tech Academy",
+        "course_name": "PostgreSQL and MySQL for Beginners",
+        "description": "Learn most popular SQL dialects, PostgreSQL & MySQL. Learn SQL concepts, practice & compare syntax of PostgreSQL & MySQL"
+      },
+      {
+        "links": "https://www.udemy.com/course/sql-and-postgresql-for-beginners/",
+        "duration": "12.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Jon Avis - SQL Instructor",
+        "course_name": "SQL and PostgreSQL for Beginners: Become a SQL Expert",
+        "description": "Become an Expert in SQL and PostgreSQL: Master SQL with PostgreSQL and PgAdmin 4"
+      },
+      {
+        "links": "https://www.udemy.com/course/complete-python-postgresql-database-course/",
+        "duration": "13.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Codestars • over 2 million students worldwide!, Jose Salvatierra, Teclado by Jose Salvatierra",
+        "course_name": "The Complete Python/PostgreSQL Course 2.0",
+        "description": "Take the next step in your Python development by leveraging the power of PostgreSQL and databases!"
+      },
+      {
+        "links": "https://www.udemy.com/course/postgresql-from-zero-to-hero/",
+        "duration": "16 total hours",
+        "platform": "Udemy",
+        "instructor": "Will Bunker",
+        "course_name": "Learn SQL Using PostgreSQL: From Zero to Hero",
+        "description": "Master PostgreSQL starting with basics to advanced features like triggers, PL/pgSQL functions, Window Functions and CTE"
+      },
+      {
+        "links": "https://www.udemy.com/course/postgresql-high-performance-tuning-guide/",
+        "duration": "2.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Lucian Oprea",
+        "course_name": "PostgreSQL High Performance Tuning Guide",
+        "description": "Tips for Tuning PostgreSQL like a Pro | Learn how to prevent Postgres performance problems"
+      },
+      {
+        "links": "https://www.udemy.com/course/postgresql-v12-database-administration-on-windows-and-linux/",
+        "duration": "13.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Sadiq Basha",
+        "course_name": "PostgreSQL Database Administration on Windows/Linux- Part 1",
+        "description": "New courses on PostgreSQL Database Administration: For Replication Check : Part 2 , For Performance Tuning : Part 3"
+      },
+      {
+        "links": "https://www.udemy.com/course/intro-to-postgresql-databases-with-pgadmin/",
+        "duration": "2 total hours",
+        "platform": "Udemy",
+        "instructor": "John Elder",
+        "course_name": "Intro To PostgreSQL Databases With PgAdmin For Beginners",
+        "description": "Intro To SQL and PostgreSQL for Creating Databases and Writing SQL Queries using PostgreSQL and PgAdmin 4"
+      },
+      {
+        "links": "https://www.udemy.com/course/postgresql-v12-database-administration-on-winlinux-part-2/",
+        "duration": "7.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Sadiq Basha",
+        "course_name": "PostgreSQL Database Administration on Windows/Linux- Part 2",
+        "description": "New course available now for Performance tuning : PostgreSQL Database Administration on Win/Linux-Part 3 (PT)"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/",
+        "duration": "22 total hours",
+        "platform": "Udemy",
+        "instructor": "Colt Steele",
+        "course_name": "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert",
+        "description": "JUST COMPLETELY REDONE! Master SQL, Work With Complex Databases, Build Reports, and More!"
+      },
+      {
+        "links": "https://www.udemy.com/course/database-course/",
+        "duration": "4.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Creative Online School",
+        "course_name": "Practical Database Course for Beginners : 6 courses in 1",
+        "description": "Become expert in RDBMS and NoSQL databases with hands on practical examples, exercises. MySQL, MongoDB, Redis, and more"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-mysql-for-beginners/",
+        "duration": "1.5 total hours",
+        "platform": "Udemy",
+        "instructor": "YouAccel Training",
+        "course_name": "Learn MySQL - For Beginners",
+        "description": "Learn to Create Database Driven Web Applications using MySQL"
+      },
+      {
+        "links": "https://www.udemy.com/course/mysql-for-beginners-a-complete-mysql-training-for-beginnners/",
+        "duration": "2.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Meta Brains",
+        "course_name": "MySQL for Beginners: A Complete Training for beginners",
+        "description": "Understand SQL using the MySQL database. Learn Database Design and Data Analysis with MySQL"
+      },
+      {
+        "links": "https://www.udemy.com/course/sql-from-basics-to-advanced/",
+        "duration": "20 total hours",
+        "platform": "Udemy",
+        "instructor": "Challa venkata Tharun Reddy",
+        "course_name": "SQL complete Bootcamp From Basics to Advanced,Sql interview",
+        "description": "Master SQL from Scratch: Become a Pro Developer. Easiest explanations, Comprehensive coverage, Real-world applications"
+      },
+      {
+        "links": "https://www.udemy.com/course/advanced-sql-mysql-for-analytics-business-intelligence/",
+        "duration": "8 total hours",
+        "platform": "Udemy",
+        "instructor": "Maven Analytics • 1,500,000 Learners, John Pauler",
+        "course_name": "Advanced SQL: MySQL for Ecommerce Data Analysis",
+        "description": "Learn advanced SQL data analysis & business intelligence with SQL + MySQL Workbench, with real-world Ecommerce projects!"
+      },
+      {
+        "links": "https://www.udemy.com/course/mysql-for-data-analysis/",
+        "duration": "4.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Maven Analytics • 1,500,000 Learners, John Pauler",
+        "course_name": "SQL for Data Analysis: Beginner MySQL Business Intelligence",
+        "description": "Learn SQL database analysis & business intelligence w/ MySQL Workbench. Perfect for SQL beginners or first-time coders!"
+      },
+      {
+        "links": "https://www.udemy.com/course/build-13-projects-with-php-mysql-bootstrap-and-pdo/",
+        "duration": "10.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Web Coding",
+        "course_name": "Build 13 Projects with PHP MySQL Bootstrap and PDO",
+        "description": "Build Amazing Projects with PHP MySQL Bootstrap and PDO and Take your Web Development Skills to the Next Level"
+      },
+      {
+        "links": "https://www.udemy.com/course/sql-beginner-to-guru-mysql-edition/",
+        "duration": "11.5 total hours",
+        "platform": "Udemy",
+        "instructor": "John Thompson • 500,000+ Enrollments Worldwide, Spring Ahead Code Academy",
+        "course_name": "SQL Beginner to Guru: MySQL Edition - Master SQL with MySQL",
+        "description": "SQL skills are in demand. Learn to master SQL using MySQL. Become a SQL Guru today!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-mysql-developer-course/",
+        "duration": "10.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Rob Percival, Mashrur Hossain, Codestars • over 2 million students worldwide!",
+        "course_name": "The Complete MySQL Developer Course",
+        "description": "MySQL: Learn how to use MySQL and PHP to build Reports and work with Databases for Web Applications"
+      },
+      {
+        "links": "https://www.udemy.com/course/mysql-and-sql-from-beginner-to-advanced/",
+        "duration": "18.5 total hours",
+        "platform": "Udemy",
+        "instructor": "John Purcell",
+        "course_name": "MySQL, SQL and Stored Procedures from Beginner to Advanced",
+        "description": "A beginners' guide to MySQL queries, database design, transactions and stored procedures."
+      },
+      {
+        "links": "https://www.udemy.com/course/sqlcourse/?srsltid=AfmBOorPRBUkxyj9BFaRdiUuxqIsIJGcJD2jZ7n8FMosdskUkDBw2XqI",
+        "duration": "14 hours",
+        "platform": "Udemy",
+        "instructor": "Ashutosh Pawar",
+        "course_name": "SQL For Beginners 2025: Learn SQL Using MySQL Database",
+        "description": "Learn SQL From Scratch Using MySQL Databases, A Complete MySQL Course For Beginners"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-sql-bootcamp/?srsltid=AfmBOor_7sBhpry3e1bb--V61sM7HrkZdVRHAmuXfVncZvULWwE5q2ew",
+        "duration": "9 hours on-demand video, 83 lectures",
+        "platform": "Udemy",
+        "instructor": "Jose Portilla, Pierian Training",
+        "course_name": "The Complete SQL Bootcamp: Go from Zero to Hero",
+        "description": "Learn how to use SQL quickly and effectively with this course! You'll learn how to read and write complex queries to a database using one of the most in demand skills - PostgreSQL. These skills are also applicable to any other major SQL database, such as MySQL, Microsoft SQL Server, Amazon Redshift, Oracle, and much more."
+      },
+      {
+        "links": "https://www.udemy.com/course/15-days-of-sql/?srsltid=AfmBOor7ZRmS56DyEbwHYEy8wrejgWOs9qXt9BeVOexIWJgoCd-p66fu",
+        "duration": "15 hours",
+        "platform": "Udemy",
+        "instructor": "Nikolai Schuler",
+        "course_name": "15 Days of SQL: The Complete SQL Masterclass 2025",
+        "description": "Master SQL in just 15 days from Basics to Pro by working daily on real-life projects"
+      },
+      {
+        "links": "https://www.udemy.com/course/data-engineering-essentials-sql-python-and-spark/",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Durga Viswanatha Raju Gadiraju, Pratik Kumar, Phani Bhushan Bozzam",
+        "course_name": "Data Engineering for Beginners: Learn SQL, Python & Spark",
+        "description": "Master SQL, Python, and Apache Spark (PySpark) with Hands-On Projects using Databricks on Google Cloud"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-sql-bootcamp/",
+        "duration": "9 total hours, 83 lectures",
+        "platform": "Udemy",
+        "instructor": "Jose Portilla, Pierian Training",
+        "course_name": "The Complete SQL Bootcamp: Go from Zero to Hero",
+        "description": "Become an expert at SQL!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/",
+        "duration": "22 total hours, 383 lectures",
+        "platform": "Udemy",
+        "instructor": "Colt Steele",
+        "course_name": "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert",
+        "description": "Master SQL, Work With Complex Databases, Build Reports, and More!"
+      },
+      {
+        "links": "https://www.udemy.com/course/databricks-developer-sql-python-para-analise-de-dados/",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Edmilson Alves dos Santos",
+        "course_name": "Databricks Developer Spark,SQL,Python Para Análise de Dados",
+        "description": "Aprenda do Básico ao Avançado a Manipular Databricks com linguagem SQL, Python PySpark Para Análise de Dados Cloud. O objetivo do curso é ensinar PySpark, Spark SQL em Python e a Arquitetura Databricks Lakehouse."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-ultimate-sql-bootcamp-go-from-zero-to-hero/?srsltid=AfmBOorW0xMmVQNwURqqiI7-S2wBIefhn_NZiTC--P2Zni3vMdiXanc7",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Sara Academy",
+        "course_name": "The Ultimate SQL Bootcamp : Go From Zero to Hero",
+        "description": "Become an In-Demand SQL Professional! Master SQL, Work With Complex Databases, Build Reports, Analysis and More!"
+      },
+      {
+        "links": "https://www.udemy.com/course/data-analysis-business-intelligence-python-pandas-sql/?srsltid=AfmBOoqzBa2Cnb1G_NxDo9USIZkNX1f8HEtIgQtpLCrz2KD67ULCE7JW",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Akhil Vydyula",
+        "course_name": "Data Analysis and Business Intelligence with Python & SQL",
+        "description": "Practical Data Analytics & Business Intelligence with: SQL Matplotlib Python Excel Power BI Pandas"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Colt Steele",
+        "course_name": "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert",
+        "description": "Master SQL, Work With Complex Databases, Build Reports, and More! This course is a gentle but comprehensive introduction to MySQL, one of the most highly in-demand skills in the business sector today."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert/?couponCode=NVDIN35",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Colt Steele",
+        "course_name": "The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert",
+        "description": "Master SQL, Work With Complex Databases, Build Reports, and More! This course was just completely redone and rebuilt from the ground up, with over 325 brand new videos recorded. The course now uses MySQL 8.x and covers new topics including: Window Functions, Views, and SQL modes. Whether you work in sales or marketing, you run your own company, or you want to build your own apps, mastering MySQL is crucial to answering complex business problems and questions using insights from data."
+      },
+      {
+        "links": "https://www.udemy.com/course/data-analysis-projects-using-sql-power-bi-tableau-excel/?srsltid=AfmBOopGOzy2_wxOo4lEfeYUX4mWkKCHhiv8BEMzG9KPTNRgyMdG_z9l",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Graeme Gordon",
+        "course_name": "Data Analysis | SQL,Tableau,Power BI & Excel | Real Projects",
+        "description": "4-in-1 bundle: Practical learning of the essential tools used in Data Science with hands on examples and projects"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-ultimate-sql-bootcamp-go-from-zero-to-hero/?srsltid=AfmBOopTtBPOIdH2QMqaDHc1S2JH9wdpwEbcMZkU5L3_CdmuMx7ji_rY",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "Sara Academy",
+        "course_name": "The Ultimate SQL Bootcamp : Go From Zero to Hero",
+        "description": "Become an In-Demand SQL Professional! Master SQL, Work With Complex Databases, Build Reports, Analysis and More!"
+      },
+      {
+        "links": "https://www.udemy.com/course/practical-sql-query-and-manage-databases/",
+        "duration": "1.5 total hours",
+        "platform": "Udemy",
+        "instructor": "MTF Institute of Management, Technology and Finance",
+        "course_name": "Practical SQL: Query & Manage Databases",
+        "description": "Master SQL basics, data retrieval, advanced queries, joins, and optimisation through hands-on exercises"
+      },
+      {
+        "links": "https://www.udemy.com/course/sql-with-mysql/",
+        "duration": "3 total hours",
+        "platform": "Udemy",
+        "instructor": "Dave Hollingworth",
+        "course_name": "SQL for Beginners",
+        "description": "Master SQL Fundamentals Quickly and Effectively with MySQL"
+      },
+      {
+        "links": "https://www.udemy.com/course/sql-basic-to-advanced-skills-for-analysts-engineers/",
+        "duration": "3 total hours",
+        "platform": "Udemy",
+        "instructor": "Joe Dugdale",
+        "course_name": "SQL: Basic to Advanced Skills for Analysts & Engineers",
+        "description": "Learn SQL fundamentals, advanced queries, data aggregation, joins, and database management to boost your analysis skills"
+      },
+      {
+        "links": "https://www.udemy.com/course/sql-postgresql-practical-course/",
+        "duration": "2.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Denis Suchkov",
+        "course_name": "SQL and PostgreSQL: A Practical Course",
+        "description": "Master SQL and database skills from beginner to advanced levels: theory and hands-on practice with exercises."
+      },
+      {
+        "links": "https://www.udemy.com/course/sql-for-newbies-hands-on-sql-with-industry-best-practices/",
+        "duration": "1.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Ervisa Beinto",
+        "course_name": "SQL for Newbies: Hands-On SQL with Industry Best Practices",
+        "description": "Beginner-friendly guide to writing, optimizing, and mastering SQL step by step!"
+      },
+      {
+        "links": "https://www.udemy.com/course/data-analyst-focused-sql-complete-10-day-course/",
+        "duration": "1 total hour",
+        "platform": "Udemy",
+        "instructor": "Sri Hari Goshika",
+        "course_name": "Data Analyst-Focused SQL: Complete 10-Day Course",
+        "description": "A practical 10-day journey through SQL designed specifically for aspiring Data Analysts and Business Analysts."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-sql-bootcamp-30-hours-go-from-zero-to-hero/",
+        "duration": "29.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Baraa Khatib Salkini",
+        "course_name": "The Complete SQL Bootcamp (30 Hours): Go from Zero to Hero",
+        "description": "The Only SQL Course with 200+ Visual Animations: learn Fast, Practice Hard & Build Real-World Projects"
+      },
+      {
+        "links": "https://www.udemy.com/course/sql-for-web-developers/",
+        "duration": "7 total hours",
+        "platform": "Udemy",
+        "instructor": "Brian Mweu",
+        "course_name": "SQL For Web Developers",
+        "description": "Build a Mini Student Management System"
+      },
+      {
+        "links": "https://www.udemy.com/course/sql-fundamentals-postgresql/",
+        "duration": "10.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Very Academy",
+        "course_name": "SQL Query Fundamentals with PostgreSQL",
+        "description": "Learn to write SQL queries and be ready to apply your knowledge in real-world projects"
+      },
+      {
+        "links": "https://www.udemy.com/course/complete-sql-course-2025-become-an-expert-at-sql/",
+        "duration": "6 total hours",
+        "platform": "Udemy",
+        "instructor": "Yogesh Dhiman",
+        "course_name": "Complete SQL Course 2025: Become an expert at SQL!",
+        "description": "Learn SQL Skills Quickly!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-ultimate-sql-bootcamp-go-zero-to-hero-in-sql/",
+        "duration": "20 total hours",
+        "platform": "Udemy",
+        "instructor": "Unicliff Edutech",
+        "course_name": "The Ultimate SQL Bootcamp - Go Zero to Hero in SQL",
+        "description": "Become an expert at SQL!"
+      },
+      {
+        "links": "https://www.udemy.com/course/sqlcourse/?srsltid=AfmBOorAs-iKAEV_GbPCZ4rce1HvMbaxCcLFN2aNICBQ90T8jIxIqdVK",
+        "duration": "14.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Ashutosh Pawar",
+        "course_name": "SQL For Beginners 2025: Learn SQL Using MySQL Database",
+        "description": "Learn SQL From Scratch Using MySQL Databases, A Complete MySQL Course For Beginners"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn_sql/?srsltid=AfmBOorpeVcK4VuGDxGzFDEiIM1IIs9sKMB_UoARHTwRbXKdToj-1DBN",
+        "duration": "3 hours",
+        "platform": "Udemy",
+        "instructor": "OCSALY Academy | 480.000+ Students",
+        "course_name": "Learn SQL in 3 Hours : A tutorial for fast learners",
+        "description": "Unlock the Power of Databases and Excel in SQL Mastery: Become a Highly Skilled SQL Developer with Database Knowledge"
+      },
+      {
+        "links": "https://www.udemy.com/course/databricks-developer-sql-python-para-analise-de-dados/",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Edmilson Alves dos Santos",
+        "course_name": "Databricks Developer Spark,SQL,Python Para Análise de Dados",
+        "description": "Aprenda do Básico ao Avançado a Manipular Databricks com linguagem SQL, Python PySpark Para Análise de Dados Cloud"
+      },
+      {
+        "links": "https://www.udemy.com/course/machinelearning/",
+        "duration": "43 total hours",
+        "platform": "Udemy",
+        "instructor": "Kirill Eremenko, Hadelin de Ponteves, SuperDataScience Team, Ligency Team",
+        "course_name": "Machine Learning A-Z: AI, Python & R + ChatGPT Prize [2025]",
+        "description": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/",
+        "duration": "32 total hours",
+        "platform": "Udemy",
+        "instructor": "365 Careers",
+        "course_name": "The Data Science Course: Complete Data Science Bootcamp 2025",
+        "description": "Complete Data Science Training: Math, Statistics, Python, Advanced Statistics in Python, Machine and Deep Learning"
+      },
+      {
+        "links": "https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/",
+        "duration": "25 total hours",
+        "platform": "Udemy",
+        "instructor": "Jose Portilla, Pierian Training",
+        "course_name": "Python for Data Science and Machine Learning Bootcamp",
+        "description": "Learn how to use NumPy, Pandas, Seaborn, Matplotlib, Plotly, Scikit-Learn, Machine Learning, Tensorflow, and more!"
+      },
+      {
+        "links": "https://www.udemy.com/course/data_science_a_to_z/",
+        "duration": "33 total hours",
+        "platform": "Udemy",
+        "instructor": "Start-Tech Academy",
+        "course_name": "Machine Learning & Deep Learning in Python & R",
+        "description": "Covers Regression, Decision Trees, SVM, Neural Networks, CNN, Time Series Forecasting and more using both Python & R"
+      },
+      {
+        "links": "https://www.udemy.com/course/deeplearning/",
+        "duration": "22.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Kirill Eremenko, Hadelin de Ponteves, SuperDataScience Team, Ligency Team",
+        "course_name": "Deep Learning A-Z 2025: Neural Networks, AI & ChatGPT Prize",
+        "description": "Learn to create Deep Learning models in Python from two Machine Learning, Data Science experts. Code templates included."
+      },
+      {
+        "links": "https://www.udemy.com/course/python-introduction-to-data-science-and-machine-learning-a-z/",
+        "duration": "7.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Yassin Marco MBA",
+        "course_name": "Python-Introduction to Data Science and Machine learning A-Z",
+        "description": "Python basics Learn Python for Data Science Python For Machine learning and Python Tips and tricks"
+      },
+      {
+        "links": "https://www.udemy.com/course/machine-learning-with-r-studio/",
+        "duration": "12 total hours",
+        "platform": "Udemy",
+        "instructor": "Start-Tech Academy",
+        "course_name": "Complete Machine Learning with R Studio - ML for 2025",
+        "description": "Linear & Logistic Regression, Decision Trees, XGBoost, SVM & other ML models in R programming language - R studio"
+      },
+      {
+        "links": "https://www.udemy.com/course/data-analysis-with-pandas-a-complete-tutorial/",
+        "duration": "16 total hours",
+        "platform": "Udemy",
+        "instructor": "Pruthviraja L",
+        "course_name": "Python For Data Science In 2025 A-Z: EDA With Real Exercises",
+        "description": "Work With Pandas, Python For Data Science, ML & Data Analysis, Data Prep With EDA &100+ Exercises & Real Life Projects"
+      },
+      {
+        "links": "https://www.udemy.com/course/r-programming/",
+        "duration": "10.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Kirill Eremenko, SuperDataScience Team, Ligency Team",
+        "course_name": "R Programming A-Z™: R For Data Science With Real Exercises!",
+        "description": "Learn Programming In R And R Studio. Data Analytics, Data Science, Statistical Analysis, Packages, Functions, GGPlot2"
+      },
+      {
+        "links": "https://www.udemy.com/course/artificial-intelligence-az/",
+        "duration": "15.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Hadelin de Ponteves, Kirill Eremenko, SuperDataScience Team, Luka Anicin, Ligency Team",
+        "course_name": "Artificial Intelligence A-Z 2025: Agentic AI, Gen AI, and RL",
+        "description": "Combine the power of Agentic AI, Generative AI, Reinforcement Learning to create powerful AI for Real-World applications"
+      },
+      {
+        "links": "https://www.udemy.com/course/mastering-python-data-handling-analysis-and-visualization/",
+        "duration": "6 total hours",
+        "platform": "Udemy",
+        "instructor": "Ahmed El Mohandes, SDE Arts by Ahmed EL Mohandes",
+        "course_name": "Data Science: Python for Data Analysis Full Bootcamp",
+        "description": "Learn and build your Python Programming skills from the ground up in addition to Python Data Science libraries and tools"
+      },
+      {
+        "links": "https://www.udemy.com/course/datascience/",
+        "duration": "21 total hours",
+        "platform": "Udemy",
+        "instructor": "Kirill Eremenko, SuperDataScience Team, Ligency Team",
+        "course_name": "Data Science A-Z: Hands-On Exercises & ChatGPT Prize [2025]",
+        "description": "Learn Data Science step by step through real Analytics examples. Data Mining, Modeling, Tableau Visualization and more!"
+      },
+      {
+        "links": "https://www.udemy.com/course/real-time-ai-ppe-detection-yolov8-python-opencv/",
+        "duration": "1 total hour",
+        "platform": "Udemy",
+        "instructor": "Muhammad Yaqoob G",
+        "course_name": "AI PPE Detection: Real-Time Workplace Safety with Python&CV",
+        "description": "AI-Powered PPE Detection: Ensuring Workplace Safety in Real Time with Python & Computer Vision"
+      },
+      {
+        "links": "https://www.udemy.com/course/shallow-neural-networks-for-time-series-forecasting/",
+        "duration": "4.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Quant Algorithmic Economist",
+        "course_name": "Shallow Neural Networks for Time Series Forecasting",
+        "description": "ML, Shallow Learning and timeseries forecasts!"
+      },
+      {
+        "links": "https://www.udemy.com/course/build-intelligent-multi-agent-applications-with-autogen/",
+        "duration": "3 total hours",
+        "platform": "Udemy",
+        "instructor": "Amit Kumar Thakur",
+        "course_name": "Build intelligent Multi-Agent applications with AutoGen 0.5",
+        "description": "Master AutoGen 0.5 to Build Scalable, Intelligent Multi-Agent AI Applications for Real-World Tasks"
+      },
+      {
+        "links": "https://www.udemy.com/course/master-pytorch-transformers-deep-learningzero-to-gen-ai/",
+        "duration": "22 total hours",
+        "platform": "Udemy",
+        "instructor": "Rahul Raj",
+        "course_name": "Master Deep Learning,Generative AI ,Pytorch:Zero to Agent AI",
+        "description": "From Python basics to transformers with PyTorch! Master deep learning, CNNs, and attention. Build Generative AI Project"
+      },
+      {
+        "links": "https://www.udemy.com/course/no-more-lucky-models-the-art-science-of-model-validation/",
+        "duration": "10.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Maxwell Sarmento de Carvalho",
+        "course_name": "No More Lucky Models: The Art & Science of Model Validation",
+        "description": "Build Machine Learning Models that will survive reality - Applied Data Science for the Real World."
+      },
+      {
+        "links": "https://www.udemy.com/course/master-data-science-ml-build-real-world-projects/",
+        "duration": "6 total hours",
+        "platform": "Udemy",
+        "instructor": "Haron Omara",
+        "course_name": "Data Science & ML Bootcamp 2025: Real Projects",
+        "description": "Learn how to use NumPy, Pandas, SciPy, Matplotlib, pyplot, Scikit-Learn, Machine Learning and more"
+      },
+      {
+        "links": "https://www.udemy.com/course/deploy-ml-model-in-production-with-fastapi-and-docker/",
+        "duration": "4 total hours",
+        "platform": "Udemy",
+        "instructor": "Meta Brains, Skool of AI",
+        "course_name": "Deploy ML Model in Production with FastAPI and Docker",
+        "description": "Learn ML deployment using FastAPI, Docker, CI/CD, and Cloud platforms"
+      },
+      {
+        "links": "https://www.udemy.com/course/certification-in-generative-ai-models-and-tools/",
+        "duration": "6 total hours",
+        "platform": "Udemy",
+        "instructor": "Human and Emotion: CHRMI",
+        "course_name": "Certification in Generative AI Models and Tools",
+        "description": "Learn Generative AI and tools like DALLE, Jasper, ChatGPT, BERT, Synthesia, RunwayML with models and networks."
+      },
+      {
+        "links": "https://www.udemy.com/course/data-analyst-portfolio-creation-to-build-practical-skills/",
+        "duration": "1 total hour",
+        "platform": "Udemy",
+        "instructor": "Lasisi Akeem",
+        "course_name": "Data Analyst Portfolio Creation to Build Practical Skills",
+        "description": "Learn to create an effective Data Analyst Portfolio to showcase skills and increase your appeal to employers"
+      },
+      {
+        "links": "https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/",
+        "duration": "25.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Ligency Team, Ed Donner",
+        "course_name": "LLM Engineering: Master AI, Large Language Models & Agents",
+        "description": "Become an LLM Engineer in 8 weeks: Build and deploy 8 LLM apps, mastering Generative AI, RAG, LoRA and AI Agents."
+      },
+      {
+        "links": "https://www.udemy.com/course/langchain/",
+        "duration": "11 total hours",
+        "platform": "Udemy",
+        "instructor": "Eden Marco",
+        "course_name": "LangChain- Develop LLM powered applications with LangChain",
+        "description": "Learn LangChain by building FAST a real world generative ai LLM powered application LLM (Python, Latest Version 0.3.0)"
+      },
+      {
+        "links": "https://www.udemy.com/course/generative-creative-ai-from-gans-to-clip-with-python-and-pytorch/",
+        "duration": "11.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Javier Ideami",
+        "course_name": "Generative AI, from GANs to CLIP, with Python and Pytorch",
+        "description": "Learn to code with the most creative and exciting AI architectures, generative AI networks, from basic to advanced"
+      },
+      {
+        "links": "https://www.udemy.com/course/artificial-intelligence-machine-learning-business/",
+        "duration": "5.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Analytics Vidhya",
+        "course_name": "Artificial Intelligence & Machine Learning for Business",
+        "description": "The Ultimate Artificial Intelligence & Machine Learning course for CxOs, Managers, Team Leaders and Entrepreneurs"
+      },
+      {
+        "links": "https://www.udemy.com/course/introduction-to-databases-and-sql-querying/",
+        "duration": "2.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Rakesh Gopalakrishnan",
+        "course_name": "Introduction to Databases and SQL Querying",
+        "description": "A step by step introduction to the concept of Databases and Introduction to SQL Querying."
+      },
+      {
+        "links": "https://www.udemy.com/course/advanced-tsql-querying-using-sql-2014/",
+        "duration": "3.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Rakesh Gopalakrishnan",
+        "course_name": "Advanced Databases and SQL Querying",
+        "description": "Learn advanced T-SQL Querying concepts. Go from a beginner SQL programmer to writing complex SQL Queries."
+      },
+      {
+        "links": "https://www.udemy.com/course/sql-essentials-for-beginners/",
+        "duration": "3 total hours",
+        "platform": "Udemy",
+        "instructor": "Sagar Uppuluri",
+        "course_name": "SQL Foundations",
+        "description": "A beginners guide to SQL commands and Database Design. Learn it through quick and easy steps."
+      },
+      {
+        "links": "https://www.udemy.com/course/sql-for-real-world-data-analysis/",
+        "duration": "2 total hours",
+        "platform": "Udemy",
+        "instructor": "Max SQL",
+        "course_name": "SQL for Data Analysis: Solving real-world problems with data",
+        "description": "A simple & concise mySQL course (applicable to any SQL), perfect for data analysis, data science, business intelligence."
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-sqlmysql-database-basics-for-free/",
+        "duration": "2 total hours",
+        "platform": "Udemy",
+        "instructor": "Academia Programatorilor",
+        "course_name": "Learn SQL / MySQL database basics FOR FREE",
+        "description": "Learn SQL / MySQL for FREE. Database basics"
+      },
+      {
+        "links": "https://www.udemy.com/course/sql-101-a-beginners-guide-to-sql/",
+        "duration": "1 total hour",
+        "platform": "Udemy",
+        "instructor": "Sean Coyne, Jules Malin",
+        "course_name": "SQL 101: A Beginners Guide to SQL",
+        "description": "A gentle introduction to the world of SQL"
+      },
+      {
+        "links": "https://www.udemy.com/course/sql-beginners-level-course/",
+        "duration": "2 total hours",
+        "platform": "Udemy",
+        "instructor": "Alexander Shafe",
+        "course_name": "SQL Beginner's Level Course",
+        "description": "Learn T-SQL using Microsoft SQL Server Environment"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-sql-in-a-simplified-manner/",
+        "duration": "2 total hours",
+        "platform": "Udemy",
+        "instructor": "Parteek Bhatia",
+        "course_name": "Learn SQL in a simplified manner",
+        "description": "Learn SQL in just four weeks, right from scratch !"
+      },
+      {
+        "links": "https://www.udemy.com/course/baseball1/",
+        "duration": "3 total hours",
+        "platform": "Udemy",
+        "instructor": "Charles Redmond",
+        "course_name": "Baseball Database Queries with SQL and dplyr",
+        "description": "Explaining the relationship between SQL and dplyr with baseball examples."
+      },
+      {
+        "links": "https://www.udemy.com/course/sql-for-newcomers-free/",
+        "duration": "2 total hours",
+        "platform": "Udemy",
+        "instructor": "Sameh Sharaf",
+        "course_name": "SQL for Newcomers - A Crash Course",
+        "description": "A course optimized to master SQL quickly"
+      },
+      {
+        "links": "https://www.udemy.com/course/fundamentals-of-sql/",
+        "duration": "2 total hours",
+        "platform": "Udemy",
+        "instructor": "Ajay Dhruv, Ph.D., Sharvari Satose, Sejal Shriyan, Sejal Jadhav",
+        "course_name": "Fundamentals of SQL",
+        "description": "Learn how to write and execute SQL queries in a simpler way."
+      },
+      {
+        "links": "https://www.udemy.com/course/microsoft-sql-for-beginners-sql-server-and-t-sql/",
+        "duration": "2 total hours",
+        "platform": "Udemy",
+        "instructor": "Vimal Vachhani",
+        "course_name": "Microsoft SQL for Beginners (SQL Server and T-SQL)",
+        "description": "Learn the basic of SQL and SQL Server with no previous experience needed!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-oracle-sql-certification-course/",
+        "duration": "16.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Job Ready Programmer",
+        "course_name": "The Complete Oracle SQL Certification Course",
+        "description": "Don't Just Learn the SQL Language, Become Job-Ready and Launch Your Career as a Certified Oracle SQL Developer!"
+      }
+    
+  
+]

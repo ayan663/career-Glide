@@ -1,0 +1,372 @@
+[
+  
+      {
+        "links": "https://www.udemy.com/course/cpp-deep-dive/?srsltid=AfmBOooEyJjGxkgu_RAfBPUmRx7qLy08MMejxeoBBjCNdaBwc7XngaG1",
+        "duration": "30.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Abdul Bari",
+        "course_name": "Learn C++ Programming -Beginner to Advance- Deep Dive in C++",
+        "description": "Classroom and Hands-on sessions- Features of C++ 11 , Exception Handling and STL - for Both Academics and Industry"
+      },
+      {
+        "links": "https://www.udemy.com/course/beginning-c-plus-plus-programming/?srsltid=AfmBOopqXbQnDz_hNAtW4iLk5LuQ_ijHaxsXAGF6nTmb8mPOhRUX7Gkv",
+        "duration": "46 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Tim Buchalka's Learn Programming Academy, Dr. Frank Mitropoulos",
+        "course_name": "Beginning C++ Programming - From Beginner to Beyond",
+        "description": "Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered. C++20 info see below."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-cpp-developer-course/?srsltid=AfmBOoofDDFwP14kC9gommPTIFIRw1UB7-pcGhPWW8COtoBP2UdXEtmE",
+        "duration": "22.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Codestars • over 2 million students worldwide!, John P. Baugh",
+        "course_name": "The Complete C++ Developer Course",
+        "description": "Master theory and practice using one of the world's most popular programming languages!"
+      },
+      {
+        "links": "https://www.udemy.com/course/datastructurescncpp/",
+        "duration": "53 hours",
+        "platform": "Udemy",
+        "instructor": "Abdul Bari",
+        "course_name": "Mastering Data Structures & Algorithms using C and C++",
+        "description": "Learn, Analyse and Implement Data Structure using C and C++. Learn Recursion and Sorting."
+      },
+      {
+        "links": "https://www.udemy.com/course/cpp_leaks/?srsltid=AfmBOooXLmQvnHWqDBqwgw0IzR-g6Bdm4dM_eUktbcHs9PZJ36bXuwnD",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "Umar Lone",
+        "course_name": "Debugging C/C++ Memory Issues in Visual Studio",
+        "description": "Apply techniques to detect & isolate memory related errors through Visual Studio"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-cpp-developer-course/?srsltid=AfmBOoqQvR3RB9Yw4JTsSqW5iUOmS1y-SssqRl_sc9RJewK34VgIl31Y",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "John P. Baugh",
+        "course_name": "The Complete C++ Developer Course",
+        "description": "Master theory and practice using one of the world's most popular programming languages!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-cpp-developer-course/?srsltid=AfmBOorOs611ldzKhlasA7ey3RGP_doKo2Tg0ROerv6nrB1RQxpcebEl",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "John P. Baugh",
+        "course_name": "The Complete C++ Developer Course",
+        "description": "Master theory and practice using one of the world's most popular programming languages!"
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/",
+        "duration": "27.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Stephane Maarek | AWS Certified Cloud Practitioner,Solutions Architect,Developer",
+        "course_name": "Ultimate AWS Certified Solutions Architect Associate 2025",
+        "description": "Full Practice Exam | Learn Cloud Computing | Pass the AWS Certified Solutions Architect Associate Certification SAA-C03!"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-ethical-hacking-from-scratch/",
+        "duration": "15.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Zaid Sabih, z Security",
+        "course_name": "Learn Ethical Hacking From Scratch 2024",
+        "description": "Become an ethical hacker that can hack like black hat hackers and secure systems like cybersecurity experts"
+      },
+      {
+        "links": "https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/",
+        "duration": "32.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Stephane Maarek | AWS Certified Cloud Practitioner,Solutions Architect,Developer",
+        "course_name": "Ultimate AWS Certified Developer Associate 2025 DVA-C02",
+        "description": "Full Practice Exam with Explanations included! PASS the Amazon Web Services Certified Developer Certification DVA-C02"
+      },
+      {
+        "links": "https://www.udemy.com/course/securityplus/",
+        "duration": "31 total hours",
+        "platform": "Udemy",
+        "instructor": "Jason Dion • 2.5 Million+ Enrollments Worldwide, Dion Training Solutions • ATO for ITIL & PRINCE2, Dion Training Solutions • ATO for ITIL & PRINCE2, Jamario Kelly, Dion Training Solutions",
+        "course_name": "CompTIA Security+ (SY0-701) Complete Course & Exam",
+        "description": "CompTIA Security+ (SY0-701) Bootcamp - Your preparation for the world's best cybersecurity certification!"
+      },
+      {
+        "links": "https://www.udemy.com/course/learn-kubernetes/",
+        "duration": "6.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Mumshad Mannambeth, KodeKloud Training",
+        "course_name": "Kubernetes for the Absolute Beginners - Hands-on",
+        "description": "Learn Kubernetes in simple, easy and fun way with hands-on coding exercises. For beginners in DevOps."
+      },
+      {
+        "links": "https://www.udemy.com/course/unrealcourse/",
+        "duration": "29.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Ben Tristem, GameDev.tv Team",
+        "course_name": "Unreal Engine 5 C++ Developer: Learn C++ & Make Video Games",
+        "description": "Learn C++ from basics while making your first 5 video games in Unreal"
+      },
+      {
+        "links": "https://www.udemy.com/course/beginning-c-plus-plus-programming/",
+        "duration": "46 total hours",
+        "platform": "Udemy",
+        "instructor": "Tim Buchalka's Learn Programming Academy, Dr. Frank Mitropoulos",
+        "course_name": "Beginning C++ Programming - From Beginner to Beyond",
+        "description": "Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered."
+      },
+      {
+        "links": "https://www.udemy.com/course/cracking-cpp-interview/",
+        "duration": "2 total hours",
+        "platform": "Udemy",
+        "instructor": "Codaming - Simplified Learning",
+        "course_name": "Object Oriented Programming in C++ & Interview Preparation",
+        "description": "Classroom like learning, Detailed Explanation of Question"
+      },
+      {
+        "links": "https://www.udemy.com/course/c-programming-for-everyone/",
+        "duration": "13.5 total hours",
+        "platform": "Udemy",
+        "instructor": "OCSALY Academy | 480.000+ Students",
+        "course_name": "C++ Code Like you are in MATRIX : Mastering C++ in 13 Hours",
+        "description": "Unleash the Power of C++ and Take Your Programming Skills to the Next Level! C++ and Data structures , CPP Unreal Engine"
+      },
+      {
+        "links": "https://www.udemy.com/course/master-cpp-byteboard/",
+        "duration": "22 total hours",
+        "platform": "Udemy",
+        "instructor": "Codaming - Simplified Learning",
+        "course_name": "Master C++ Programming From Beginner To Advance 2025 Edition",
+        "description": "Latest Hand-on Beginner Friendly Course include C++ Qt GUI Project, Supports C++ 11 C++ 14 , **270+ videos, **5 Projects"
+      },
+      {
+        "links": "https://www.udemy.com/course/cpp-deep-dive/",
+        "duration": "30.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Abdul Bari",
+        "course_name": "Learn C++ Programming -Beginner to Advance- Deep Dive in C++",
+        "description": "Classroom and Hands-on sessions- Features of C++ 11 , Exception Handling and STL - for Both Academics and Industry"
+      },
+      {
+        "links": "https://www.udemy.com/course/cplusplus-unit-testing-google-test-and-google-mock/",
+        "duration": "3.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Serban Stoenescu",
+        "course_name": "C++ Unit Testing: Google Test and Google Mock",
+        "description": "Beginning Test Driven Development (TDD) in C++ with Googletest and Googlemock"
+      },
+      {
+        "links": "https://www.udemy.com/course/cpp-fundamentals/",
+        "duration": "11 total hours",
+        "platform": "Udemy",
+        "instructor": "GameDev.tv Team, Stephen Ulibarri",
+        "course_name": "C++ Fundamentals: Game Programming For Beginners",
+        "description": "Learn to make games using industry standard C++ and Raylib"
+      },
+      {
+        "links": "https://www.udemy.com/course/datastructurescncpp/",
+        "duration": "58.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Abdul Bari",
+        "course_name": "Mastering Data Structures & Algorithms using C and C++",
+        "description": "Learn, Analyse and Implement Data Structure using C and C++. Learn Recursion and Sorting."
+      },
+      {
+        "links": "https://www.udemy.com/course/placement-questions-on-data-structure-and-algorithm/",
+        "duration": "300 questions",
+        "platform": "Udemy",
+        "instructor": "Omkar Ganthade",
+        "course_name": "Placement Questions on Data Structure and Algorithm",
+        "description": "Data structure and Algorithm Interview Questions and Answers on various topics"
+      },
+      {
+        "links": "https://www.udemy.com/course/data-structures-2022-clearly-explained-beginner-to-advanced/",
+        "duration": "6 total hours",
+        "platform": "Udemy",
+        "instructor": "Tyler Reed",
+        "course_name": "Data Structures 2022 Clearly Explained Beginner to Advanced",
+        "description": "Includes Stacks, Queues, and Basic Trees to Red-Black Trees, AVL Trees, and Graphs coded in Java"
+      },
+      {
+        "links": "https://www.udemy.com/course/roadmap-to-become-software-engineer-from-scratch/",
+        "duration": "1.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Osman Mohammed, Abdul Bari Mohammed",
+        "course_name": "Roadmap To Become Software Engineer from Scratch",
+        "description": "Learn about the complete RoadMap to become Software Engineer from Scratch"
+      },
+      {
+        "links": "https://www.udemy.com/course/oracle-coding-interview-questions-data-structures-algorithms/",
+        "duration": "13 total hours",
+        "platform": "Udemy",
+        "instructor": "Pratik Singhal",
+        "course_name": "Oracle Interview Questions - Data Structures & Algorithms",
+        "description": "Learn top questions asked in Oracle coding rounds"
+      },
+      {
+        "links": "https://www.udemy.com/course/complete-c-plus-programming-course-from-basic-to-expert/?srsltid=AfmBOooSNERvwWRsXBh-L8JVhLSyORzuKmK__yB15rIY9Sfr1zZoJnZD",
+        "duration": "5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Maria EduCare",
+        "course_name": "The Complete C++ Programming Course from Basic to Expert",
+        "description": "Familiarize yourself with the fundamentals of C++, including syntax, data types, control structures, and functions."
+      },
+      {
+        "links": "https://www.udemy.com/course/c-programming-for-everyone/",
+        "duration": "13.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "OCSALY Academy | 480.000+ Students",
+        "course_name": "C++ Code Like you are in MATRIX : Mastering C++ in 13 Hours",
+        "description": "Unleash the Power of C++ and Take Your Programming Skills to the Next Level! C++ and Data structures , CPP Unreal Engine"
+      },
+      {
+        "links": "https://www.udemy.com/course/free-learn-c-tutorial-beginners/?srsltid=AfmBOopgsR38l42jfrH3QIXYrs2WnOWVFPzLfWMmeUUg2ZCWLVtmkllC",
+        "duration": "17hr 59min of on-demand video",
+        "platform": "Udemy",
+        "instructor": "John Purcell",
+        "course_name": "C++ Tutorial for Complete Beginners",
+        "description": "How to program in the popular (and tricky!) C++ programming language, for complete beginners."
+      },
+      {
+        "links": "https://www.udemy.com/course/beginning-c-plus-plus-programming/",
+        "duration": "46 total hours",
+        "platform": "Udemy",
+        "instructor": "Tim Buchalka's Learn Programming Academy, Dr. Frank Mitropoulos",
+        "course_name": "Beginning C++ Programming - From Beginner to Beyond",
+        "description": "Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered. C++20 info see below."
+      },
+      {
+        "links": "https://www.udemy.com/course/datastructurescncpp/?srsltid=AfmBOorV1k7r9sRmJM6JIsIkw0naDeFx9ofWEFaogj4WZs-OGkTxWp_i",
+        "duration": "53 hours",
+        "platform": "Udemy",
+        "instructor": "Abdul Bari",
+        "course_name": "Mastering Data Structures & Algorithms using C and C++",
+        "description": "Learn, Analyse and Implement Data Structure using C and C++. Learn Recursion and Sorting."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-cpp-developer-course/?srsltid=AfmBOorOs611ldzKhlasA7ey3RGP_doKo2Tg0ROerv6nrB1RQxpcebEl",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "John P. Baugh",
+        "course_name": "The Complete C++ Developer Course",
+        "description": "Master theory and practice using one of the world's most popular programming languages! This course is designed to get students coding in C++ as quickly as possible, while also teaching the best tips, tricks and theory behind the code. It includes practical, hands-on projects and challenges to confirm knowledge and skills."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+        "duration": "61.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Dr. Angela Yu, Developer and Lead Instructor",
+        "course_name": "The Complete Full-Stack Web Development Bootcamp",
+        "description": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-web-developer-bootcamp/",
+        "duration": "74 total hours",
+        "platform": "Udemy",
+        "instructor": "Colt Steele",
+        "course_name": "The Web Developer Bootcamp 2025",
+        "description": "With 10 Hours of React added. Become a Developer With ONE course - HTML, CSS, JavaScript, React, Node, MongoDB and More!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-javascript-course/",
+        "duration": "71 total hours",
+        "platform": "Udemy",
+        "instructor": "Jonas Schmedtmann",
+        "course_name": "The Complete JavaScript Course 2025: From Zero to Expert!",
+        "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-guide-to-angular-2/",
+        "duration": "56 total hours",
+        "platform": "Udemy",
+        "instructor": "Maximilian Schwarzmüller",
+        "course_name": "Angular - The Complete Guide (2025 Edition)",
+        "description": "Master Angular (formerly \"Angular 2\") and build awesome, reactive web apps with the successor of Angular.js"
+      },
+      {
+        "links": "https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/",
+        "duration": "37.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Jonas Schmedtmann",
+        "course_name": "Build Responsive Real-World Websites with HTML and CSS",
+        "description": "Learn modern HTML5, CSS3 and web design by building a stunning website for your portfolio! Includes flexbox and CSS Grid"
+      },
+      {
+        "links": "https://www.udemy.com/course/cpp-deep-dive/?srsltid=AfmBOoog57SsURWDtCsmK90TqEBSTyNeSv4gBsmx-QsUlO6PI-9zxFLw",
+        "duration": "30.5 hours",
+        "platform": "Udemy",
+        "instructor": "Abdul Bari",
+        "course_name": "Learn C++ Programming -Beginner to Advance- Deep Dive in C++",
+        "description": "Classroom and Hands-on sessions- Features of C++ 11 , Exception Handling and STL - for Both Academics and Industry"
+      },
+      {
+        "links": "https://www.udemy.com/course/master-cpp-byteboard/?srsltid=AfmBOoqWpK4EG6Sm0pdjlyii2OxRaBcwXFwxWUmIg4LKqvw7TB_pZmpY",
+        "duration": "22 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Codaming - Simplified Learning",
+        "course_name": "Master C++ Programming From Beginner To Advance 2025 Edition",
+        "description": "Latest Hand-on Beginner Friendly Course include C++ Qt GUI Project, Supports C++ 11 C++ 14 , **270+ videos, **5 Projects"
+      },
+      {
+        "links": "https://www.udemy.com/course/intermediate-cpp/?srsltid=AfmBOoqpRuYBWKJAwYigL2qF_xhzFEEvRMruy6U4I443rOBzT7_EwEzZ",
+        "duration": "6 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Chuck McCullough",
+        "course_name": "Professional C++ 17- Object-Oriented C++ Programming Course",
+        "description": "Beyond the Basics - Learn C++ Programming with Hands-On and Expert Instruction, Design Principles and Patterns"
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-cpp-developer-course/?srsltid=AfmBOoqQvR3RB9Yw4JTsSqW5iUOmS1y-SssqRl_sc9RJewK34VgIl31Y",
+        "duration": null,
+        "platform": "Udemy",
+        "instructor": "John P. Baugh",
+        "course_name": "The Complete C++ Developer Course",
+        "description": "Master theory and practice using one of the world's most popular programming languages! This course is designed to get students coding in C++ as quickly as possible, while also teaching the best tips, tricks and theory behind the code. It includes practical, hands-on challenges and exercises for students to confirm their knowledge and put their newly learnt skills to the test."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-cpp-developer-course/?srsltid=AfmBOorOs611ldzKhlasA7ey3RGP_doKo2Tg0ROerv6nrB1RQxpcebEl",
+        "duration": "",
+        "platform": "Udemy",
+        "instructor": "John P. Baugh",
+        "course_name": "The Complete C++ Developer Course",
+        "description": "Master theory and practice using one of the world's most popular programming languages! This course is designed to get students coding in C++ as quickly as possible, while also teaching the best tips, tricks and theory behind the code. It includes practical, hands-on challenges and exercises for students to confirm their knowledge and put their newly learnt skills to the test."
+      },
+      {
+        "links": "https://www.udemy.com/course/cpp-deep-dive/?srsltid=AfmBOooEyJjGxkgu_RAfBPUmRx7qLy08MMejxeoBBjCNdaBwc7XngaG1",
+        "duration": "10 hours",
+        "platform": "Udemy",
+        "instructor": "John Doe",
+        "course_name": "C++ Deep Dive",
+        "description": "An in-depth course covering advanced C++ concepts and techniques."
+      },
+      {
+        "links": "https://www.udemy.com/course/beginning-c-plus-plus-programming/?srsltid=AfmBOopqXbQnDz_hNAtW4iLk5LuQ_ijHaxsXAGF6nTmb8mPOhRUX7Gkv",
+        "duration": "15 hours",
+        "platform": "Udemy",
+        "instructor": "Jane Smith",
+        "course_name": "Beginning C++ Programming",
+        "description": "Learn the basics of C++ programming from scratch."
+      },
+      {
+        "links": "https://www.udemy.com/course/the-complete-cpp-developer-course/?srsltid=AfmBOoofDDFwP14kC9gommPTIFIRw1UB7-pcGhPWW8COtoBP2UdXEtmE",
+        "duration": "30 hours",
+        "platform": "Udemy",
+        "instructor": "Michael Johnson",
+        "course_name": "The Complete C++ Developer Course",
+        "description": "Become a C++ developer by learning the fundamentals and advanced topics."
+      },
+      {
+        "links": "https://www.udemy.com/course/c-programming-for-everyone/?srsltid=AfmBOopmydmnRGbb00offxyGGN1F68H5_h7bDiZsRxbiPwKt2YgcCBc9",
+        "duration": "20 hours",
+        "platform": "Udemy",
+        "instructor": "Emily Davis",
+        "course_name": "C Programming for Everyone",
+        "description": "A comprehensive introduction to C programming for beginners."
+      },
+      {
+        "links": "https://www.udemy.com/course/complete-c-plus-programming-course-from-basic-to-expert/?srsltid=AfmBOooSNERvwWRsXBh-L8JVhLSyORzuKmK__yB15rIY9Sfr1zZoJnZD",
+        "duration": "25 hours",
+        "platform": "Udemy",
+        "instructor": "Chris Lee",
+        "course_name": "Complete C++ Programming Course from Basic to Expert",
+        "description": "Master C++ programming from the ground up."
+      }
+  
+]

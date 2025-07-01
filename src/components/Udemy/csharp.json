@@ -1,0 +1,244 @@
+[
+ 
+      {
+        "links": "https://www.udemy.com/course/csharp-beginner-to-advanced/",
+        "duration": "4 weeks",
+        "platform": "Udemy",
+        "instructor": "John Doe",
+        "course_name": "C# Programming for Beginners",
+        "description": "Learn the fundamentals of C# programming and build your first applications."
+      },
+      {
+        "links": "https://www.udemy.com/course/csharp-masterclass/",
+        "duration": "6 weeks",
+        "platform": "Udemy",
+        "instructor": "Jane Smith",
+        "course_name": "Mastering C#",
+        "description": "Advanced C# programming techniques for experienced developers."
+      },
+      {
+        "links": "https://www.udemy.com/course/complete-c-sharp-programming-course-beginner-to-expert/?srsltid=AfmBOooYupDbtIqMxnTcCB01i0cPjBgRsnKGhBt2dXGSiOWcIng8_zRa",
+        "duration": "26 Hours",
+        "platform": "Udemy",
+        "instructor": "Robert Gioia",
+        "course_name": "Complete C# Course – Beginner to Expert (C# 12 Updated 2024)",
+        "description": "Learn Professional C# Coding! 26 Hours of Content, 6 Hands-On Projects, Updated 2024 with C# 12 and .Net 8"
+      },
+      {
+        "links": "https://www.udemy.com/course/c-sharp-beginner-to-advanced/?srsltid=AfmBOor9manK4x3r5jYNYEScuN1AwDicb9SHaX6ecH9sJrtaRwt9Bp1i",
+        "duration": "8 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "TELCOMA Global",
+        "course_name": "C# in Depth: A Comprehensive Course (Beginner-To-Advanced)",
+        "description": "The most detailed course on C# for Beginners and Advanced Level i.e Lambda Expressions, LINQ, Extension Methods & OOP"
+      },
+      {
+        "links": "https://www.udemy.com/course/c-sharp-for-beginners/?srsltid=AfmBOoqKQ4rN1XLo2Ln0zm0a83NWNlFEPn_ls18ZlrgBBgFkp-BSnFCq&couponCode=ST8MT220425G3",
+        "duration": "7.5 hours",
+        "platform": "Udemy",
+        "instructor": "Infinite Skills",
+        "course_name": "Learning C# .NET - Programming for Beginners",
+        "description": "Learn to Program in C# .NET from an Expert. Over 100 Lessons that allow you to learn C# Programming at your own pace."
+      },
+      {
+        "links": "https://www.udemy.com/course/csharp-tutorial-for-beginners/?srsltid=AfmBOooCNq_GeGe5bPmMLPfKXjFGBrAE2UPVw-jA9w4ZjSdZURANStuI&couponCode=ST8MT220425G3",
+        "duration": "5 hours 24 minutes",
+        "platform": "Udemy",
+        "instructor": "Mosh Hamedani",
+        "course_name": "C# Basics for Beginners: Learn C# Fundamentals by Coding",
+        "description": "Master C# fundamentals in 6 hours - The most popular course with 50,000+ students, packed with tips and exercises!"
+      },
+      {
+        "links": "https://www.udemy.com/course/c-sharp-mastering-course-for-intermediates/?srsltid=AfmBOophPLnJvCTfxW8XVWCnGkZGgBBWWLuevg73ywas83UyoO9AW1JO",
+        "duration": "9 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Kioomars Jonood, Samaneh Mazidi Sharaf Abadi",
+        "course_name": "C# Mastering Course For Intermediates",
+        "description": "A step-by-step guide to classes, interfaces and Object-Oriented programming (OOP) with C#, Error handling and debugging"
+      },
+      {
+        "links": "https://www.udemy.com/course/how-to-create-sell-digital-products-courses-ebooks/",
+        "duration": "1hr 2min of on-demand video",
+        "platform": "Udemy",
+        "instructor": "Gamel Hoca",
+        "course_name": "How to Create & Sell Digital Products: Courses & Ebooks",
+        "description": "Learn to create, market and launch online courses. Step-by-step guide to online course creation & passive income success"
+      },
+      {
+        "links": "https://www.udemy.com/course/complete-c-sharp-programming-course-beginner-to-expert/?srsltid=AfmBOoorvRXBNNGr1HQOiDcpg8DeVpVo5AV7PlSJqjn89U-7R7CXXbTX",
+        "duration": "26 Hours",
+        "platform": "Udemy",
+        "instructor": "Robert Gioia",
+        "course_name": "Complete C# Course – Beginner to Expert (C# 12 Updated 2024)",
+        "description": "Learn Professional C# Coding! 26 Hours of Content, 6 Hands-On Projects, Updated 2024 with C# 12 and .Net 8"
+      },
+      {
+        "links": "https://www.udemy.com/course/csharp-beginner-to-advanced/?srsltid=AfmBOooBW8gYM6j2Nbv0WHdWHfU-6VtYUDzAgFv_QbFnUQJRw3GK_mMu",
+        "duration": "3 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Ervis Trupja",
+        "course_name": "Getting Started with C#",
+        "description": "Learn all you need to know to get started with C#"
+      },
+      {
+        "links": "https://www.udemy.com/course/c-sharp-programming/?srsltid=AfmBOooM7aJv7xYDlguaoMQgas-tXzZ7ipNQJiNVmNq_LPFEWozdEqxq",
+        "duration": "3hr 17min of on-demand video",
+        "platform": "Udemy",
+        "instructor": "Luke's Programming School",
+        "course_name": "C#: Start programming with C# (for complete beginners)",
+        "description": "C# programming for complete beginners. Create first application within few hours!"
+      },
+      {
+        "links": "https://www.udemy.com/course/c-sharp-programming-language/?srsltid=AfmBOor2A5QDVDFPkA7aipWILm77YNAgLxCQNISgla4nbVWzj3jhFxDH",
+        "duration": "3.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Zeeshan: C# Programming",
+        "course_name": "C# Programming: Start Coding in C#",
+        "description": "C# Programming: Learn the basics of C# programming with this complete C# programming course. C# programming from A-Z"
+      },
+      {
+        "links": "https://www.udemy.com/course/csharp-tutorial-for-beginners/?srsltid=AfmBOooQlgcwPEZGWcGevfYui7uhDKChxQOlhKXsvBiVrYKc5C1Mq9M7&couponCode=ST8MT220425G3",
+        "duration": "5 hours 24 minutes",
+        "platform": "Udemy",
+        "instructor": "Mosh Hamedani",
+        "course_name": "C# Basics for Beginners: Learn C# Fundamentals by Coding",
+        "description": "Master C# fundamentals in 6 hours - The most popular course with 50,000+ students, packed with tips and exercises!"
+      },
+      {
+        "links": "https://www.udemy.com/course/complete-csharp-masterclass/?srsltid=AfmBOoq1XeY3GqMS5azE0SRplg8d5wgxjp9f8kq9p3lQVP7KwpCkplZf",
+        "duration": "46 total hours, 483 lectures",
+        "platform": "Udemy",
+        "instructor": "Denis Panjuta, Tutorials.eu by Denis Panjuta",
+        "course_name": "Complete C# Masterclass",
+        "description": "Master C# Programming from A to Z. Dive deep into .NET, OOP, Clean Code, LINQ, WPF, Generics, Unit Testing, and more."
+      },
+      {
+        "links": "https://www.udemy.com/course/csharp-beginner-to-advanced/",
+        "duration": "4 weeks",
+        "platform": "Udemy",
+        "instructor": "John Doe",
+        "course_name": "C# Programming for Beginners",
+        "description": "Learn the fundamentals of C# programming and start building your own applications."
+      },
+      {
+        "links": "https://www.udemy.com/course/csharp-game-development/",
+        "duration": "8 weeks",
+        "platform": "Udemy",
+        "instructor": "Mike Johnson",
+        "course_name": "C# Game Development",
+        "description": "Create your own games using C# and Unity."
+      },
+      {
+        "links": "https://www.udemy.com/course/complete-c-sharp-programming-course-beginner-to-expert/?srsltid=AfmBOopPsf9UyTx43jsJFMwqLClmjt_k4zGGsmOAZZS81TZnr_2jlkHa",
+        "duration": "26 Hours",
+        "platform": "Udemy",
+        "instructor": "Robert Gioia",
+        "course_name": "Complete C# Course – Beginner to Expert (C# 12 Updated 2024)",
+        "description": "Learn Professional C# Coding! 26 Hours of Content, 6 Hands-On Projects, Updated 2024 with C# 12 and .Net 8"
+      },
+      {
+        "links": "https://www.udemy.com/course/c-sharp-beginner-to-advanced/?srsltid=AfmBOoo2vxgOajuTbCquKIovDu6YLca5GQvZQp8m-6JrFl1asdgd-OKl",
+        "duration": "8 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "TELCOMA Global",
+        "course_name": "C# in Depth: A Comprehensive Course (Beginner-To-Advanced)",
+        "description": "The most detailed course on C# for Beginners and Advanced Level i.e Lambda Expressions, LINQ, Extension Methods & OOP"
+      },
+      {
+        "links": "https://www.udemy.com/course/csharp-from-scratch/?srsltid=AfmBOoodkUg-cgsgcrX-uLWql6XAwsEt8AdHZXPgz_sJxJ8kJITYhm9e",
+        "duration": "26.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Manzoor Ahmed",
+        "course_name": "Learn C#.Net Core With Real World Examples",
+        "description": "Master C# and .NET Core through Hands-On, Real-World Projects!"
+      },
+      {
+        "links": "https://www.udemy.com/course/c-sharp-programming-language/?srsltid=AfmBOoola6FKHu1Msyy57XRvcFVpYITYT23h024NeJpzfL8ziNYoJ1Wc",
+        "duration": "3.5 hours on-demand video",
+        "platform": "Udemy",
+        "instructor": "Zeeshan: C# Programming",
+        "course_name": "C# Programming: Start Coding in C#. Complete C# Programming",
+        "description": "C# Programming: Learn the basics of C# programming with this complete C# programming course. C# programming from A-Z"
+      },
+      {
+        "links": "https://www.udemy.com/course/complete-csharp-masterclass/?srsltid=AfmBOorzCuYLT4JxGMPP6LnsAmxegceQHV_yiQEOhHu1LgKEFQiXOUId",
+        "duration": "46 total hours",
+        "platform": "Udemy",
+        "instructor": "Denis Panjuta, Tutorials.eu by Denis Panjuta",
+        "course_name": "Complete C# Masterclass",
+        "description": "Master C# Programming from A to Z. Dive deep into .NET, OOP, Clean Code, LINQ, WPF, Generics, Unit Testing, and more."
+      },
+      {
+        "links": "https://www.udemy.com/course/dependency-injection-in-net-core-2-and-aspnet-core-2/",
+        "duration": "2 total hours",
+        "platform": "Udemy",
+        "instructor": "Aref Karimi",
+        "course_name": "Dependency Injection in .NET and ASP.NET Core",
+        "description": "Master Dependency Injection in .NET and ASP.NET Core using C# + Interview Questions"
+      },
+      {
+        "links": "https://www.udemy.com/course/getting-started-with-net-core-clean-architecture/",
+        "duration": "4 total hours",
+        "platform": "Udemy",
+        "instructor": "Manish Narayan",
+        "course_name": "Getting Started with .NET Core Clean Architecture",
+        "description": ".NET Core Clean Architecture"
+      },
+      {
+        "links": "https://www.udemy.com/course/getting-started-net-core-microservices-rabbitmq/",
+        "duration": "4.5 total hours",
+        "platform": "Udemy",
+        "instructor": "Manish Narayan",
+        "course_name": "Getting Started .NET Core Microservices RabbitMQ",
+        "description": "Build .NET Core Microservices using RabbitMQ Messaging"
+      },
+      {
+        "links": "https://www.udemy.com/course/csharp-programming-for-beginners/",
+        "duration": "30 hours",
+        "platform": "Udemy",
+        "instructor": "John Doe",
+        "course_name": "C# Programming for Beginners",
+        "description": "Learn the fundamentals of C# programming and start building your own applications."
+      },
+      {
+        "links": "https://www.udemy.com/course/advanced-csharp-programming/",
+        "duration": "25 hours",
+        "platform": "Udemy",
+        "instructor": "Jane Smith",
+        "course_name": "Advanced C# Programming",
+        "description": "Take your C# skills to the next level with advanced programming techniques and best practices."
+      },
+      {
+        "links": "https://www.udemy.com/course/csharp-masterclass/",
+        "duration": "40 hours",
+        "platform": "Udemy",
+        "instructor": "Mike Johnson",
+        "course_name": "C# Masterclass: Learn C# and Unity Game Development",
+        "description": "Master C# programming and game development using Unity."
+      },
+      {
+        "links": "https://www.udemy.com/course/csharp-beginner-to-advanced/",
+        "duration": "30 hours",
+        "platform": "Udemy",
+        "instructor": "John Doe",
+        "course_name": "C# Programming for Beginners",
+        "description": "Learn the basics of C# programming and start your journey in software development."
+      },
+      {
+        "links": "https://www.udemy.com/course/complete-csharp-masterclass/",
+        "duration": "40 hours",
+        "platform": "Udemy",
+        "instructor": "Jane Smith",
+        "course_name": "Complete C# Masterclass",
+        "description": "Master C# programming with this comprehensive course covering all aspects of the language."
+      },
+      {
+        "links": "https://www.udemy.com/course/csharp-advanced-topics/",
+        "duration": "25 hours",
+        "platform": "Udemy",
+        "instructor": "Michael Johnson",
+        "course_name": "C# Advanced Topics",
+        "description": "Deep dive into advanced C# programming concepts and techniques."
+      }
+   
+]
